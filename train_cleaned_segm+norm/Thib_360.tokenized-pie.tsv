@@ -36,7 +36,8 @@ ma	ma
 dame	dame
 estre	estre
 oiz	oiz
-nele	nele
+ne	ne
+le	le
 de	de
 moi	moi
 pitiez	pitiez
@@ -62,8 +63,10 @@ fait	fait
 les	les
 amans	amans
 ꝯfus	confus
-q̃t	quet
-ropmentent	ropmentent
+q̃	que
+trop	trop
+m	m
+entent	entent
 li	li
 truant	trvant
 mes	mes
@@ -94,11 +97,9 @@ que	que
 piiez	prieez
 leu	leu
 en	en
-praign	pramgn
-e	e
+praigne	pramgne
 Onq̃s	Onques
-fiert	fiert
-en	en
+fierten	fierten
 ot	ot
 si	si
 grant	grant
@@ -108,7 +109,8 @@ iulius	julius
 que	que
 ma	ma
 dame	dame
-nen	nen
+n	n
+en	en
 ait	ait
 plus	plus
 uers	vers
@@ -122,8 +124,7 @@ est	est
 toziorz	tozjorz
 mes	mes
 esperiz	esperiz
-<UNK>	oonku
-nuit	nuit
+<UNK>nuit	ounkanuit
 <UNK>	oonku
 ior	jor
 li	li
@@ -149,7 +150,8 @@ toz	toz
 les	les
 sainz	sainz
 de	de
-lasus	lasus
+la	la
+sus	sus
 que	que
 se	se
 nus	nus
@@ -175,8 +177,7 @@ tolez	tolez
 uos	vos
 debonaires	debonaires
 diz	diz
-<UNK>	oonku
-me	me
+<UNK>me	monkime
 chaciez	chaciez
 com	com
 beste	beste
@@ -203,8 +204,8 @@ sont	sont
 si	si
 cop	cop
 pesant	pesant
-plust	plust
-rait	rait
+plus	plus
+trait	trait
 souuent	souvent
 q̃	que
 turs	turs
@@ -232,8 +233,7 @@ sui	sui
 esbahiz	esbahiz
 que	que
 lı	li
-conf	conf
-orz	orz
+conforz	conforz
 m	m
 en	en
 uient	vient
@@ -287,8 +287,7 @@ tost	tost
 nõ	non
 pas	pas
 a	a
-enuiz	enviz
-<UNK>	oonku
+enuiz<UNK>	enuizminr
 salue	salue
 nostre	nostre
 gent	gent
