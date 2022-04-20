@@ -1,283 +1,283 @@
-token	normalised
-Tant	Tant
-de	de
-chan	chan
-soulaz	soulaz
-que	que
-ie	je
-ai	ai
-pour	pour
-chanter	chanter
-	
-dame	dame
-mestuet	mestvet
-et	et
-guerpir	guerpir
-et	et
-leissier	leissier
-quant	quant
-ie	je
-ne	ne
-puiz	puiz
-en	en
-uous	vous
-merci	merci
-trouuer	trouver
-	
-trop	trop
-conuendra	convendra
-mes	mes
-chãcons	chancons
-empirier	emprrier
-pour	pour
-cele	cele
-laiz	laiz
-q̃	que
-ioie	joie
-mest	mest
-faillie	faillie
-quant	quant
-en	en
-uous	vous
-nai	nai
-atente	atente
-ne	ne
-fiance	fiance
-ne	ne
-ia	ja
-dail	dail
-leurs	leurs
-ne	ne
-quier	quier
-auoir	avoir
-aie	aie
-	
-tout	tout
-ai	ai
-perdu	perdu
-confort	confort
-et	et
-esperance	esperance
-Dame	dame
-de	de
-uous	vous
-ne	ne
-me	me
-sai	sai
-u	u
-clamer	clamer
-quar	quar
-sanz	sanz
-amour	amour
-ne	ne
-men	men
-puet	puet
-nus	nus
-uengier	vengier
-pour	pour
-ce	ce
-mestuet	mestvet
-pluz	pluz
-et	et
-pluz	pluz
-comparer	comparer
-uostre	vostre
-ualour	valour
-que	que
-mar	mar
-seu	seu
-acointier	acointier
-dont	dont
-mociez	mociez
-et	et
-ma	ma
-granz	granz
-mescheance	mescheance
-asi	asi
-de	de
-moi	moi
-tote	tote
-ioie	joie
-partie	partie
-	
-quen	quen
-lire	lire
-uif	vif
-dont	dont
-natent	natent
-aleiance	alefance
-Com	com
-escilliez	escilliez
-doit	doit
-seulement	seulement
-parl̃	parlm
-cil	cil
-qui	qui
-amours	amours
-puet	puet
-si	si
-desconseillier	desconseillier
-ꝯ	com
-el	el
-fait	fait
-moi	moi
-que	que
-ne	ne
-mi	mi
-seu	seu
-guarder	guarder
-si	si
-croi	croi
-ma	ma
-mort	mort
-quant	quant
-ma	ma
-uolente	volente
-quier	quier
-ie	je
-nel	nel
-di	di
-pas	pas
-dame	dame
-par	par
-felenie	felenie
-maiz	maiz
-hom	hom
-destroiz	destroiz
-est	est
-touz	touz
-iours	jours
-en	en
-balan	balan
-ce	ce
-et	et
-si	si
-aim	aim
-tant	tant
-la	la
-uostre	vostre
-ꝯpaignie	compaignie
-que	que
-li	li
-desus	desus
-double	double
-ma	ma
-mesestance	mesestance
-Diex	diex
-qui	qui
-porroit	porroit
-si	si
-grant	grant
-amou	amou
-ter	ter
-qui	qui
-touz	touz
-iours	jours
-croist	croist
-et	et
-peticier	peticier
-par	par
-mon	mon
-fin	fin
-cuer	cuer
-cr	cr
-oublier	oublier
-	
-ce	ce
-que	que
-trop	trop
-uei	vei
-mestier	mestier
-ie	je
-ne	ne
-faiz	faiz
-sens	sens
-lie	lie
-maiz	maiz
-si	si
-me	me
-uaint	vaint
-sance	sance
-tant	tant
-aen	aen
-li	li
-biau	biau
-que	que
-me	me
-destruit	destruit
-raison	raison
-Ce	Ce
-me	me
-parfait	parfait
-du	du
-quailleurs	quailleurs
-ne	ne
-puis	puis
-si	si
-changier	changier
-dont	dont
-ie	je
-ne	ne
-p	p
-celer	celer
-uers	vers
-uous	vous
-dame	dame
-qui	qui
-proier	proier
-orgeuz	orgeuz
-aia	aia
-mainre	mainre
-hie	hie
-pour	pour
-uous	vous
-en	en
-ai	ai
-souuen	souven
-te	te
-pesance	pesance
-mes	mes
-se	se
-dieu	dieu
-plaist	plaist
-u	u
-uroiz	vroiz
-ia	ja
-enuie	envie
-	
-de	de
-cel	cel
-uoloir	voloir
-qui	qui
-bienz	bienz
-desauance	desavance
-Ha	ma
-	
-cuens	cuens
-de	de
-blois	blois
-amours	amours
-est	est
-malbaillie	malballlie
-	
-sele	sele
-mocit	mocit
-quel	quel
-roiame	roiame
-de	de
-france	france
-	
-ne	ne
-sera	sera
-maiz	maiz
-si	si
-loiaument	loiaument
-seruie	seruie
-neis	neis
-de	de
-uous	vous
-quar	quar
-ie	je
-lapris	lapris
-dẽ	dsn
-fance	fance
+token	lemma	POS	morph	treated
+Tant	tant	ADVgen	DEGRE=-	Tant
+de	de	PRE	MORPH=empty	de
+chan	champ	NOMcom	NOMB.=s|GENRE=m|CAS=r	chan
+soulaz	soler1	NOMcom	NOMB.=s|GENRE=m|CAS=r	soulaz
+que	que2	PROrel	NOMB.=s|CAS=r	que
+ie	je	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=n	ie
+ai	avoir	VERcjg	MODE=ind|TEMPS=pst|PERS.=1|NOMB.=s	ai
+pour	por2	PRE	MORPH=empty	pour
+chanter	chanter	VERinf	MORPH=empty	chanter
+		PONfbl	MORPH=empty	
+dame	dame	NOMcom	NOMB.=s|GENRE=f|CAS=r	dame
+mestuet	mestier	VERppe	MODE=sub|NOMB.=s	mestuet
+et	et	CONcoo	MORPH=empty	et
+guerpir	guerpir	VERinf	MORPH=empty	guerpir
+et	et	CONcoo	MORPH=empty	et
+leissier	laissier	VERinf	MORPH=empty	leissier
+quant	cant1	CONsub	MORPH=empty	quant
+ie	je	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=n	ie
+ne	ne1	ADVneg	MORPH=empty	ne
+puiz	pöoir	VERcjg	MODE=ind|TEMPS=pst|PERS.=1|NOMB.=s	puiz
+en	en1	PRE	MORPH=empty	en
+uous	vostre	DETind	PERS.=2|NOMB.=p|GENRE=f|CAS=i	uous
+merci	merci	NOMcom	NOMB.=s|GENRE=f|CAS=r	merci
+trouuer	trover	VERinf	MORPH=empty	trouuer
+		PONfbl	MORPH=empty	
+trop	trop	ADVgen	DEGRE=-	trop
+conuendra	conoistre	VERcjg	MODE=ind|TEMPS=fut|PERS.=3|NOMB.=s	conuendra
+mes	mon1	DETpos	PERS.=1|NOMB.=p	mes
+chãcons	chascun	NOMcom	NOMB.=p|GENRE=m	chãcons
+empirier	empirier	VERinf	MORPH=empty	empirier
+pour	por2	PRE	MORPH=empty	pour
+cele	cel	DETdem	NOMB.=s|GENRE=f|CAS=r	cele
+laiz	lait1	NOMcom	NOMB.=s|GENRE=f|CAS=r|DEGRE=p	laiz
+q̃	que4	CONsub	GENRE=f	q̃
+ioie	vieil	NOMcom	NOMB.=s|CAS=r	ioie
+mest	metre2	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s	mest
+faillie	falir	VERppe	NOMB.=s|GENRE=f|CAS=r	faillie
+quant	cant1	CONsub	MORPH=empty	quant
+en	en1	PRE	MORPH=empty	en
+uous	vos	NOMcom	PERS.=2|NOMB.=p|GENRE=m|CAS=i	uous
+nai	naistre	NOMcom	PERS.=1|NOMB.=s	nai
+atente	atente	VERcjg	NOMB.=s|GENRE=f|CAS=r	atente
+ne	ne2	CONcoo	MORPH=empty	ne
+fiance	fïance	NOMcom	NOMB.=s|GENRE=f|CAS=n	fiance
+ne	ne2	CONcoo	MORPH=empty	ne
+ia	ja	ADVgen	MODE=ind|TEMPS=pst|NOMB.=s	ia
+dail	deus	NOMcom	NOMB.=s|GENRE=m|CAS=n	dail
+leurs	lor2	PROper	PERS.=3|NOMB.=p|GENRE=m|CAS=r	leurs
+ne	ne1	ADVneg	MORPH=empty	ne
+quier	querre	VERcjg	MODE=ind|PERS.=1|NOMB.=s	quier
+auoir	avoir	VERinf	MORPH=empty	auoir
+aie	avoir	VERcjg	MODE=sub|NOMB.=s|GENRE=f	aie
+		PONfbl	MORPH=empty	
+tout	tot	PROind	NOMB.=s|GENRE=n|CAS=r	tout
+ai	avoir	VERcjg	MODE=ind|TEMPS=pst|PERS.=1|NOMB.=s	ai
+perdu	perdre	VERppe	NOMB.=s|GENRE=m|CAS=r	perdu
+confort	confort	NOMcom	NOMB.=s|GENRE=m|CAS=r	confort
+et	et	CONcoo	MORPH=empty	et
+esperance	esperance	NOMcom	NOMB.=s|GENRE=f|CAS=r	esperance
+Dame	dame	NOMcom	NOMB.=s|GENRE=f|CAS=n	Dame
+de	de	PRE	MORPH=empty	de
+uous	vos	PROper	PERS.=2|NOMB.=p|GENRE=m|CAS=i	uous
+ne	ne1	ADVneg	MORPH=empty	ne
+me	je	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=r	me
+sai	savoir	VERcjg	MODE=ind|TEMPS=pst|PERS.=1|NOMB.=s	sai
+u	o3	CONcoo	NOMB.=s	u
+clamer	clamer	VERinf	NOMB.=s	clamer
+quar	car	CONcoo	MORPH=empty	quar
+sanz	sans	PRE	MORPH=empty	sanz
+amour	amor	NOMcom	NOMB.=s|GENRE=f|CAS=r	amour
+ne	ne1	CONcoo	MORPH=empty	ne
+men	je	PROpos	PERS.=1|NOMB.=s|GENRE=m|CAS=r	men
+puet	pöoir	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s	puet
+nus	nos1	PROind	NOMB.=p|GENRE=m|CAS=n	nus
+uengier	ongevoir1	VERinf	MORPH=empty	uengier
+pour	por2	PRE	MORPH=empty	pour
+ce	ce1	PROdem	NOMB.=s|GENRE=n|CAS=r	ce
+mestuet	mestier	NOMcom	MODE=sub|NOMB.=s|CAS=r	mestuet
+pluz	plus	ADVgen	DEGRE=-	pluz
+et	et	CONcoo	MORPH=empty	et
+pluz	plus	ADVgen	DEGRE=-	pluz
+comparer	comparer2	VERinf	MORPH=empty	comparer
+uostre	vostre	DETpos	PERS.=2|NOMB.=s|GENRE=f|CAS=r	uostre
+ualour	voloir	NOMcom	NOMB.=s|GENRE=f|CAS=r	ualour
+que	que4	CONsub	MORPH=empty	que
+mar	mar	ADVgen	MORPH=empty	mar
+seu	savoir	VERcjg	PERS.=3|NOMB.=s|GENRE=m	seu
+acointier	acointier	VERinf	NOMB.=s|GENRE=m	acointier
+dont	dont	ADVgen	NOMB.=s	dont
+mociez	mochier	VERppe	NOMB.=s|GENRE=m|CAS=n	mociez
+et	et	CONcoo	MORPH=empty	et
+ma	mon1	DETpos	PERS.=1|NOMB.=s|GENRE=f|CAS=n	ma
+granz	grant	ADJqua	NOMB.=s|GENRE=f|CAS=n|DEGRE=p	granz
+mescheance	meschëance	NOMcom	NOMB.=s|GENRE=f|CAS=n	mescheance
+asi	ainsi	VERcjg	MODE=ind|PERS.=3	asi
+de	de	PRE	MORPH=empty	de
+moi	je	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=i	moi
+tote	tot	DETind	NOMB.=s|GENRE=f|CAS=r	tote
+ioie	aide	ADJqua	NOMB.=s|GENRE=f|CAS=r	ioie
+partie	partie	NOMcom	NOMB.=s|GENRE=f|CAS=r	partie
+		PONfbl	MORPH=empty	
+quen	conte1	CONsub	MORPH=empty	quen
+lire	lire1	VERinf	NOMB.=s	lire
+uif	ui	VERcjg	NOMB.=s|GENRE=m|CAS=n|DEGRE=-	uif
+dont	dont	PROrel	NOMB.=s	dont
+natent	naite	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s	natent
+aleiance	aleance	NOMcom	NOMB.=s|GENRE=f|CAS=r	aleiance
+Com	come1	CONsub	MORPH=empty	Com
+escilliez	essillier	VERppe	NOMB.=s|GENRE=m|CAS=n	escilliez
+doit	devoir	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s	doit
+seulement	solement2	ADVgen	DEGRE=-	seulement
+parl̃	parler	NOMcom	NOMB.=s	parl̃
+cil	cel	PROdem	NOMB.=s|GENRE=m|CAS=n	cil
+qui	qui	PROrel	NOMB.=s|GENRE=m|CAS=n	qui
+amours	amor	NOMcom	NOMB.=s|GENRE=f|CAS=n	amours
+puet	pöoir	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s	puet
+si	si	ADVgen	DEGRE=-	si
+desconseillier	desconseillier	VERinf	MORPH=empty	desconseillier
+ꝯ	'	CONcoo	MORPH=empty	ꝯ
+el	en1+le	PROper	PERS.=3|NOMB.=s|GENRE=n|CAS=r	el
+fait	faire	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s|GENRE=m	fait
+moi	je	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=r	moi
+que	que4	CONsub	MORPH=empty	que
+ne	ne2	ADVneg	MORPH=empty	ne
+mi	mon1	PROper	PERS.=1|NOMB.=s|GENRE=m	mi
+seu	savoir	NOMcom	NOMB.=s|GENRE=m	seu
+guarder	garder	VERinf	MORPH=empty	guarder
+si	si	ADVgen	DEGRE=-	si
+croi	croire	VERcjg	MODE=ind|PERS.=2|NOMB.=s	croi
+ma	mon1	DETpos	PERS.=1|NOMB.=s|GENRE=f|CAS=r	ma
+mort	mort	NOMcom	NOMB.=s|GENRE=f|CAS=r	mort
+quant	cant1	CONsub	MORPH=empty	quant
+ma	mon1	DETpos	PERS.=1|NOMB.=s|GENRE=f|CAS=n	ma
+uolente	volenté	NOMcom	MODE=sub|NOMB.=s|GENRE=f|CAS=n	uolente
+quier	querre	VERcjg	TEMPS=pst|PERS.=1|NOMB.=s	quier
+ie	je	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=n	ie
+nel	ne1+il	ADVneg.PROper	PERS.=3|NOMB.=s|GENRE=n|CAS=r	nel
+di	dire	VERcjg	MODE=ind|PERS.=1|NOMB.=s	di
+pas	pas	ADVneg	MORPH=empty	pas
+dame	dame	NOMcom	NOMB.=s|GENRE=f|CAS=n	dame
+par	par	PRE	MORPH=empty	par
+felenie	felonie	NOMcom	NOMB.=s|GENRE=f|CAS=r	felenie
+maiz	mais1	CONcoo	GENRE=m|CAS=n	maiz
+hom	ome	NOMcom	NOMB.=s|GENRE=m|CAS=n	hom
+destroiz	destroit	ADJqua	NOMB.=s|GENRE=m|CAS=n	destroiz
+est	estre1	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s	est
+touz	tot	DETind	GENRE=m|CAS=n	touz
+iours	jor	NOMcom	NOMB.=p|GENRE=m|CAS=n|DEGRE=p	iours
+en	en1	PRE	MORPH=empty	en
+balan	Balan	ADJqua	NOMB.=s|GENRE=m|CAS=r	balan
+ce	ce1	PROdem	NOMB.=s|GENRE=n|CAS=r	ce
+et	et	CONcoo	MORPH=empty	et
+si	si	ADVgen	DEGRE=-	si
+aim	amer1	VERcjg	MODE=ind|TEMPS=pst|PERS.=1|NOMB.=s	aim
+tant	tant	ADVgen	DEGRE=-	tant
+la	le	DETdef	NOMB.=s|GENRE=f|CAS=r	la
+uostre	vostre	ADJpos	PERS.=2|NOMB.=s|GENRE=f|CAS=r	uostre
+ꝯpaignie	Pagine	NOMcom	NOMB.=s|GENRE=f|CAS=r	ꝯpaignie
+que	que4	CONsub	NOMB.=s	que
+li	le	DETdef	NOMB.=s|GENRE=m|CAS=n	li
+desus	desus	ADVgen	MORPH=empty	desus
+double	doble	VERcjg	MODE=sub|TEMPS=pst|PERS.=3|NOMB.=s|CAS=n	double
+ma	mon1	DETpos	PERS.=1|NOMB.=s|GENRE=f|CAS=n	ma
+mesestance	mesestance	NOMcom	NOMB.=s|GENRE=f|CAS=n	mesestance
+Diex	Dieu	NOMpro	NOMB.=s|GENRE=m|CAS=n	Diex
+qui	qui	PROrel	NOMB.=s|GENRE=m|CAS=n	qui
+porroit	pöoir	VERcjg	MODE=con|PERS.=3|NOMB.=s	porroit
+si	si	ADVgen	DEGRE=-	si
+grant	grant	ADJqua	NOMB.=s|GENRE=m|CAS=r|DEGRE=p	grant
+amou	amont	NOMcom	NOMB.=s|GENRE=m|CAS=r	amou
+ter	terre	ADVgen	NOMB.=s|GENRE=m	ter
+qui	qui	PROrel	NOMB.=s|GENRE=m|CAS=n	qui
+touz	tot	DETind	GENRE=m|CAS=r	touz
+iours	jor	NOMcom	NOMB.=p|GENRE=m|CAS=r|DEGRE=p	iours
+croist	croistre	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s	croist
+et	et	CONcoo	MORPH=empty	et
+peticier	Petit	VERinf	NOMB.=s	peticier
+par	par	PRE	MORPH=empty	par
+mon	mon1	DETpos	PERS.=1|NOMB.=s|GENRE=m|CAS=r	mon
+fin	fin2	ADJqua	NOMB.=s|GENRE=m|CAS=r|DEGRE=p	fin
+cuer	cuer2	NOMcom	NOMB.=s|GENRE=m|CAS=r	cuer
+cr	croire	CONcoo	GENRE=m	cr
+oublier	oblïer	VERinf	NOMB.=s	oublier
+		PONfbl	MORPH=empty	
+ce	ce1	PROdem	NOMB.=s|GENRE=n|CAS=r	ce
+que	que2	PROrel	NOMB.=s|GENRE=n|CAS=r	que
+trop	trop	ADVgen	DEGRE=-	trop
+uei	ueil	VERcjg	MODE=ind|TEMPS=pst|PERS.=1|NOMB.=s	uei
+mestier	mestier	NOMcom	NOMB.=s|GENRE=m|CAS=r	mestier
+ie	je	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=n	ie
+ne	ne1	ADVneg	MORPH=empty	ne
+faiz	faire	VERcjg	MODE=ind|PERS.=2|NOMB.=s	faiz
+sens	sans	NOMcom	NOMB.=s|CAS=r	sens
+lie	lié1	ADJqua	NOMB.=s|GENRE=f|CAS=n|DEGRE=p	lie
+maiz	mais1	CONcoo	NOMB.=p|CAS=n	maiz
+si	si	ADVgen	DEGRE=-	si
+me	je	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=i	me
+uaint	venir	VERcjg	MODE=sub|TEMPS=pst|PERS.=3|NOMB.=s	uaint
+sance	sanse	NOMcom	NOMB.=s|CAS=r	sance
+tant	tant	ADVgen	DEGRE=-	tant
+aen	amer1	PRE	NOMB.=s	aen
+li	le	DETdef	NOMB.=s|GENRE=m|CAS=n	li
+biau	bel1	NOMcom	NOMB.=s|GENRE=m|CAS=n|DEGRE=p	biau
+que	que2	CONsub	CAS=n	que
+me	je	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=i	me
+destruit	destruire	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s	destruit
+raison	raison	NOMcom	NOMB.=s|GENRE=f|CAS=r	raison
+Ce	ce1	PROdem	NOMB.=s|GENRE=n|CAS=n	Ce
+me	je	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=i	me
+parfait	parfaire	VERcjg	MODE=ind|PERS.=2|NOMB.=s	parfait
+du	de+le	PRE.DETdef	NOMB.=s|GENRE=m|CAS=r	du
+quailleurs	calorre	NOMcom	NOMB.=p|GENRE=m|CAS=r	quailleurs
+ne	ne2	ADVneg	MORPH=empty	ne
+puis	pöoir	VERcjg	MODE=ind|TEMPS=pst|PERS.=1|NOMB.=s	puis
+si	si	ADVgen	DEGRE=-	si
+changier	changier	VERinf	MORPH=empty	changier
+dont	dont	PROrel	NOMB.=s|GENRE=m|CAS=i	dont
+ie	je	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=n	ie
+ne	ne1	ADVneg	MORPH=empty	ne
+p	pöoir	PROadv	PERS.=3	p
+celer	celer1	VERinf	MODE=ind	celer
+uers	vors1	PRE	MORPH=empty	uers
+uous	vostre	DETndf	PERS.=2|NOMB.=p|GENRE=f|CAS=i	uous
+dame	dame	NOMcom	NOMB.=s|GENRE=f|CAS=n	dame
+qui	qui	PROrel	NOMB.=s|GENRE=f|CAS=n	qui
+proier	priier	VERinf	MORPH=empty	proier
+orgeuz	orgoil	NOMcom	NOMB.=s|GENRE=m|CAS=r	orgeuz
+aia	avoir	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s	aia
+mainre	maint	VERinf	NOMB.=s|GENRE=f|CAS=r	mainre
+hie	avoir	ADVgen	MODE=sub|CAS=r	hie
+pour	por2	PRE	MORPH=empty	pour
+uous	vos	PROper	PERS.=2|NOMB.=p|GENRE=m|CAS=i	uous
+en	en2	PROadv	MORPH=empty	en
+ai	avoir	VERcjg	MODE=ind|TEMPS=pst|PERS.=1|NOMB.=s	ai
+souuen	sovenir	ADJqua	NOMB.=s|CAS=r|DEGRE=p	souuen
+te	tu	PROper	PERS.=2|NOMB.=s|GENRE=m|CAS=r	te
+pesance	Pesance	NOMcom	MODE=sub|NOMB.=s|GENRE=f|CAS=r	pesance
+mes	mais1	CONcoo	MORPH=empty	mes
+se	se	CONsub	MORPH=empty	se
+dieu	Dieu	NOMcom	NOMB.=s|GENRE=m|CAS=n	dieu
+plaist	plaire	VERcjg	MODE=ind|PERS.=3|NOMB.=s	plaist
+u	o3	CONcoo	MORPH=empty	u
+uroiz	vëoir	VERcjg	MODE=ind|NOMB.=s|GENRE=f|CAS=r	uroiz
+ia	ja	ADVgen	TEMPS=pst|DEGRE=-	ia
+enuie	enui	NOMcom	NOMB.=s|GENRE=f|CAS=r	enuie
+		PONfbl	MORPH=empty	
+de	de	PRE	MORPH=empty	de
+cel	cel	DETdem	NOMB.=s|GENRE=m|CAS=r	cel
+uoloir	voloir	NOMcom	NOMB.=s|GENRE=m|CAS=r	uoloir
+qui	qui	PROrel	NOMB.=s|GENRE=m|CAS=n	qui
+bienz	bien1	ADVgen	NOMB.=s|DEGRE=p	bienz
+desauance	desacancelance	VERcjg	MODE=sub|PERS.=3|NOMB.=s|GENRE=f|CAS=r	desauance
+Ha	ha!	VERcjg	TEMPS=pst|CAS=r	Ha
+		PONfbl	MORPH=empty	
+cuens	conte1	NOMcom	NOMB.=s|GENRE=m|CAS=r	cuens
+de	de	PRE	MORPH=empty	de
+blois	blois	NOMcom	NOMB.=s|GENRE=f|CAS=n|DEGRE=p	blois
+amours	amor	NOMcom	NOMB.=s|GENRE=f|CAS=n	amours
+est	estre1	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s	est
+malbaillie	maillari	VERppe	NOMB.=s|GENRE=f|CAS=n	malbaillie
+		PONfbl	MORPH=empty	
+sele	cel	ADJqua	NOMB.=s|GENRE=f|CAS=n	sele
+mocit	-	ADVgen	NOMB.=s|GENRE=m	mocit
+quel	quel1	DETrel	NOMB.=s|GENRE=m|CAS=n	quel
+roiame	roiaume	NOMcom	NOMB.=s|GENRE=f|CAS=n	roiame
+de	de	PRE	MORPH=empty	de
+france	France	NOMpro	NOMB.=s|GENRE=f|CAS=r	france
+		PONfbl	MORPH=empty	
+ne	ne1	ADVneg	MORPH=empty	ne
+sera	estre1	VERcjg	MODE=ind|TEMPS=fut|PERS.=3|NOMB.=s	sera
+maiz	mais1	ADVgen	GENRE=m|CAS=n|DEGRE=-	maiz
+si	si	ADVgen	DEGRE=-	si
+loiaument	lëaument	ADVgen	DEGRE=p	loiaument
+seruie	servir	VERppe	MODE=sub|PERS.=3|NOMB.=s	seruie
+neis	nëis	ADVgen	DEGRE=-	neis
+de	de	PRE	MORPH=empty	de
+uous	vos	PROper	PERS.=2|NOMB.=p|GENRE=m|CAS=i	uous
+quar	car	CONcoo	DEGRE=-	quar
+ie	je	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=n	ie
+lapris	lavrir	VERcjg	MODE=ind|PERS.=1|NOMB.=s	lapris
+dẽ	de	PRE.DETdef	NOMB.=s	dẽ
+fance	Fane	NOMcom	NOMB.=s|GENRE=f|CAS=r	fance
