@@ -13,8 +13,8 @@ en1+le
 dieu
 estre1
 morir
-onque
-onque
+öui
+et
 qui
 le
 croiz
@@ -40,11 +40,11 @@ devoir
 querre
 son4
 venjance
-onque
+et
 delivrer
 son4
 terre
-onque
+et
 son4
 tot
 le
@@ -112,8 +112,8 @@ vaillant
 bacheler
 qui
 amer1
-dieu
-onque
+Dieu
+et
 le
 onor
 de
@@ -125,7 +125,7 @@ voloir
 a3
 Dieu
 aler
-onque
+et
 le
 morveillos
 le
@@ -166,7 +166,7 @@ croiz
 por2
 nos1
 pener
-onque
+et
 nos1
 dire
 a3+le
@@ -193,10 +193,10 @@ estre1
 là
 je
 vëoir
-onque
+et
 mon1
 mere
-marririer
+Marie
 vos
 par
 cui
@@ -216,7 +216,7 @@ cuidier1
 demorer
 tot
 haitier
-onque
+et
 que4
 ja+mais1
 ne1
@@ -227,7 +227,7 @@ ainsi
 il
 tenir1
 enemi
-onque
+et
 pechié
 que4
 il
@@ -244,7 +244,7 @@ dieu
 oster2
 lor2
 tel
-penser
+pensee
 nos1
 metre2
 en1
@@ -267,7 +267,7 @@ nos1
 virge
 bien1
 avoir
-onque
+et
 puis
 après
 ne1
