@@ -1,337 +1,336 @@
-token	lemma	POS	morph	treated
-li	le	DETdef	NOMB.=s|GENRE=m|CAS=n	li
-douz	douz	ADJqua	NOMB.=s|GENRE=m|CAS=n|DEGRE=p	douz
-pensers	penser	NOMcom	NOMB.=s|CAS=n	pensers
-E	et	CONcoo	MORPH=empty	E
-li	le	DETdef	NOMB.=s|GENRE=m|CAS=n	li
-douz	douz	ADJqua	NOMB.=s|GENRE=m|CAS=n|DEGRE=p	douz
-souvenirs	sovenir	NOMcom	NOMB.=s|GENRE=m|CAS=n	souvenirs
-mi	mi2	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=r	mi
-fait	faire	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s	fait
-mon	mon1	DETpos	PERS.=1|NOMB.=s|GENRE=m|CAS=r	mon
-cuer	cuer2	NOMcom	NOMB.=s|GENRE=m|CAS=r	cuer
-espanre	espandre	VERinf	GENRE=m	espanre
-de	de	PRE	MORPH=empty	de
-chanter	chanter	VERinf	MORPH=empty	chanter
-E	et	CONcoo	MORPH=empty	E
-fine	fin2	VERcjg	NOMB.=s|GENRE=f	fine
-amor	amor	NOMcom	NOMB.=s|GENRE=f|CAS=r	amor
-qui	qui	PROrel	NOMB.=s|GENRE=m|CAS=n	qui
-ne	ne1	ADVneg	MORPH=empty	ne
-m	je	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=r	m
-i	i2	PROadv	MORPH=empty	i
-lait	laissier	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s	lait
-durer	durer	VERinf	MORPH=empty	durer
-qui	qui	PROrel	NOMB.=s|GENRE=m|CAS=n	qui
-fait	faire	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s	fait
-les	le	DETdef	NOMB.=p|GENRE=m|CAS=r	les
-siens	suen	PROpos	PERS.=2|NOMB.=p|GENRE=m|CAS=r	siens
-en	en1	PRE	MORPH=empty	en
-joie	joie	NOMcom	NOMB.=s|GENRE=f|CAS=r	joie
-maintenir	maintenir	VERinf	MORPH=empty	maintenir
-E	et	CONcoo	MORPH=empty	E
-met	metre2	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s	met
-es	en1+le	PRE.DETdef	NOMB.=p|GENRE=m|CAS=r	es
-cuers	cuer2	NOMcom	NOMB.=p|GENRE=m|CAS=r	cuers
-la	le	DETdef	NOMB.=s|GENRE=f|CAS=r	la
-douce	douz	ADJqua	NOMB.=s|GENRE=f|CAS=r|DEGRE=p	douce
-remembrance	remembrance	NOMcom	NOMB.=s|CAS=r	remembrance
-por	por2	PRE	MORPH=empty	por
-cest	cest	DETdem	NOMB.=s|GENRE=f|CAS=r	cest
-amors	amor	NOMcom	NOMB.=s|GENRE=f|CAS=r	amors
-de	de	PRE	MORPH=empty	de
-trop	trop	ADVgen	DEGRE=-	trop
-haute	haut	ADJqua	NOMB.=s|GENRE=f|CAS=r|DEGRE=p	haute
-poissance	poissance	NOMcom	NOMB.=s|GENRE=f|CAS=r	poissance
-qui	qui	PROrel	NOMB.=s|GENRE=m|CAS=n	qui
-en	en2	PROadv	MORPH=empty	en
-esmai	esmaiier	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s	esmai
-fait	faire	VERppe	MODE=ind|NOMB.=s|GENRE=m|CAS=r	fait
-home	ome	NOMcom	NOMB.=s|GENRE=m|CAS=r	home
-resjoir	resnoiier	VERinf	MORPH=empty	resjoir
-ne	ne2	CONcoo	MORPH=empty	ne
-por	por2	PRE	MORPH=empty	por
-doloir	doloir	VERinf	MORPH=empty	doloir
-sens	sans	NOMcom	NOMB.=s|GENRE=m|CAS=r	sens
-E	et	CONcoo	MORPH=empty	E
-honor	onor	NOMcom	NOMB.=s|GENRE=m|CAS=r	honor
-ne	ne1	ADVneg	MORPH=empty	ne
-puet	pöoir	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s	puet
-nus	nul	DETind	NOMB.=s|GENRE=m|CAS=n	nus
-nus	nul	DETind	NOMB.=s|GENRE=m|CAS=n	nus
-main	main2	NOMcom	NOMB.=s|GENRE=f	main
-nou	ne1+il	ADVneg.PROper	PERS.=3|NOMB.=s|CAS=r	nou
-laist	laissier	VERcjg	MODE=sub|TEMPS=pst|PERS.=3|NOMB.=s	laist
-de	de	PRE	MORPH=empty	de
-lui	il	PROper	PERS.=3|NOMB.=s|GENRE=m|CAS=i	lui
-partir	partir	VERinf	MORPH=empty	partir
-tenir	tenir1	VERinf	MORPH=empty	tenir
-s	se	CONsub	MORPH=empty	s
-il	il	PROimp	PERS.=3|NOMB.=s|GENRE=m|CAS=n	il
-n	ne1	ADVneg	MORPH=empty	n
-a	avoir	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s	a
-en	en1	PROadv	MORPH=empty	en
-soisenti	soser	PRE	PERS.=3|NOMB.=s	soisenti
-les	le	DETdef	NOMB.=p|GENRE=m|CAS=r	les
-max	mal1	NOMcom	NOMB.=p|GENRE=m|CAS=r	max
-d	de	PRE	MORPH=empty	d
-amer	amer1	VERinf	NOMB.=s	amer
-n	ne2	ADVneg	MORPH=empty	n
-a	a3	PRE	TEMPS=pst	a
-grant	grant	ADJqua	NOMB.=s|GENRE=f|CAS=r|DEGRE=p	grant
-valor	valor	NOMcom	NOMB.=s|GENRE=f|CAS=r	valor
-ne	ne1	ADVneg	MORPH=empty	ne
-puet	pöoir	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s	puet
-por	por2	PRE	MORPH=empty	por
-rien	rien	PROind	NOMB.=s|GENRE=f|CAS=r	rien
-monter	monter	VERinf	MORPH=empty	monter
-non	non	ADVneg	MORPH=empty	non
-ques	que4	CONsub	NOMB.=s	ques
-en	en1	PRE	MORPH=empty	en
-soi	estre1	PROper	PERS.=3|NOMB.=s|GENRE=m|CAS=i	soi
-nou	ne1+il	ADVneg.PROper	NOMB.=s|CAS=r	nou
-vit	vëoir	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s	vit
-nus	nos1	PROind	NOMB.=p|GENRE=m|CAS=n	nus
-avenir	avenir	VERinf	MORPH=empty	avenir
-par	par	PRE	MORPH=empty	par
-ce	ce1	PROdem	NOMB.=s|GENRE=n|CAS=r	ce
-vos	vos	PROper	PERS.=2|NOMB.=p|GENRE=m|CAS=i	vos
-pri	priier	VERcjg	MODE=ind|TEMPS=pst|PERS.=1|NOMB.=s	pri
-d	de	PRE	MORPH=empty	d
-amors	amor	NOMcom	NOMB.=s|GENRE=f|CAS=r	amors
-droite	droit	ADJqua	NOMB.=s|GENRE=f|CAS=r|DEGRE=p	droite
-semblance	semblance	NOMcom	NOMB.=s|GENRE=f|CAS=r	semblance
-qu	que4	CONsub	MORPH=empty	qu
-en	en1	PROind	NOMB.=s	en
-ne	ne1	ADVneg	MORPH=empty	ne
-s	soi1	PROper	PERS.=3|NOMB.=s|GENRE=m|CAS=r	s
-en	en2	PROadv	MORPH=empty	en
-doit	devoir	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s	doit
-partit	partir	VERppe	NOMB.=s|CAS=n	partit
-por	por2	PRE	MORPH=empty	por
-esmafance	esfancance	NOMcom	NOMB.=s|GENRE=f|CAS=r	esmafance
-ne	ne2	CONcoo	MORPH=empty	ne
-ja	ja	ADVgen	DEGRE=-	ja
-de	de	PRE	MORPH=empty	de
-moi	je	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=i	moi
-nou	ne1+il	ADVneg.PROper	NOMB.=s|CAS=r	nou
-verroiz	vëoir	VERcjg	MODE=ind|TEMPS=fut|PERS.=2|NOMB.=p	verroiz
-avenir	avenir	VERinf	MORPH=empty	avenir
-que	que4	CONsub	MORPH=empty	que
-toz	tot	DETind	NOMB.=p|GENRE=m|CAS=r	toz
-parfais	parfaire	ADJqua	NOMB.=s|GENRE=m|CAS=r	parfais
-vueil	voloir	ADJqua	TEMPS=pst|PERS.=1|NOMB.=s	vueil
-en	en2	PROadv	MORPH=empty	en
-a	a3	VERcjg	PERS.=3|NOMB.=s	a
-mors	morir	VERppe	NOMB.=p|GENRE=m|CAS=r	mors
-morir	morir	VERinf	MORPH=empty	morir
-dame	dame	NOMcom	NOMB.=s|GENRE=f|CAS=n	dame
-se	se	CONsub	PERS.=3|CAS=r	se
-je	je	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=n	je
-vos	vos	PROper	PERS.=2|NOMB.=p|GENRE=m|CAS=i	vos
-osasse	oser	VERcjg	MODE=sub|TEMPS=ipf|PERS.=1|NOMB.=s	osasse
-prier	priier	VERinf	MORPH=empty	prier
-mout	mout	ADVgen	DEGRE=-	mout
-me	je	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=i	me
-seroit	estre1	VERcjg	MODE=con|PERS.=1|NOMB.=s	seroit
-je	je	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=n	je
-cuit	cuidier1	VERcjg	MODE=ind|PERS.=1|NOMB.=s	cuit
-bien	bien1	ADVgen	DEGRE=-	bien
-avenu	avenir	VERppe	NOMB.=s|GENRE=n|CAS=n	avenu
-mes	mais1	CONcoo	MORPH=empty	mes
-il	il	PROper	PERS.=0|NOMB.=s|GENRE=m|CAS=n	il
-n	ne1	ADVneg	MORPH=empty	n
-a	avoir	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s	a
-pas	pas	ADVneg	MORPH=empty	pas
-en	en1	PRE	MORPH=empty	en
-moi	je	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=i	moi
-tant	tant	ADVgen	DEGRE=-	tant
-de	de	PRE	MORPH=empty	de
-vertu	vertu	NOMcom	NOMB.=s|GENRE=f|CAS=r	vertu
-que	que4	CONsub	MORPH=empty	que
-devant	devant	PRE	MORPH=empty	devant
-vos	vostre	PROper	PERS.=2|NOMB.=p|GENRE=m|CAS=i	vos
-vos	vostre	PROper	PERS.=2|NOMB.=p|GENRE=m|CAS=r	vos
-os	oser	VERcjg	MODE=ind|PERS.=2|NOMB.=s	os
-bien	bien1	ADVgen	DEGRE=p	bien
-auiser	aliver	VERinf	MORPH=empty	auiser
-ice	ice1	PROdem	NOMB.=s|GENRE=n|CAS=r	ice
-me	je	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=r	me
-font	faire	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=p	font
-E	et	CONcoo	MORPH=empty	E
-m	je	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=r	m
-ocist	ocire	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s	ocist
-E	et	CONcoo	MORPH=empty	E
-m	je	PROper	PERS.=1|NOMB.=s|GENRE=f|CAS=r	m
-esmaie	esmaiier	VERcjg	MODE=ind|NOMB.=s|GENRE=f	esmaie
-vostre	vostre	DETpos	PERS.=2|NOMB.=s|GENRE=f|CAS=n	vostre
-biauce	besoing	NOMcom	NOMB.=s|GENRE=f|CAS=n	biauce
-fait	faire	VERcjg	NOMB.=s	fait
-a	a3	PRE	MORPH=empty	a
-mon	mon1	DETpos	PERS.=1|NOMB.=s|GENRE=m|CAS=r	mon
-cuer	cuer2	NOMcom	NOMB.=s|GENRE=m|CAS=r	cuer
-la	le	DETdef	NOMB.=s|GENRE=f|CAS=r	la
-plaie	plaie1	NOMcom	NOMB.=s|GENRE=f|CAS=r	plaie
-que	que4	CONsub	NOMB.=s	que
-de	de	PRE	MORPH=empty	de
-mes	mon1	DETpos	PERS.=1|NOMB.=p|GENRE=m|CAS=r	mes
-ielz	ueil	NOMcom	NOMB.=p|GENRE=m|CAS=r	ielz
-seul	sol1	ADJqua	NOMB.=s|GENRE=m|CAS=r|DEGRE=p	seul
-ne	ne1	ADVneg	MORPH=empty	ne
-me	je	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=r	me
-puis	pöoir	VERcjg	MODE=ind|TEMPS=pst|PERS.=1|NOMB.=s	puis
-aidier	aidier	VERinf	MORPH=empty	aidier
-dou	de+le	PRE.DETdef	NOMB.=s|GENRE=m|CAS=r	dou
-resgarder	regarder	NOMcom	NOMB.=s|GENRE=m	resgarder
-dont	dont	PROrel	NOMB.=s|GENRE=m|CAS=i	dont
-je	je	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=n	je
-ai	avoir	VERcjg	MODE=ind|TEMPS=pst|PERS.=1|NOMB.=s	ai
-desirrer	desirrer	VERinf	MORPH=empty	desirrer
-quaat	carante	PROrel	GENRE=m|CAS=r	quaat
-me	je	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=r	me
-couuient	cuiver	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=p	couuient
-dame	dame	NOMcom	NOMB.=s|GENRE=f|CAS=r	dame
-de	de	PRE	MORPH=empty	de
-vos	vos	PROper	PERS.=2|NOMB.=p|GENRE=m|CAS=r	vos
-loignier	loing	VERinf	GENRE=m|CAS=r	loignier
-onques	onque	ADVgen	DEGRE=-	onques
-certes	certes	ADVgen	DEGRE=-	certes
-plus	plus	ADVgen	DEGRE=c	plus
-dolens	dolent	ADJqua	NOMB.=s|GENRE=m|CAS=n|DEGRE=p	dolens
-hom	ome	NOMcom	NOMB.=s|GENRE=m|CAS=n	hom
-ne	ne1	ADVneg	MORPH=empty	ne
-fu	estre1	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s	fu
-e	et	CONcoo	MORPH=empty	e
-dex	dieu	NOMpro	NOMB.=s|GENRE=m|CAS=n	dex
-feroit	faire	VERcjg	MODE=con|PERS.=3|NOMB.=s	feroit
-ce	ce1	PROdem	NOMB.=s|GENRE=n|CAS=r	ce
-croi	croire	VERcjg	MODE=ind|PERS.=2|NOMB.=s	croi
-por	por2	PRE	MORPH=empty	por
-moi	je	PROper	PERS.=1|NOMB.=s|GENRE=f|CAS=i	moi
-vertu	vertu	NOMcom	NOMB.=s|GENRE=f|CAS=r	vertu
-se	se	CONsub	MORPH=empty	se
-je	je	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=n	je
-james	ja+mais1	ADVgen	PERS.=1|DEGRE=-	james
-vos	vos	PROper	PERS.=2|NOMB.=p|GENRE=m|CAS=i	vos
-pooie	pöoir	VERcjg	MODE=ind|TEMPS=ipf|PERS.=1|NOMB.=s	pooie
-aprochier	aprochier	VERinf	MORPH=empty	aprochier
-que	que4	CONsub	MORPH=empty	que
-toz	tot	DETind	NOMB.=p|GENRE=m|CAS=r	toz
-les	le	DETdef	NOMB.=p|GENRE=m|CAS=r	les
-bienss	bien1	NOMcom	NOMB.=p|GENRE=m|CAS=r	bienss
-toz	tot	DETind	NOMB.=p|GENRE=m|CAS=r	toz
-les	le	DETdef	NOMB.=p|GENRE=m|CAS=n	les
-max	mal1	NOMcom	NOMB.=p|GENRE=m	max
-que	que2	PROint	GENRE=m|CAS=r	que
-i	i2	PROadv	MORPH=empty	i
-aie	avoir	VERcjg	MODE=sub|TEMPS=pst|PERS.=1|NOMB.=s	aie
-ai	avoir	VERcjg	MODE=ind|TEMPS=pst|PERS.=1|NOMB.=s	ai
-je	je	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=n	je
-de	de	PRE	MORPH=empty	de
-vos	vos	PROper	PERS.=2|NOMB.=p|GENRE=m|CAS=i	vos
-douce	douz	ADJqua	NOMB.=s|GENRE=f|CAS=r|DEGRE=p	douce
-dame	dame	NOMcom	NOMB.=s|GENRE=f|CAS=r	dame
-veraie	verai	ADJqua	NOMB.=s|GENRE=f|CAS=r|DEGRE=p	veraie
-ne	ne2	CONcoo	MORPH=empty	ne
-ja	ja	ADVgen	DEGRE=-	ja
-sanz	sans	PRE	MORPH=empty	sanz
-vos	vos	PROper	PERS.=2|NOMB.=p|GENRE=m|CAS=i	vos
-nus	nul	PROind	PERS.=1|NOMB.=s|GENRE=m|CAS=n	nus
-ne	ne1	ADVneg	MORPH=empty	ne
-me	je	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=i	me
-puisse	pöoir	VERcjg	MODE=sub|TEMPS=pst|PERS.=3|NOMB.=s	puisse
-aidier	aidier	VERinf	MORPH=empty	aidier
-n	ne1	ADVneg	MORPH=empty	n
-ou	o3	PROrel	NOMB.=s	ou
-fera	faire	VERcjg	MODE=ind|TEMPS=fut|PERS.=3|NOMB.=s	fera
-il	il	PROper	PERS.=3|NOMB.=s|GENRE=m|CAS=n	il
-qui	que2	PROrel	NOMB.=s|GENRE=m|CAS=n	qui
-m	je	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=i	m
-avroit	avoir	VERcjg	MODE=con|PERS.=3|NOMB.=s	avroit
-mestier	mestier	NOMcom	NOMB.=s|GENRE=m|CAS=r	mestier
-des	de+le	PRE.DETdef	NOMB.=p|GENRE=f|CAS=r	des
-grans	grant	ADJqua	NOMB.=p|GENRE=f|CAS=r|DEGRE=p	grans
-brautes	barat	NOMcom	NOMB.=p|GENRE=f|CAS=r	brautes
-dont	dont	PROrel	NOMB.=p|GENRE=f|CAS=i	dont
-nus	nul	DETind	PERS.=1|NOMB.=s|GENRE=m|CAS=n	nus
-hom	ome	NOMcom	NOMB.=s|GENRE=m|CAS=n	hom
-n	ne1	ADVneg	MORPH=empty	n
-a	avoir	VERcjg	MODE=ind|PERS.=3|NOMB.=s	a
-pooir	pöoir	NOMcom	NOMB.=s|GENRE=m|CAS=r	pooir
-qu	que4	PROrel	MORPH=empty	qu
-il	il	PROper	PERS.=3|NOMB.=s|GENRE=m|CAS=n	il
-en	en2	PROadv	MORPH=empty	en
-deust	devoir	VERcjg	MODE=sub|TEMPS=pst|PERS.=3|NOMB.=s	deust
-la	le	DETdef	NOMB.=s|GENRE=f|CAS=r	la
-cinquantisme	cent	ADJord	NOMB.=s|GENRE=f|CAS=r	cinquantisme
-part	part1	NOMcom	NOMB.=s|GENRE=f|CAS=r	part
-li	il	PROper	PERS.=3|NOMB.=s|GENRE=m|CAS=i	li
-dit	dire	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s	dit
-plaisant	plaisant	VERppa	NOMB.=s|CAS=n	plaisant
-li	le	DETdef	NOMB.=s|GENRE=m|CAS=n	li
-amoreus	amor	ADJcar	NOMB.=s|GENRE=m|CAS=n	amoreus
-regart	regart	VERcjg	NOMB.=s|GENRE=m|CAS=n	regart
-mi	mi2	PROper	NOMB.=s|GENRE=m|CAS=r	mi
-font	faire	VERcjg	MODE=ind|TEMPS=pst|NOMB.=p	font
-souvent	sovent	ADVgen	DEGRE=-	souvent
-resjoir	resnoiier	VERinf	MORPH=empty	resjoir
-e	et	CONcoo	MORPH=empty	e
-doloir	doloir	VERinf	MORPH=empty	doloir
-joie	Joie	NOMcom	NOMB.=s|GENRE=f|CAS=r	joie
-en	en2	PROadv	MORPH=empty	en
-atent	ataindre	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s	atent
-que	que4	CONsub	MORPH=empty	que
-mes	mon1	DETpos	PERS.=1|GENRE=m|CAS=n	mes
-cuers	cuer2	NOMcom	NOMB.=s|GENRE=m|CAS=n	cuers
-a	avoir	VERcjg	TEMPS=pst|PERS.=3	a
-ce	ce1	PROdem	NOMB.=s|GENRE=n|CAS=r	ce
-bees	bëer	NOMcom	NOMB.=s|GENRE=f|CAS=n|DEGRE=p	bees
-la	le	DETdef	NOMB.=s|GENRE=f|CAS=n	la
-paors	pëor	NOMcom	NOMB.=s|GENRE=f|CAS=n	paors
-rest	restre	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s	rest
-dedens	dedenz	PRE	MORPH=empty	dedens
-moi	je	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=i	moi
-entree	entree	NOMcom	NOMB.=s|GENRE=f|CAS=r	entree
-ensi	ainsi	ADVgen	DEGRE=-	ensi
-m	je	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=i	m
-estuet	estovoir1	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s	estuet
-morir	morir	VERinf	MORPH=empty	morir
-par	par	PRE	MORPH=empty	par
-estouvoir	estovoir2	NOMcom	NOMB.=s|GENRE=m	estouvoir
-en	en1	PRE	MORPH=empty	en
-gnaat	-	NOMcom	NOMB.=s|CAS=r	gnaat
-esmai	esmaiier	VERcjg	PERS.=1|NOMB.=s	esmai
-en	en1	PRE	MORPH=empty	en
-joie	joie	NOMcom	NOMB.=s|GENRE=f|CAS=r	joie
-E	et	CONcoo	MORPH=empty	E
-en	en1	PRE	MORPH=empty	en
-voloir	voloir	VERinf	NOMB.=s|CAS=r	voloir
-dame	dame	NOMcom	NOMB.=s|GENRE=f|CAS=n	dame
-de	de	PRE	MORPH=empty	de
-qui	cui	PROrel	NOMB.=s|GENRE=m|CAS=r	qui
-est	estre1	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s	est
-magnatt	mangier	NOMcom	NOMB.=s|GENRE=m|CAS=n	magnatt
-desirree	desirrer	VERppe	PERS.=3|NOMB.=s|GENRE=f|CAS=n	desirree
-saluz	salu	NOMcom	NOMB.=s|CAS=n	saluz
-vos	vos	PROper	PERS.=2|NOMB.=p|GENRE=m|CAS=n	vos
-mant	mander	VERcjg	MODE=ind|NOMB.=s	mant
-d	de	PRE	MORPH=empty	d
-outre	outre1	PRE	MORPH=empty	outre
-la	le	DETdef	NOMB.=s|GENRE=f|CAS=r	la
-mer	mer	NOMcom	NOMB.=s|GENRE=f|CAS=r	mer
-salee	saler	VERppe	NOMB.=s|GENRE=f|CAS=r|DEGRE=p	salee
-com	come1	CONsub	MORPH=empty	com
-a	a3	PRE	TEMPS=pst	a
-celui	cel	PROdem	NOMB.=s|GENRE=m|CAS=i	celui
-ou	où	PROrel	NOMB.=s|CAS=i	ou
-je	je	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=n	je
-pensmamr	penser	VERcjg	MODE=ind|PERS.=1|NOMB.=s	pensmamr
-soir	soir	NOMcom	CAS=r	soir
-n	ne2	CONcoo	MORPH=empty	n
-autre	autre	DETind	NOMB.=s|GENRE=m|CAS=r	autre
-pensers	penser	NOMcom	NOMB.=p|GENRE=m|CAS=r	pensers
-ne	ne1	ADVneg	MORPH=empty	ne
-me	je	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=i	me
-fet	faire	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s	fet
-joie	joie	NOMcom	NOMB.=s|GENRE=f|CAS=r	joie
-avoir	avoir	VERinf	MORPH=empty	avoir
+DETdef
+ADJqua
+NOMcom
+CONcoo
+DETdef
+ADJqua
+NOMcom
+PROper
+VERcjg
+DETpos
+NOMcom
+VERinf
+PRE
+VERinf
+CONcoo
+VERcjg
+NOMcom
+PROrel
+ADVneg
+PROper
+PROadv
+VERcjg
+VERinf
+PROrel
+VERcjg
+DETdef
+PROpos
+PRE
+NOMcom
+VERinf
+CONcoo
+VERcjg
+PRE.DETdef
+NOMcom
+DETdef
+ADJqua
+NOMcom
+PRE
+DETdem
+NOMcom
+PRE
+ADVgen
+ADJqua
+NOMcom
+PROrel
+PROadv
+VERcjg
+VERppe
+NOMcom
+VERinf
+CONcoo
+PRE
+VERinf
+NOMcom
+CONcoo
+NOMcom
+ADVneg
+VERcjg
+DETind
+DETind
+NOMcom
+ADVneg.PROper
+VERcjg
+PRE
+PROper
+VERinf
+VERinf
+CONsub
+PROimp
+ADVneg
+VERcjg
+PROadv
+PRE
+DETdef
+NOMcom
+PRE
+VERinf
+ADVneg
+PRE
+ADJqua
+NOMcom
+ADVneg
+VERcjg
+PRE
+PROind
+VERinf
+ADVneg
+CONsub
+PRE
+PROper
+ADVneg.PROper
+VERcjg
+PROind
+VERinf
+PRE
+PROdem
+PROper
+VERcjg
+PRE
+NOMcom
+ADJqua
+NOMcom
+CONsub
+PROind
+ADVneg
+PROper
+PROadv
+VERcjg
+VERppe
+PRE
+NOMcom
+CONcoo
+ADVgen
+PRE
+PROper
+ADVneg.PROper
+VERcjg
+VERinf
+CONsub
+DETind
+ADJqua
+ADJqua
+PROadv
+VERcjg
+VERppe
+VERinf
+NOMcom
+CONsub
+PROper
+PROper
+VERcjg
+VERinf
+ADVgen
+PROper
+VERcjg
+PROper
+VERcjg
+ADVgen
+VERppe
+CONcoo
+PROper
+ADVneg
+VERcjg
+ADVneg
+PRE
+PROper
+ADVgen
+PRE
+NOMcom
+CONsub
+PRE
+PROper
+PROper
+VERcjg
+ADVgen
+VERinf
+PROdem
+PROper
+VERcjg
+CONcoo
+PROper
+VERcjg
+CONcoo
+PROper
+VERcjg
+DETpos
+NOMcom
+VERcjg
+PRE
+DETpos
+NOMcom
+DETdef
+NOMcom
+CONsub
+PRE
+DETpos
+NOMcom
+ADJqua
+ADVneg
+PROper
+VERcjg
+VERinf
+PRE.DETdef
+NOMcom
+PROrel
+PROper
+VERcjg
+VERinf
+PROrel
+PROper
+VERcjg
+NOMcom
+PRE
+PROper
+VERinf
+ADVgen
+ADVgen
+ADVgen
+ADJqua
+NOMcom
+ADVneg
+VERcjg
+CONcoo
+NOMpro
+VERcjg
+PROdem
+VERcjg
+PRE
+PROper
+NOMcom
+CONsub
+PROper
+ADVgen
+PROper
+VERcjg
+VERinf
+CONsub
+DETind
+DETdef
+NOMcom
+DETind
+DETdef
+NOMcom
+PROint
+PROadv
+VERcjg
+VERcjg
+PROper
+PRE
+PROper
+ADJqua
+NOMcom
+ADJqua
+CONcoo
+ADVgen
+PRE
+PROper
+PROind
+ADVneg
+PROper
+VERcjg
+VERinf
+ADVneg
+PROrel
+VERcjg
+PROper
+PROrel
+PROper
+VERcjg
+NOMcom
+PRE.DETdef
+ADJqua
+NOMcom
+PROrel
+DETind
+NOMcom
+ADVneg
+VERcjg
+NOMcom
+PROrel
+PROper
+PROadv
+VERcjg
+DETdef
+ADJord
+NOMcom
+PROper
+VERcjg
+VERppa
+DETdef
+ADJcar
+VERcjg
+PROper
+VERcjg
+ADVgen
+VERinf
+CONcoo
+VERinf
+NOMcom
+PROadv
+VERcjg
+CONsub
+DETpos
+NOMcom
+VERcjg
+PROdem
+NOMcom
+DETdef
+NOMcom
+VERcjg
+PRE
+PROper
+NOMcom
+ADVgen
+PROper
+VERcjg
+VERinf
+PRE
+NOMcom
+PRE
+NOMcom
+VERcjg
+PRE
+NOMcom
+CONcoo
+PRE
+VERinf
+NOMcom
+PRE
+PROrel
+VERcjg
+NOMcom
+VERppe
+NOMcom
+PROper
+VERcjg
+PRE
+PRE
+DETdef
+NOMcom
+VERppe
+CONsub
+PRE
+PROdem
+PROrel
+PROper
+VERcjg
+NOMcom
+CONcoo
+DETind
+NOMcom
+ADVneg
+PROper
+VERcjg
+NOMcom
+VERinf
