@@ -3,9 +3,9 @@ le
 tens
 qui
 deviser
-veran
+iver2
 pluie
-destorner
+destendre2
 le
 mauvais
 soi1
@@ -13,14 +13,14 @@ debrisier
 qui
 de
 lonc
-tant
+tens
 ne1
 avoir
 chanter
 faire
 chançon
 car
-agree
+agre
 je
 venir
 que4
@@ -34,7 +34,7 @@ en1
 mois
 estre1
 douz
-damiere
+damier
 bien1
 je
 avoir
@@ -42,7 +42,7 @@ droit
 son4
 dart
 jeter
-je
+mon1
 de
 franchise
 ne1
@@ -121,7 +121,7 @@ je
 en2
 pöoir
 säoler
-onque
+et
 cant1
 plus
 avoricance
@@ -179,7 +179,7 @@ je
 il
 faire
 priiere
-onque
+et
 là
 pris1
 a3
@@ -223,7 +223,7 @@ vos
 je
 estovoir1
 clamer
-onque
+et
 que4
 mercïer
 vos

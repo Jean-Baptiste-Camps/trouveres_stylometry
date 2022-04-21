@@ -59,7 +59,7 @@ en2
 estre1
 le
 sospir
-onque
+et
 cest
 tozjors
 ne2
@@ -80,7 +80,7 @@ je
 ne1
 savoir
 se
-mil1
+metre2
 aler
 cel
 voie
@@ -94,7 +94,7 @@ amor
 venir
 par
 bien1
-ameroner
+amerir
 lëaument
 servir
 je
@@ -113,7 +113,7 @@ tot
 plein
 de
 ire
-onque
+et
 de
 dolor
 por2
@@ -197,9 +197,9 @@ ne1
 por2+coi2
 je
 morir
-onque
+et
 nuit
-onque
+et
 jor
 or4
 vos
@@ -242,7 +242,7 @@ movoir
 mon1
 cuer2
 i2
-aemaire
+avoir
 mon1
 entente
 atorner

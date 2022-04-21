@@ -13,7 +13,7 @@ partir
 en1
 champ
 tant
-onque
+et
 en1
 grant
 balance
@@ -166,7 +166,7 @@ vostre
 gré2
 mon1
 cors1
-onque
+et
 mon1
 vie1
 metre2

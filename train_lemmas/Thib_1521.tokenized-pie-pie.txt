@@ -7,13 +7,13 @@ il
 avoir
 aprendre
 garir
-le
+il
 estovoir1
 où
 morir
 o3
 remanoir
-onque
+et
 le
 mien
 mal1
@@ -23,7 +23,7 @@ je
 ne1
 mot
 plaindre
-Ecly
+icel
 par2
 estre1
 sor2
@@ -33,7 +33,7 @@ morir
 en2
 voloir
 mais1
-catorz
+catre
 je
 venir
 devant
@@ -63,7 +63,7 @@ de
 amor
 mais1
 ne1
-pöoir
+puis
 de
 mais1
 tot
@@ -76,7 +76,7 @@ estovoir1
 a3
 son4
 volenté
-maint
+menor
 mout
 je
 merveille
@@ -98,9 +98,9 @@ que4
 vison
 bel1
 cors1
-droiturier2
-gent1
-onque
+droit
+gent2
+et
 son4
 vis1
 qui
@@ -127,7 +127,7 @@ cel
 que2
 soi1
 estre1
-onque
+et
 merci
 i2
 atendre
@@ -136,7 +136,7 @@ devoir
 avoir
 joie
 finer
-onque
+et
 entier
 et
 je
@@ -147,7 +147,7 @@ il
 faire
 priiere
 tant
-par2
+par
 redoter1
 son4
 eschentement
@@ -188,7 +188,7 @@ voloir
 priier
 en1
 chanter
-onque
+et
 se
 il
 plaire
@@ -265,8 +265,8 @@ saint
 covoitisement
 le
 desirrer
-onque
-sele
+et
+cel
 je
 despisier
 qui

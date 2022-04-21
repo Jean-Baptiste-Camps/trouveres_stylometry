@@ -43,12 +43,12 @@ achater
 le
 bien2
 bel1
-onque
+et
 bon
 a3
 vostre
 servir
-voloir
+voile1
 que4
 amor
 savoir
@@ -128,10 +128,10 @@ que2
 adès
 je
 estovoir1
-que1
+que4
 le
-avenir
-que2
+avoir
+que4
 son4
 frois1
 color
@@ -193,7 +193,7 @@ aler
 tu
 en2
 tost1
-onque
+et
 dire
 blasmer
 a3

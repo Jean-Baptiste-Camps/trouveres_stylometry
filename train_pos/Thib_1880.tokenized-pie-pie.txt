@@ -112,7 +112,7 @@ PROind
 PONfrt
 PROper
 PROind
-PRE
+DETpos
 NOMcom
 DETdef
 PROind

@@ -246,7 +246,7 @@ VERcjg
 CONsub
 ADVgen
 VERcjg
-VERcjg
+VERppe
 CONsub
 NOMcom
 DETpos

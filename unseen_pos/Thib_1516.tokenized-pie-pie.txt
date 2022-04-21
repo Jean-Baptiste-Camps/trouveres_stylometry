@@ -71,7 +71,7 @@ ADVgen
 ADJqua
 NOMcom
 VERcjg
-ADVgen
+CONcoo
 ADVgen
 VERcjg
 PROimp
@@ -97,7 +97,7 @@ ADVneg
 ADVgen
 VERppe
 ADJqua
-ADVgen
+CONcoo
 VERppe
 PROper
 PROrel
@@ -112,7 +112,7 @@ PROper
 ADVneg
 VERcjg
 PROind
-PROrel
+CONsub
 PROper
 PROper
 VERcjg
@@ -194,7 +194,7 @@ ADVgen
 VERcjg
 ADVgen
 ADJqua
-ADVgen
+NOMcom
 VERinf
 PROper
 ADVint

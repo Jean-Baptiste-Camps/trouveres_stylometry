@@ -61,7 +61,7 @@ NOMcom
 PRE
 DETind
 NOMcom
-ADVgen
+PONfrt
 DETind
 NOMcom
 CONsub
@@ -94,10 +94,10 @@ PRE
 PROper
 DETdef
 NOMcom
-PRE
+CONcoo
 DETdef
 NOMcom
-CONsub
+PROrel
 DETdef
 NOMcom
 PRE
@@ -127,7 +127,7 @@ NOMcom
 VERinf
 DETpos
 NOMcom
-PRE
+CONcoo
 DETpos
 NOMcom
 VERcjg

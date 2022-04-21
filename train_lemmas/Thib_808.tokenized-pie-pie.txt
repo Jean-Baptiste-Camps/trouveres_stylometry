@@ -30,7 +30,7 @@ message2
 que4
 tant
 estre1
-cortoisement
+cortoisie
 se
 peser
 obligame
@@ -41,11 +41,11 @@ aillors
 penser
 son4
 biauté
-onque
+et
 son4
 bon
 dit
-onque
+et
 son4
 très
 douz
@@ -95,9 +95,9 @@ sofrir
 mon1
 dolor
 voir
-onque
+et
 atendre
-onque
+et
 langir
 que4
 il
@@ -107,7 +107,7 @@ bien1
 marrir
 mon1
 mal1
-onque
+et
 mon1
 consirer
 et
@@ -131,7 +131,7 @@ sovent
 il
 estovoir1
 esbäir
-onque
+et
 penser
 a3
 tel
@@ -202,7 +202,7 @@ qui
 bien1
 savoir
 atendre
-onque
+et
 servir
 a3
 son4

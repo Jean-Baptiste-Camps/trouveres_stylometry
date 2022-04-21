@@ -28,9 +28,9 @@ bel1
 enfant
 que4
 onque
-aler
+vëoir
 nu1
-argu
+ome
 ne1
 estre1
 pas
@@ -40,7 +40,7 @@ ne1
 avoir
 quinze
 an
-onque
+et
 demi2
 ne2
 onque
@@ -69,7 +69,7 @@ Dieu
 vos
 avoir
 nom
-onque
+et
 il
 sauver
 maintenant
@@ -128,7 +128,7 @@ a3
 porpenser
 come1
 faire
-menor
+mener
 changier
 son4
 talent
@@ -142,7 +142,7 @@ plus
 regarder
 son4
 cler
-vif
+vis1
 tant
 estre1
 plus
@@ -160,11 +160,11 @@ a3
 demander
 mout
 belement
-que4
+que2
 je
 deignier
 esgarder
-onque
+et
 faire
 autre
 semblant
@@ -173,7 +173,7 @@ il
 comencier
 a3
 plorer
-onque
+et
 dire
 itant
 je
@@ -213,7 +213,7 @@ il
 monter
 de
 maintenant
-onque
+et
 trestot
 droit
 je
@@ -231,11 +231,11 @@ estre1
 crïer2
 -
 pastor
-parmanable
+parmeniblement
 qui
 venir
--
-onque
+iver2
+et
 lever
 grant
 cri

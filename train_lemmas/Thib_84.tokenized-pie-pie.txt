@@ -57,7 +57,7 @@ nul
 ne1
 pöoir
 eschaper
-ononer
+et
 avoir
 forfaire
 douz
@@ -66,7 +66,7 @@ a3
 perdre
 le
 cors1
-onque
+et
 lame
 se
 ne1
@@ -80,7 +80,7 @@ de
 mon1
 vil1
 pechié
-o3
+où
 estre1
 merci
 trover
@@ -93,7 +93,7 @@ refuser
 seignor
 droiture
 oblïer
-onque
+et
 destendre2
 vostre
 corde
@@ -154,7 +154,7 @@ savoir
 ne1
 estre1
 pas
-oblie
+oblïer
 priier
 por2
 nos1
@@ -169,16 +169,16 @@ estre1
 par
 vos
 devoir
-le
+il
 savoir
-onque
+et
 laissier
-raivre
+rais
 dieu
 nos1
 doner
 sast
-delai
+delaiier1
 avoir
 son4
 secors

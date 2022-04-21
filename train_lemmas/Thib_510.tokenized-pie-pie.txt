@@ -34,7 +34,7 @@ secors
 en2
 cuidier1
 ce1
-que4
+que2
 je
 je
 estre1
@@ -50,17 +50,17 @@ ne1
 voloir
 a3
 nul
-fuerre2
+fuerre1
 quel1
 estre1
 en1
 je
-entrer
+entree
 mieus
 amer1
 dolor
 sofrir
-onque
+et
 le
 grant
 pëor
@@ -153,7 +153,7 @@ son4
 corroz
 a3+le
 sospir
-onque
+et
 a3+le
 sanglot
 je
@@ -196,7 +196,7 @@ qui
 sentir
 mais1
 mar
-onque
+et
 merci
 il
 avoir

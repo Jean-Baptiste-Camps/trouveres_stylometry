@@ -139,14 +139,14 @@ ocire
 ice1
 mon1
 desavancier1
-ice2
+ice1
 je
 tolir
 mat
-juene
+joie
 mon1
 fïance
-onque
+et
 faire
 doloir
 dame

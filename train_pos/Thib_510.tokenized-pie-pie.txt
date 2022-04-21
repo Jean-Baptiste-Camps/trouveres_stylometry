@@ -60,7 +60,7 @@ ADVgen
 VERcjg
 NOMcom
 VERinf
-ADVgen
+CONcoo
 DETdef
 ADJqua
 NOMcom
@@ -153,7 +153,7 @@ DETpos
 NOMcom
 PRE.DETdef
 NOMcom
-ADVgen
+CONcoo
 PRE.DETdef
 NOMcom
 PROper
@@ -184,7 +184,7 @@ ADVgen
 CONsub
 ADVgen
 PROadv
-VERcjg
+NOMcom
 PROper
 VERcjg
 PRE
@@ -194,13 +194,13 @@ NOMcom
 PROdem
 PROrel
 VERcjg
-CONcoo
+DETpos
 ADVgen
-PRE
+CONcoo
 NOMcom
 PROper
 VERcjg
-VERppe
+VERcjg
 ADVgen
 PRE
 NOMcom

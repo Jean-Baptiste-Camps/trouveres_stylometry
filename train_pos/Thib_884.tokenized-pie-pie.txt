@@ -18,7 +18,7 @@ PROdem
 PROper
 VERcjg
 ADVgen
-VERcjg
+VERppe
 VERinf
 CONsub
 DETind
@@ -141,12 +141,12 @@ PROper
 VERcjg
 PROdem
 PROper
-ADVgen
-ADVgen
-VERppe
+VERcjg
+ADJqua
+NOMcom
 DETpos
 NOMcom
-ADVgen
+CONcoo
 VERppe
 VERinf
 NOMcom

@@ -138,7 +138,7 @@ cui
 ne1
 amer1
 de
-conseil
+cui
 soi1
 savoir
 aidier

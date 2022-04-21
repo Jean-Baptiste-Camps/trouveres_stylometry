@@ -4,7 +4,7 @@ NOMcom
 PRE
 DETpos
 NOMcom
-ADJqua
+VERcjg
 NOMcom
 PRE
 DETndf
@@ -13,7 +13,7 @@ VERppe
 PRE
 NOMcom
 ADVgen
-ADVgen
+CONcoo
 PRE
 ADJqua
 NOMcom
@@ -43,7 +43,7 @@ NOMcom
 VERcjg
 PRE
 NOMcom
-ADJcar
+PROcar
 DETdef
 NOMcom
 PROper
@@ -166,7 +166,7 @@ DETpos
 NOMcom
 DETpos
 NOMcom
-PRE
+CONcoo
 DETpos
 NOMcom
 VERcjg
