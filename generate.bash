@@ -22,6 +22,8 @@ perl -i -pe "s/^.*\t(.+)$/\1/g" unseen_cleaned/*.tokenized-pie.txt
 perl -i -pe "s/\n/ /g"  unseen_cleaned/*.tokenized-pie.txt
 perl -i -pe "s/normalised //g"  unseen_cleaned/*.tokenized-pie.txt
 ~/pie-extended/env/bin/pie-extended tag fro unseen_cleaned/*tokenized-pie.txt
+cp unseen_cleaned/*tokenized-pie-pie.txt unseen_lemmas/
+cp unseen_cleaned/*tokenized-pie-pie.txt unseen_pos/
 # And then, get just lemmas or pos
 perl -i -pe "s/^[^\t]+\t([^\t]+)\t.*\n/\1\n/g" *_lemmas/*
 perl -i -pe "s/^[^\t]+\t[^\t]+\t([^\t]+)\t.*\n/\1\n/g" *_pos/*
