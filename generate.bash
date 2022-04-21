@@ -1,3 +1,8 @@
+# Clean
+rm train_cleaned_*/*
+rm unseen_cleaned/*tokenized*
+rm *_lemmas/*
+rm *_pos/*
 # Train data
 ~/boudams/env/bin/boudams tag ~/boudams/models/fro_denorm.boudams_model train_cleaned/*
 mv train_cleaned/*tokenized* train_cleaned_segm/
