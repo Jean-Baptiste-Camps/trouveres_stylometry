@@ -15,8 +15,8 @@ flours	flours
 et	et
 fueille	fueille
 et	et
-uerdure	verdure
-	un
+uerdu	verdu
+re	re
 uient	vient
 od	od
 la	la
@@ -40,7 +40,6 @@ amour	amour
 qui	qui
 trop	trop
 dure	dure
-	u
 sãs	sans
 ioie	joie
 et	et
@@ -137,7 +136,7 @@ qu	qu
 ele	ele
 m	m
 ait	ait
-ṃạ	maien
+ṃạ	maua
 destine	destine
 De	de
 tant	tant
@@ -180,7 +179,8 @@ mon	mon
 tort	tort
 ne	ne
 leisseroie	leisseroie
-afere	afere
+a	a
+fere	fere
 sa	sa
 uolente	volente
 Dame	Dame
@@ -267,15 +267,14 @@ la	la
 losengerie	losengerie
 de	de
 la	la
-felenes	felenes
-se	se
+felenesse	felenesse
 gent	gent
 mal	mal
 mont	mont
 fet	fet
 diex	diex
 les	les
-maudie	maudiee
+maudie	maudie
 ie	je
 le	le
 sai	sai

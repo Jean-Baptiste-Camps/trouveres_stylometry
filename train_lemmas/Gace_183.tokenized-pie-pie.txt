@@ -34,7 +34,6 @@ que4
 trop
 estre1
 tenir1
-o3
 vers2
 de
 guerredon
@@ -45,7 +44,7 @@ je
 avoir
 faire
 atendre
-amer1
+ami
 que4
 aler
 ne1
@@ -60,8 +59,8 @@ estre1
 aparoir
 car
 le
-charros
-il
+charroi
+le
 cendre
 covrir
 ce1
@@ -74,7 +73,7 @@ cuer2
 amer1
 verai
 amant
-non
+nom
 de+le
 ueil
 ne2
@@ -93,7 +92,6 @@ cuer2
 ne1
 devoir
 plaire
-où
 semblance
 de
 amor
@@ -134,8 +132,7 @@ si
 faire
 come1
 recroire
-o3
-cui
+qui
 son4
 baston
 tenir1
@@ -157,7 +154,7 @@ son4
 cors1
 bien1
 fart
-avenir
+avenant
 son4
 color
 rosee2
@@ -192,7 +189,6 @@ tot
 desplaire
 se
 je
-en2
 pöoir
 retraire
 biauté
@@ -205,7 +201,7 @@ dame
 bien1
 parler
 a3
-cui
+qui
 estre1
 debonaire
 a3
@@ -235,7 +231,6 @@ por2
 engagier
 o3
 vendre
-un
 je
 pöoir
 come1

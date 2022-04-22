@@ -129,8 +129,7 @@ en	en2	PROadv	MORPH=empty	en
 sui	estre1	VERcjg	MODE=ind|TEMPS=pst|PERS.=1|NOMB.=s	sui
 dolanz	dolent	ADJqua	NOMB.=s|GENRE=m|CAS=n|DEGRE=p	dolanz
 et	et	CONcoo	MORPH=empty	et
-esbahiz	esbäir	VERppe	NOMB.=s|GENRE=m|CAS=r	esbahiz
-u	où	PROrel	NOMB.=s	u
+esbahiz	esbäir	VERppe	NOMB.=p|GENRE=m|CAS=n	esbahiz
 quant	cant1	CONsub	MORPH=empty	quant
 je	je	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=n	je
 ne	ne1	ADVneg	MORPH=empty	ne
@@ -142,7 +141,7 @@ a	a3	PRE	MORPH=empty	a
 chief	chief1	NOMcom	NOMB.=s|GENRE=m|CAS=r	chief
 traire	traire	VERinf	MORPH=empty	traire
 et	et	CONcoo	MORPH=empty	et
-ie	je	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=n	ie
+je	je	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=n	je
 conment	coment1	ADVint	PERS.=1	conment
 quant	cant1	CONsub	MORPH=empty	quant
 nos	nos1	PROper	PERS.=1|NOMB.=p|GENRE=m|CAS=n	nos

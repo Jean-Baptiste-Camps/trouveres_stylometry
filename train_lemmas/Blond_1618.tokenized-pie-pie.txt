@@ -15,8 +15,7 @@ estre1
 pas
 de
 je
-sosprendre
-o3
+sorprendre
 devers
 mon1
 cuer2
@@ -41,12 +40,12 @@ il
 ne1
 estre1
 esprendre2
-o3
 por2
 mon1
 grant
 mal1
 il
+avoir
 requerre
 mais1
 le
@@ -66,7 +65,7 @@ estre1
 en1
 cest
 mout
-prendre
+prisier
 se
 i2
 estre1
@@ -89,9 +88,7 @@ estre1
 pas
 si
 eslire
-se
-et
-il
+le
 eslire
 que4
 il
@@ -130,7 +127,6 @@ ome
 de
 bas
 parenté
-o3
 qui
 mieus
 estre1
@@ -153,7 +149,7 @@ que4
 mon1
 cuer2
 il
-aidoner
+aideondre
 se
 son4
 amor
@@ -165,12 +161,11 @@ il
 servir
 a3
 gré2
-se
 il
 plaire
-a3
+avoir
 le
-desirrer
+desirrier2
 que2
 un
 baisier

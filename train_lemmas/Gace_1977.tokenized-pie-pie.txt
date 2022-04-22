@@ -25,11 +25,10 @@ le
 gent1
 voloir
 mostrer
-où
 se
 mon1
 dame
-avoir
+a3
 grant
 onor
 de
@@ -113,7 +112,6 @@ ost
 de
 mon1
 dolor
-o3
 que4
 le
 autre
@@ -137,7 +135,7 @@ ome
 tant
 ne1
 amer1
-comier
+comie
 faire
 en1
 lonc
@@ -153,7 +151,6 @@ cel
 qui
 tant
 servir
-où
 ne1
 devoir
 perdre
@@ -193,7 +190,6 @@ a3
 il
 je
 doner
-o3
 bien1
 je
 devoir

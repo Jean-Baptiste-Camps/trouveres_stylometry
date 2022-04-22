@@ -38,7 +38,6 @@ cuer	cuer
 urai	vrai
 et	et
 fort	fort
-	u
 que	que
 se	se
 dieu	dieu
@@ -93,7 +92,7 @@ doutriẽz	doutrienz
 en	en
 cest	cest
 mout	mout
-ꝯme	quomme
+ꝯme	comme
 ce	ce
 que	que
 uous	vous
@@ -126,7 +125,6 @@ de	de
 fine	fine
 amour	amour
 uient	vient
-	u
 qu	qu
 il	il
 se	se
@@ -185,7 +183,7 @@ ma	ma
 dame	dame
 touz	touz
 tens	tens
-tiegie	Etiegie
+tiegie	tiegie
 ce	ce
 sachiez	sachiez
 a	a

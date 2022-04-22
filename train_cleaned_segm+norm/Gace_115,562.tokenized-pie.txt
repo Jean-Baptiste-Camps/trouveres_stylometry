@@ -34,8 +34,8 @@ a	a
 si	si
 mis	mis
 en	en
-nonchaloir	nonchaloir
-	u
+non	non
+chaloir	chaloir
 que	que
 ie	je
 ne	ne
@@ -64,7 +64,6 @@ doiuent	doivent
 requerre	requerre
 par	par
 mentir	mentir
-	u
 qu	qu
 il	il
 ne	ne

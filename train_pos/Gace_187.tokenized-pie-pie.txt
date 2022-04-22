@@ -80,7 +80,6 @@ DETind
 NOMcom
 VERcjg
 VERppe
-CONcoo
 PROrel
 ADVgen
 ADVneg
@@ -210,8 +209,7 @@ VERcjg
 PRE
 DETpos
 NOMcom
-DETndf
-NOMcom
+VERcjg
 NOMcom
 VERppe
 PRE.DETdef
@@ -222,7 +220,8 @@ DETpos
 NOMcom
 ADVgen
 VERcjg
-PRE.DETdef
+CONsub
+PROper
 ADVneg
 PROper
 VERcjg
@@ -250,9 +249,10 @@ NOMcom
 VERppe
 NOMcom
 DETdef
-VERcjg
 NOMcom
-PROrel
+PRE
+DETpos
+NOMcom
 ADVgen
 CONsub
 NOMcom

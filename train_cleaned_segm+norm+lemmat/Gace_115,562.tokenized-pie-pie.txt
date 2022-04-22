@@ -34,9 +34,9 @@ a	avoir	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s	a
 si	si	ADVgen	DEGRE=-	si
 mis	metre2	VERppe	PERS.=1|NOMB.=s|GENRE=m|CAS=r	mis
 en	en1	PRE	MORPH=empty	en
-nonchaloir	nonchaloir	VERinf	MORPH=empty	nonchaloir
-u	o3	PROrel	NOMB.=s	u
-que	que4	PROrel	MORPH=empty	que
+non	nom	NOMcom	NOMB.=s	non
+chaloir	chaloir	VERinf	MORPH=empty	chaloir
+que	que4	CONsub	MORPH=empty	que
 je	je	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=n	je
 ne	ne1	ADVneg	MORPH=empty	ne
 cuit	cuidier1	VERcjg	MODE=ind|TEMPS=pst|PERS.=1|NOMB.=s	cuit
@@ -52,7 +52,7 @@ ele	il	PROper	PERS.=3|NOMB.=s|GENRE=f|CAS=n	ele
 n	ne1	ADVneg	MORPH=empty	n
 est	estre1	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s	est
 si	si	ADVgen	DEGRE=-	si
-estraigne	estraime	ADJqua	NOMB.=s|GENRE=f|CAS=n|DEGRE=p	estraigne
+estraigne	estraiment	ADJqua	NOMB.=s|GENRE=f|CAS=n|DEGRE=p	estraigne
 fait	faire	VERppe	NOMB.=s|GENRE=f|CAS=n	fait
 Boine	bonir	NOMpro	NOMB.=s|GENRE=f|CAS=n	Boine
 dame	dame	NOMcom	NOMB.=s|GENRE=f|CAS=n	dame
@@ -64,8 +64,7 @@ doivent	devoir	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=p	doivent
 requerre	requerre	VERinf	MORPH=empty	requerre
 par	par	PRE	MORPH=empty	par
 mentir	mentir	VERinf	MORPH=empty	mentir
-u	où	PROrel	NOMB.=s	u
-qu	que4	PROrel	MORPH=empty	qu
+qu	que4	CONsub	MORPH=empty	qu
 il	il	PROper	PERS.=3|NOMB.=p|GENRE=m|CAS=n	il
 ne	ne1	ADVneg	MORPH=empty	ne
 seussent	savoir	VERcjg	MODE=sub|TEMPS=pst|PERS.=3|NOMB.=p	seussent

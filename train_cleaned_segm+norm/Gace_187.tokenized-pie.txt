@@ -81,7 +81,6 @@ tel	tel
 ioie	joie
 auroie	auroie
 conquise	conquise
-	u
 qui	qui
 ia	ja
 n	n
@@ -211,7 +210,6 @@ sui	sui
 en	en
 son	son
 seruise	servise
-	un
 iamena	jamena
 ioie	joie
 pramise	pramise
@@ -222,7 +220,8 @@ en	en
 sa	sa
 baillie	baillie
 mal	mal
-feras	feras
+fera	fera
+s	s
 el	el
 ne	ne
 m	m
@@ -251,9 +250,10 @@ longe	longe
 atendance	atendance
 serur	serur
 la	la
-uueillasa	vueillasa
+uueill	vueill
+a	a
+sa	sa
 guise	guise
-	u
 tant	tant
 que	que
 amours	amours

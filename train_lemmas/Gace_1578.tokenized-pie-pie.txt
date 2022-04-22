@@ -6,11 +6,11 @@ pais
 longement2
 je
 traire
-mort
+morir
 conte1
 estrange
 terre
-languison
+languist
 las
 sans
 deduit
@@ -37,7 +37,6 @@ cuer2
 verai
 et
 fort
-o3
 que4
 se
 dieu
@@ -104,7 +103,7 @@ legier2
 de
 feme
 avenir
-que4
+*ex
 le
 amer1
 doter2
@@ -125,7 +124,6 @@ de
 fin2
 amor
 venir
-o3
 que4
 il
 soi1
@@ -184,7 +182,7 @@ mon1
 dame
 tot
 tens
-Eteigde
+tien1
 ce1
 savoir
 a3

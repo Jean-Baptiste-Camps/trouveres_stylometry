@@ -83,9 +83,8 @@ ne1
 je
 laissier
 repentir
-o3
 car
-en2
+en1
 amer1
 voloir
 bien1
@@ -101,7 +100,7 @@ je
 laissier
 en1
 päis
-mon1
+mais1
 or4
 estre1
 je

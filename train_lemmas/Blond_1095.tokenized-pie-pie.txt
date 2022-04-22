@@ -41,7 +41,6 @@ et
 force2
 et
 pöoir
-où
 ne1
 laissier
 mon1
@@ -108,7 +107,7 @@ ne1
 querre
 que4
 nos1
-main2
+ment
 ataindre
 issir
 de
@@ -130,12 +129,12 @@ que4
 ja
 de
 je
-ne2
+ne1
 soi1
 clamer
 marz
 ainsi
-conort
+conroë
 je
 destreindre
 mon1
@@ -143,11 +142,10 @@ destreindre
 sans
 avoir
 guerredon
-o3
 ne2
 dieu
 voloir
-ne1
+ne2
 il
 doner
 que4
@@ -161,7 +159,7 @@ cuer2
 je
 amer1
 et
-empoisëor
+empoistre
 cler
 faucon
 le
@@ -170,7 +168,7 @@ qui
 je
 destreindre
 et
-il
+le
 bien1
 dont
 i2
@@ -186,7 +184,7 @@ mener
 et
 si
 le
-empoistre
+empoire
 cuer2
 remanoir
 que4
@@ -198,8 +196,7 @@ vos
 se
 dolor
 non
-o3
-donc
+dont
 ne1
 savoir
 je
@@ -218,7 +215,7 @@ mal1
 de
 amor
 si
-monde1
+mont
 grëer
 que4
 onque
@@ -238,7 +235,7 @@ or4
 ne1
 avoir
 merci
-soi1
+se
 i2
 avoir
 faire
@@ -253,7 +250,6 @@ de
 vostre
 grant
 biauté
-o3
 ne1
 je
 en2
@@ -271,7 +267,6 @@ je
 doner
 mon1
 volenté
-o3
 de
 vos
 qui
@@ -283,7 +278,8 @@ il
 vos
 devoir
 venir
-agreer
+a3
+gré2
 ainz
 avoir
 tot
@@ -303,7 +299,6 @@ ne1
 je
 estre1
 amende1
-o3
 le
 mal1
 qui
@@ -318,7 +313,7 @@ en1
 non
 dire
 que4
-blandor
+blandon
 avoir
 de
 son4

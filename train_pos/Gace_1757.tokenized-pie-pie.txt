@@ -28,7 +28,7 @@ NOMcom
 DETpos
 NOMcom
 VERcjg
-VERppe
+ADVgen
 VERcjg
 NOMcom
 CONsub
@@ -38,7 +38,6 @@ ADVneg
 VERcjg
 DETind
 VERinf
-CONcoo
 PRE
 PROper
 PROrel

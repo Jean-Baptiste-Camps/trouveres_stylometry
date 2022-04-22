@@ -18,7 +18,6 @@ me	me
 uouaument	vovaument
 sanz	sanz
 trichier	trichier
-	u
 de	de
 duel	duel
 morrai	morrai
@@ -76,7 +75,6 @@ en	en
 puet	puet
 pas	pas
 empirier	empirier
-	u
 de	de
 li	li
 amer	amer
@@ -124,14 +122,13 @@ doit	doit
 auoir	avoir
 uers	vers
 franchise	franchise
-	u
 ma	ma
 loiautez	loiautez
 que	que
 proier	proier
 sanz	sanz
 doloir	doloir
-s	us
+s	s
 amours	amours
 est	est
 teus	teus
@@ -183,7 +180,6 @@ ne	ne
 li	li
 faites	faites
 sauoir	savoir
-	u
 ia	ja
 ne	ne
 uerrai	verrai
@@ -242,7 +238,6 @@ de	de
 li	li
 sui	sui
 pres	pres
-	u
 maiz	maiz
 s	s
 amours	amours
@@ -257,7 +252,6 @@ si	si
 en	en
 son	son
 demainne	demainne
-	u
 a	a
 il	il
 son	son
@@ -265,9 +259,9 @@ cuer	cuer
 maintes	maintes
 fois	fois
 mercie	mercie
-	u
 ce	ce
-quele	quele
+qu	qu
+ele	ele
 fu	fu
 sa	sa
 ioie	joie
@@ -281,8 +275,9 @@ il	il
 n	n
 ait	ait
 puis	puis
-ꝯpere	conperee
-sa	sa
+ꝯ	com
+peres	peres
+a	a
 grant	grant
 biaute	biaute
 chascun	chascun
@@ -295,7 +290,6 @@ n	n
 a	a
 doucement	doucement
 conforte	conforte
-	u
 c	c
 onques	onques
 ne	ne

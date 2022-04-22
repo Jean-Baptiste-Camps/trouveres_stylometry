@@ -5,7 +5,6 @@ me	me
 uueillesioir	vueillesioir
 en	en
 chantant	chantant
-	u
 en	en
 tel	tel
 maniere	maniere
@@ -39,7 +38,6 @@ uiure	vivre
 u	u
 bel	bel
 morir	morir
-	u
 en	en
 merci	merci
 et	et
@@ -119,7 +117,6 @@ souent	sovent
 me	me
 font	font
 fremir	fremir
-	u
 de	de
 lor	lor
 maudire	maudire
@@ -158,14 +155,12 @@ ne	ne
 seuent	sevent
 clorre	clorre
 nourrir	nourrir
-	u
 sachiez	sachiez
 q̃	que
 d	d
 a	a
 li	li
 uenir	venir
-	un
 est	est
 ma	ma
 uolentez	volentez
@@ -179,7 +174,7 @@ si	si
 tres	tres
 ioianz	joianz
 en	en
-iere	iere
+iere	Jere
 maiz	maiz
 ce	ce
 m	m
@@ -233,8 +228,8 @@ ne	ne
 iamais	jamais
 partis	partis
 nen	nen
-iere	iere
-Chancons	Chancons
+iere	Jere
+Chancons	Chançons
 di	di
 mon	mon
 bel	bel
@@ -252,7 +247,6 @@ doit	doit
 on	on
 nule	nule
 aatir	aatir
-	u
 d	d
 espaigne	espaigne
 trusqu	trusqu
@@ -272,7 +266,6 @@ me	me
 font	font
 uolẽtiers	volentiers
 guenchir	guenchir
-	u
 uilainne	vilainne
 gent	gent
 mal	mal

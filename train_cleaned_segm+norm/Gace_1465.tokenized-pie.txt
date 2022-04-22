@@ -84,14 +84,13 @@ ne	ne
 me	me
 lait	lait
 repentir	repentir
-	u
 car	car
 en	en
 amant	amant
 uueil	vueil
 bien	bien
 finer	finer
-Amours	amours
+Amours	Amours
 tel	tel
 heure	heure
 ui	vi

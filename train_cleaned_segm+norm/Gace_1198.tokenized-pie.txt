@@ -38,7 +38,6 @@ s	s
 aime	aime
 bien	bien
 sai	sai
-	u
 qu	qu
 il	il
 fait	fait
@@ -104,7 +103,7 @@ n	n
 aurai	aurai
 cointable	cointable
 uie	vie
-La	la
+La	La
 haute	haute
 honours	honours
 que	que
@@ -142,7 +141,6 @@ par	par
 ce	ce
 en	en
 amai	amai
-	u
 la	la
 uolente	volente
 hardie	hardie
@@ -153,14 +151,13 @@ fins	fins
 amis	amis
 n	n
 oublie	oublie
-Fine	Fine
+Fine	fine
 amours	amours
 est	est
 de	de
 tel	tel
 force	force
 establie	establie
-	u
 que	que
 seur	seur
 touz	touz
@@ -182,8 +179,7 @@ desdie	desdie
 car	car
 ie	ie
 li	li
-otroiaique	otroiaique
-s	s
+otroiaiques	otroiaiques
 uẽs	vens
 sui	sui
 et	et
@@ -230,7 +226,8 @@ contredie	contredie
 aĩz	ainz
 di	di
 que	que
-iatendrai	iatendrai
+i	i
+atendrai	atendrai
 od	od
 les	les
 mauz	mauz

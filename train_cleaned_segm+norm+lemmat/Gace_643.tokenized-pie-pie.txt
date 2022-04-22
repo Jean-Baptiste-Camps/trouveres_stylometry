@@ -38,8 +38,8 @@ qui	qui	PROrel	NOMB.=s|GENRE=m|CAS=n	qui
 d	de	PRE	MORPH=empty	d
 amours	amor	NOMcom	NOMB.=s|GENRE=f|CAS=r	amours
 se	soi1	PROper	PERS.=3|NOMB.=s|GENRE=m|CAS=r	se
-repente	repentir	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s	repente
-s	soi1	PROper	NOMB.=s|CAS=r	s
+repent	repentir	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s	repent
+s	soi1	PROper	NOMB.=s|GENRE=m|CAS=r	s
 est	estre1	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s	est
 bien	bien1	ADVgen	DEGRE=p	bien
 traveilliez	travaillier	VERppe	NOMB.=s|GENRE=m|CAS=n	traveilliez
@@ -153,7 +153,7 @@ n	ne2	ADVneg	MORPH=empty	n
 i	i2	PROadv	MORPH=empty	i
 or	or4	ADVgen	MORPH=empty	or
 l	il	PROper	NOMB.=s|GENRE=f|CAS=r	l
-eusse	avoir	VERcjg	MODE=sub|TEMPS=pst|PERS.=1|NOMB.=s	eusse
+eusse	avoir	VERcjg	MODE=sub|TEMPS=pst|NOMB.=s	eusse
 oubliee	oblïer	VERppe	NOMB.=s|GENRE=f|CAS=r	oubliee
 dame	dame	NOMcom	NOMB.=s|GENRE=f|CAS=n	dame
 qui	qui	PROrel	NOMB.=s|GENRE=f|CAS=n	qui
@@ -169,10 +169,9 @@ me	je	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=i	me
 fait	faire	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s	fait
 sovent	sovent	ADVgen	DEGRE=-	sovent
 souspirer	sospirer	VERinf	MORPH=empty	souspirer
-u	o3	CONcoo	NOMB.=s	u
-qu	que2	PROrel	NOMB.=s|GENRE=m	qu
+qu	que4	CONsub	GENRE=m	qu
 anuis	enui	NOMcom	NOMB.=s|GENRE=m	anuis
-fait	faire	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s	fait
+fait	faire	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s|CAS=r	fait
 envie	envie	NOMcom	NOMB.=s|GENRE=f|CAS=r	envie
 durer	durer	VERinf	MORPH=empty	durer
 Dame	dame	NOMcom	NOMB.=s|GENRE=f|CAS=r	Dame
@@ -182,8 +181,8 @@ la	le	DETdef	NOMB.=s|GENRE=f|CAS=r	la
 nomper	nompre	VERinf	MORPH=empty	nomper
 bele	bel1	ADJqua	NOMB.=s|GENRE=f|CAS=r|DEGRE=p	bele
 et	et	CONcoo	MORPH=empty	et
-blonde	blont	ADJqua	NOMB.=s|GENRE=f|CAS=r|DEGRE=p	blonde
-a	a3	VERcjg	NOMB.=s	a
+blonde	blont	ADJqua	NOMB.=s|CAS=r|DEGRE=p	blonde
+a	a3	PRE	NOMB.=s	a
 droit	droit	NOMcom	NOMB.=s|GENRE=m|CAS=r	droit
 loee	löer1	VERppe	PERS.=3|NOMB.=s|CAS=r	loee
 ja	ja	ADVgen	DEGRE=-	ja
@@ -192,7 +191,7 @@ devries	devoir	VERcjg	MODE=con|PERS.=2|NOMB.=p	devries
 escouter	escouter	VERinf	MORPH=empty	escouter
 fausse	faus	ADJqua	MODE=sub|NOMB.=s|GENRE=f|CAS=r|DEGRE=p	fausse
 gent	gent1	NOMcom	NOMB.=s|GENRE=f|CAS=r	gent
-maleüree	malëuros	VERppe	NOMB.=s|GENRE=f|CAS=n|DEGRE=p	maleüree
+maleüree	malëuros	VERppe	NOMB.=s|GENRE=f|CAS=r	maleüree
 qu	que4	PROrel	MORPH=empty	qu
 a	a3	PRE	MORPH=empty	a
 mentir	mentir	VERinf	MORPH=empty	mentir
@@ -207,7 +206,6 @@ puis	puis	ADVgen	DEGRE=-	puis
 ne	ne1	ADVneg	MORPH=empty	ne
 savoit	savoir	VERcjg	MODE=ind|TEMPS=ipf|PERS.=3|NOMB.=s	savoit
 assener	assener	VERinf	MORPH=empty	assener
-u	où	PROrel	MORPH=empty	u
 la	là	ADVgen	DEGRE=-	la
 u	où	PROrel	NOMB.=s|GENRE=n|CAS=i	u
 ele	il	PROper	PERS.=3|NOMB.=s|GENRE=f|CAS=n	ele
@@ -217,7 +215,7 @@ Dame	dame	NOMcom	NOMB.=s|GENRE=f|CAS=r	Dame
 onques	onque	ADVgen	DEGRE=-	onques
 ne	ne2	ADVneg	MORPH=empty	ne
 vous	vos	PROper	PERS.=2|NOMB.=p|GENRE=m|CAS=i	vous
-seu	savoir	VERcjg	MODE=ind|PERS.=2|NOMB.=s	seu
+seu	savoir	VERcjg	MODE=ind|PERS.=3|NOMB.=s	seu
 celer	celer1	VERinf	MORPH=empty	celer
 mon	mon1	DETpos	PERS.=1|NOMB.=s|GENRE=m|CAS=r	mon
 desir	desir	NOMcom	NOMB.=s|GENRE=m|CAS=r	desir
@@ -236,7 +234,7 @@ que	que4	CONsub	MORPH=empty	que
 nule	nul	DETind	NOMB.=s|GENRE=f|CAS=r	nule
 autre	autre	ADJind	NOMB.=s|GENRE=f|CAS=r	autre
 rienz	rien	NOMcom	NOMB.=s|GENRE=f|CAS=r	rienz
-nee	naistre	VERcjg	NOMB.=s|GENRE=f	nee
+nee	naistre	VERppe	NOMB.=s|GENRE=f	nee
 a	a3	PRE	MODE=ind|PERS.=3	a
 vous	vos	PROper	PERS.=2|NOMB.=p|GENRE=m|CAS=i	vous
 servir	servir	VERinf	MORPH=empty	servir
@@ -256,7 +254,7 @@ ne	ne2	CONcoo	MORPH=empty	ne
 loinz	loing	NOMcom	DEGRE=p	loinz
 guerir	gerir	VERinf	MORPH=empty	guerir
 ne	ne2	CONcoo	MORPH=empty	ne
-pres	près	ADVgen	PERS.=2|DEGRE=-	pres
+pres	près	ADVgen	DEGRE=-	pres
 durer	durer	VERinf	MORPH=empty	durer
 Cuens	conte1	NOMcom	NOMB.=s|GENRE=m|CAS=r	Cuens
 de	de	PRE	MORPH=empty	de

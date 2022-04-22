@@ -34,7 +34,6 @@ mon	mon
 plaisir	plaisir
 u	u
 autrement	autrement
-	un
 cuit	cuit
 morir	morir
 sanz	sanz
@@ -167,15 +166,14 @@ pertu	pertu
 iai	iai
 m	m
 atendance	atendance
-	u
-asseure	asseure
+as	as
+seure	seure
 ma	ma
 de	de
 morir	morir
 la	la
 flours	flours
 Ha	Ha
-	u
 laz	laz
 ie	ie
 l	l
@@ -284,7 +282,6 @@ a	a
 de	de
 sa	sa
 uaillance	vaillance
-	u
 dame	dame
 ne	ne
 pucele	pucele
@@ -344,7 +341,6 @@ est	est
 bele	bele
 et	et
 blanche	blanche
-	un
 ne	ne
 m	m
 en	en

@@ -80,7 +80,6 @@ tel
 joie
 avoir
 conquerre
-o3
 qui
 ja
 ne1
@@ -95,7 +94,7 @@ empirier
 par
 faus
 gent1
-noveler2
+noveler
 por2
 ce1
 entrer
@@ -166,9 +165,9 @@ mençogne
 mais1
 a3
 servir
-laissier
+là
 emprendre
-il
+en1+le
 faire
 dusque
 a3+le
@@ -210,7 +209,6 @@ estre1
 en1
 son4
 servise
-un
 jamener
 joie
 prometre
@@ -222,9 +220,10 @@ son4
 baillie
 mal1
 faire
+se
 en1+le
-ne2
-mon1
+ne1
+je
 avance
 ne2
 ja
@@ -235,7 +234,7 @@ nos1
 dire
 ne1
 avoir
-Alexis
+aler
 mon1
 fïance
 ainz
@@ -251,8 +250,9 @@ atendance
 seror
 le
 voloir
+a3
+son4
 guise
-o3
 tant
 que4
 amor

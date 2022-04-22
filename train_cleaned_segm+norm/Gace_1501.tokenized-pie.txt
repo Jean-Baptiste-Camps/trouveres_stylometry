@@ -16,7 +16,6 @@ m	m
 en	en
 peusse	peusse
 escondire	escondire
-	u
 du	du
 tout	tout
 le	le
@@ -32,10 +31,8 @@ la	la
 me	me
 conuient	convient
 penser	penser
-	u
 ou	ou
-l	l
-en	en
+len	len
 pluz	pluz
 ueut	veut
 mon	mon
@@ -64,7 +61,6 @@ esmai	esmai
 et	et
 li	li
 consire	consire
-	un
 doiuent	doivent
 la	la
 ioie	joie
@@ -279,7 +275,6 @@ dont	dont
 on	on
 puet	puet
 ioir	joir
-	u
 par	par
 tel	tel
 desir	desir
@@ -293,7 +288,6 @@ doit	doit
 mis	mis
 sanz	sanz
 maintenir	maintenir
-	u
 trusqu	trusqu
 al	al
 morir	morir

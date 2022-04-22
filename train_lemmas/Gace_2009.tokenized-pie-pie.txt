@@ -14,8 +14,8 @@ flor1
 et
 fueille
 et
-verdor
-un
+verdoiier
+restre
 venir
 o4
 le
@@ -31,7 +31,7 @@ avoir
 si
 droit
 ochaison
-que2
+que4
 i2
 amer1
 de
@@ -39,7 +39,6 @@ amor
 qui
 trop
 durer
-o3
 sans
 joie
 et
@@ -50,13 +49,13 @@ estre1
 de
 crüel
 nature
-que2
+qui
 amor
 faire
 sans
 raison
 que4
-on
+en2
 il
 avoir
 metre2
@@ -136,7 +135,7 @@ que4
 il
 je
 avoir
-moiien
+maugan
 destinee
 de
 tant
@@ -149,7 +148,7 @@ il
 en2
 savoir
 bon
-grief
+gré2
 a3
 mon1
 plaisir
@@ -179,7 +178,8 @@ mon1
 tort2
 ne1
 laissier
-afaire2
+a3
+faire
 son4
 volenté
 dame
@@ -267,10 +267,9 @@ losengier1
 de
 le
 felon
-se
 gent1
 mal1
-monde1
+mout
 faire
 dieu
 il

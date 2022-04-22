@@ -18,7 +18,6 @@ cuer	cuer
 angoisse	angoisse
 et	et
 mahaigne	mahaigne
-	u
 ie	ie
 n	n
 en	en
@@ -44,7 +43,7 @@ doleur	doleur
 que	que
 pour	pour
 li	li
-sentor	sentror
+sentor	sentor
 li	li
 proi	proi
 que	que
@@ -96,12 +95,10 @@ m	m
 amoit	amoit
 si	si
 loiaument	loiaument
-	u
 ꝯ	com
 si	si
 oeill	oeill
-m	m
-en	en
+men	men
 firent	firent
 l	l
 enseigne	enseigne
@@ -116,7 +113,6 @@ tant	tant
 porroie	porroie
 ie	ie
 guerir	guerir
-	u
 de	de
 cest	cest
 mal	mal
@@ -149,7 +145,6 @@ puis	puis
 ne	ne
 deuroie	devroie
 ioir	joir
-	u
 des	des
 biens	biens
 donc	donc
@@ -209,7 +204,6 @@ ne	ne
 decoiuent	deçoivent
 par	par
 mentir	mentir
-	un
 font	font
 bien	bien
 samblant	samblant
@@ -282,11 +276,10 @@ s	s
 amast	amast
 de	de
 cuer	cuer
-entier	entier
-	u
-si	si
+entiersi	entiersi
 ꝯ	com
-iefais	Jefais
+ie	je
+fais	fais
 en	en
 grant	grant
 folage	folage

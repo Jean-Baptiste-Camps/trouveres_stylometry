@@ -26,7 +26,6 @@ la	la
 gent	gent
 uueill	vueill
 moustrer	moustrer
-	u
 se	se
 ma	ma
 dame	dame
@@ -114,7 +113,6 @@ ost	ost
 de	de
 ma	ma
 dolour	dolour
-	u
 que	que
 l	l
 autre	autre
@@ -154,13 +152,12 @@ cil	cil
 qui	qui
 tant	tant
 seruia	servia
-	u
 ne	ne
 doit	doit
 perdre	perdre
 pour	pour
 soufrir	soufrir
-A	a
+A	A
 nului	nului
 tort	tort
 ne	ne
@@ -194,7 +191,6 @@ a	a
 li	li
 me	me
 dona	dona
-	u
 bien	bien
 me	me
 doi	doi

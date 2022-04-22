@@ -81,7 +81,6 @@ ueut	veut
 sa	sa
 ioie	joie
 atendre	atendre
-	un
 sache	sache
 pour	pour
 uoir	voir
@@ -132,7 +131,7 @@ pitiez	pitiez
 qui	qui
 toute	toute
 rienz	rienz
-amende	amende
+amende	amende
 ne	ne
 uaintraison	vaintraison
 en	en
@@ -184,7 +183,6 @@ ses	ses
 ualours	valours
 me	me
 uende	vende
-	u
 perdus	perdus
 me	me
 sui	sui
@@ -234,7 +232,8 @@ legier	legier
 uainquisse	vainquisse
 paine	paine
 et	et
-irese	iresse
+ire	ire
+se	se
 biau	biau
 samblant	samblant
 fussent	fussent
@@ -255,8 +254,7 @@ mes	mes
 cuers	cuers
 qui	qui
 tele	tele
-l	l
-a	a
+la	la
 desirre	desirre
 certes	certes
 maiz	maiz
@@ -264,9 +262,7 @@ cil	cil
 qui	qui
 por	por
 amour	amour
-empire	empire
-	u
-n	n
+empiren	empiren
 a	a
 en	en
 li	li

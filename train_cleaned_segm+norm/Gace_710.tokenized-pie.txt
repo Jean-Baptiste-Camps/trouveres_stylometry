@@ -42,7 +42,6 @@ uous	vous
 en	en
 prende	prende
 pitiez	pitiez
-	u
 qu	qu
 il	il
 ne	ne
@@ -61,7 +60,6 @@ que	que
 raisons	raisons
 me	me
 desfent	desfent
-	u
 si	si
 haute	haute
 amour	amour
@@ -78,7 +76,6 @@ sunt	sunt
 d	d
 un	un
 contenement	contenement
-	u
 puiz	puiz
 queles	queles
 a	a
@@ -105,7 +102,6 @@ s	s
 en	en
 est	est
 auanciez	avanciez
-	u
 a	a
 son	son
 talent	talent
@@ -151,8 +147,7 @@ piez	piez
 maiz	maiz
 ie	je
 sui	sui
-las	las
-seur	seur
+lasseur	lasseur
 touz	touz
 autres	autres
 puiez	puiez
@@ -170,7 +165,7 @@ qui	qui
 fait	fait
 tel	tel
 hardement	hardement
-Par	Par
+Par	par
 dieu	dieu
 dame	dame
 l	l
@@ -204,8 +199,7 @@ m	m
 ociiez	ociiez
 et	et
 s	s
-en	en
-droit	droit
+endroit	endroit
 uous	vous
 ert	ert
 ueincue	veincue
@@ -233,7 +227,6 @@ et	et
 cors	cors
 tres	tres
 gẽt	gent
-	un
 uous	vous
 dona	dona
 diex	diex
@@ -267,7 +260,6 @@ mauuaiz	mauvaiz
 hounourer	hounourer
 ne	ne
 sachiez	sachiez
-	u
 uilainne	vilainne
 gent	gent
 qui	qui
@@ -294,7 +286,6 @@ du	du
 partir	partir
 estes	estes
 appareilliez	appareilliez
-	u
 ia	ja
 onques	onques
 dieux	dieux

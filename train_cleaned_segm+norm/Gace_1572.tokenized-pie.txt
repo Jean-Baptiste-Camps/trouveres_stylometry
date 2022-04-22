@@ -130,7 +130,6 @@ sui	sui
 dolanz	dolanz
 et	et
 esbahiz	esbahiz
-	u
 quant	quant
 ie	je
 ne	ne
@@ -142,7 +141,7 @@ a	a
 chief	chief
 traire	traire
 et	et
-ie	ie
+ie	je
 conment	conment
 quant	quant
 nos	nos

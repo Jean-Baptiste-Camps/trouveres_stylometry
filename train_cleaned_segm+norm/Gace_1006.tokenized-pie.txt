@@ -101,7 +101,8 @@ ne	ne
 truist	truist
 amour	amour
 sauuage	sauvage
-Halas	Harlas
+Ha	Ha
+las	las
 chaitis	chaitis
 ma	ma
 dame	dame
@@ -114,7 +115,7 @@ ami	ami
 cui	cui
 dolour	dolour
 n	n
-assouage	assouage
+assouage	assovage
 merci	merci
 amors	amors
 sele	sele
@@ -224,10 +225,9 @@ ris	ris
 et	et
 ioie	joie
 m	m
-est	est
-ueee	veee
-he	hee
-las	las
+estuee	estuee
+e	e
+helas	helas
 chait	chait
 issi	issi
 dure	dure
