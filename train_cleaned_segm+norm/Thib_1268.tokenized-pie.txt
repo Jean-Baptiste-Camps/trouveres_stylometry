@@ -49,6 +49,7 @@ mon	mon
 talant	talant
 que	que
 menu	menu
+⁊	et
 souuẽt	souvent
 Bien	Bien
 me	me
@@ -80,6 +81,7 @@ tant	tant
 ꝯme	comme
 li	li
 seulement	seulement
+⁊	et
 s	s
 en	en
 a	a
@@ -91,9 +93,12 @@ renouele	renovele
 amors	amors
 me	me
 lace	lace
+⁊	et
 prent	prent
+⁊	et
 fait	fait
 li	li
+⁊	et
 ioiant	joiant
 por	por
 ce	ce
@@ -107,9 +112,10 @@ fine	fine
 amors	amors
 me	me
 semõt	semont
-ml̃t	mout
+ml̃t	moult
 me	me
 plest	plest
+⁊	et
 agree	agree
 que	que
 c	c
@@ -134,6 +140,7 @@ m	m
 en	en
 puis	puis
 pl᷒tenir	plustenir
+⁊	et
 dou	dou
 tot	tot
 obeir	obeir
@@ -143,11 +150,12 @@ riens	riens
 qui	qui
 soit	soit
 nee	nee
-sele	sele
+s	s
+ele	ele
 me	me
 fait	fait
 languir	languir
-	et
+⁊	et
 uois	vois
 iusq	jusq
 au	au
@@ -157,7 +165,7 @@ ame	ame
 en	en
 sera	sera
 lauuee	lauvee
-Se	Se
+Se	se
 la	la
 mieudre	mieudre
 de	de
@@ -178,7 +186,8 @@ ci	ci
 a	a
 fort	fort
 destiner	destiner
-sace	sace
+sa	sa
+ce	ce
 puis	puis
 ia	ja
 uenir	venir
@@ -188,6 +197,7 @@ sanz	sanz
 repentir	repentir
 m	m
 auoit	avoit
+⁊	et
 mon	mon
 plaisir	plaisir
 de	de
@@ -203,8 +213,9 @@ mentir	mentir
 qu	qu
 aurai	aurai
 tot	tot
-monde	monde
-sir	sir
+mon	mon
+desir	desir
+⁊	et
 ma	ma
 queste	queste
 eschuiee	eschuiee
@@ -218,7 +229,8 @@ coloree	coloree
 puet	puet
 bien	bien
 dire	dire
-iehir	Jehir
+⁊	et
+iehir	iehir
 que	que
 por	por
 lui	lui

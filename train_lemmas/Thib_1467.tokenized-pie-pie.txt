@@ -43,11 +43,12 @@ achater
 le
 bien2
 bel1
+et
 bon
 a3
 vos
 servir
-voile1
+voloir
 que4
 amor
 savoir
@@ -130,7 +131,8 @@ estovoir1
 que4
 le
 voie
-que2
+et
+que4
 son4
 frois1
 color
@@ -139,13 +141,13 @@ en1
 mon1
 cuer2
 mirëor
-Dieu
+dieu
 come1
 si
 faire
 bel1
 mire1
-nul
+nos1
 atendre
 je
 estovoir1
@@ -192,6 +194,7 @@ aler
 tu
 en1
 tost1
+et
 dire
 blasmer
 a3

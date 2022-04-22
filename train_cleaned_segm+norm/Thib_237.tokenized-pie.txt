@@ -62,6 +62,7 @@ dame	dame
 a	a
 tel	tel
 connoissance	connoissance
+⁊	et
 tel	tel
 renon	renon
 que	que
@@ -92,7 +93,9 @@ Mielz	mielz
 ami	ami
 de	de
 lui	lui
-lacoitance	lacoitance
+la	la
+coitance	coitance
+⁊	et
 le	le
 non	non
 que	que
@@ -125,6 +128,7 @@ iors	jors
 remir	remir
 sa	sa
 semblance	semblance
+⁊	et
 sa	sa
 facon	facon
 aiez	aiez
@@ -136,12 +140,11 @@ ma	ma
 mescheance	mescheance
 eee	eee
 Dame	Dame
-i	j
+i	i
 ai	ai
 entencion	entencion
 que	que
 uos	vos
 aurez	avrez
 connoissance	connoissance
-e	e
-ee	ee
+eee	eee

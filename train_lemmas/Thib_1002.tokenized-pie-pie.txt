@@ -71,6 +71,7 @@ merci
 crïer2
 en1
 dormir
+et
 en1
 veillant
 estre1
@@ -80,6 +81,7 @@ de+le
 tot
 a3
 il
+et
 il
 priier
 doucement
@@ -103,6 +105,7 @@ Joie
 tot
 mentorber
 -
+et
 duel
 a3
 cel
@@ -115,10 +118,11 @@ assentir1
 mon1
 cuer2
 plorer
+et
 je
-en1
-chantelier
-mont
+en2
+chanterier
+mout
 mon1
 ueil
 traire
@@ -131,7 +135,7 @@ garir
 doner
 lent1
 ne2
-porcant
+por2+cont
 de
 je
 priier
@@ -146,7 +150,7 @@ morir
 estre1
 sans
 falir
-sel2
+sel1
 savoir
 dont
 mon1
@@ -180,7 +184,7 @@ sans
 mentir
 que4
 un
-regart
+regarder
 le
 cuer2
 je

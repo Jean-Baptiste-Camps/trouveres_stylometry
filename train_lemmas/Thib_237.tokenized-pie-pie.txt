@@ -61,6 +61,7 @@ dame
 avoir
 tel
 conoissance
+et
 tel
 renom
 que2
@@ -80,7 +81,7 @@ de
 autre
 amor
 doner
-très
+rompre
 esgart
 cant1
 le
@@ -91,7 +92,9 @@ mieus
 ami
 de
 il
-leconaite
+le
+corantement
+et
 le
 nom
 que4
@@ -124,6 +127,7 @@ jor
 remetre
 son4
 semblance
+et
 son4
 façon
 avoir
@@ -135,12 +139,11 @@ mon1
 meschëance
 avoir
 dame
-je
+i2
 avoir
 entencïon
-que2
+que4
 vos
 avoir
 conoissance
-et
-aé
+avoir

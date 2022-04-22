@@ -14,6 +14,7 @@ face	face
 feste	feste
 ne	ne
 ioie	joie
+⁊	et
 por	por
 ce	ce
 ai	ai
@@ -34,6 +35,7 @@ n	n
 aurai	aurai
 eu	eu
 ꝯmandement	conmandement
+⁊	et
 por	por
 ice	ice
 saige	saige
@@ -41,7 +43,7 @@ dit	dit
 folement	folement
 en	en
 ma	ma
-chancon	chançon
+chancon	chancon
 por	por
 ce	ce
 que	que
@@ -71,6 +73,7 @@ por	por
 dis	dis
 se	se
 chastoie	chastoie
+⁊	et
 la	la
 costume	costume
 est	est
@@ -82,6 +85,7 @@ plus	plus
 pense	pense
 a	a
 li	li
+⁊	et
 il	il
 plus	plus
 se	se
@@ -92,13 +96,16 @@ amor	amor
 a	a
 tot	tot
 cuer	cuer
+⁊	et
 talent	talent
 il	il
 doit	doit
 soffrir	soffrir
 bien	bien
+⁊	et
 mal	mal
 merciant	merciant
+⁊	et
 qui	qui
 einsi	einsi
 ne	ne
@@ -131,10 +138,13 @@ s	s
 en	en
 poist	poist
 retraire	retraire
+⁊	et
 cil	cil
 est	est
 fox	fox
+⁊	et
 fel	fel
+⁊	et
 plains	plains
 d	d
 anui	anui
@@ -178,6 +188,7 @@ plus	plus
 mẽ	men
 chauce	chauce
 amors	amors
+⁊	et
 mains	mains
 li	li
 fui	fui
@@ -193,7 +204,7 @@ que	que
 qui	qui
 aime	aime
 ains	ains
-dex	Dex
+dex	dex
 ne	ne
 fist	fist
 celui	celui
@@ -267,7 +278,7 @@ d	d
 orguellex	orguellex
 cuer	cuer
 bone	bone
-chancon	chancon
+chancon	chançon
 chantee	chantee
 mes	mes
 par	par
@@ -295,11 +306,11 @@ renomee	renomee
 ainz	ainz
 doit	doit
 le	le
-sien	sien
-bñ	bien
+sienbñ	sienbier
 fere	fere
+⁊	et
 auancier	avancier
-Chancon	Chançon
+Chancon	Chancon
 di	di
 li	li
 que	que
@@ -315,7 +326,8 @@ auoit	avoit
 cent	cent
 foiz	foiz
 ma	ma
-mortiuree	mortivree
+mort	mort
+iuree	juree
 si	si
 m	m
 estuet	estuet

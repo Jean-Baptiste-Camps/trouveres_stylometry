@@ -20,11 +20,13 @@ amors	amors
 nestre	nestre
 et	et
 croistre	croistre
+⁊	et
 florir	florir
 li	li
 ramembrers	ramembrers
 par	par
 costume	costume
+⁊	et
 par	par
 us	us
 d	d
@@ -130,7 +132,7 @@ aubor	aubor
 qui	qui
 si	si
 traist	traist
-pargnͣt	pargnart
+pargnͣt	pargnant
 doucor	doucor
 Dame	Dame
 se	se
@@ -138,6 +140,7 @@ ie	je
 seruisse	servisse
 dieu	dieu
 autant	autant
+⁊	et
 priasse	priasse
 de	de
 uerai	verai
@@ -193,6 +196,7 @@ fors	fors
 d	d
 iaux	iaux
 clos	clos
+⁊	et
 de	de
 cuer	cuer
 noir	noir
@@ -211,6 +215,7 @@ fin	fin
 faudront	faudront
 li	li
 droiturier	droiturier
+⁊	et
 la	la
 finz	finz
 est	est
@@ -221,6 +226,7 @@ cri	cri
 uiautez	viautez
 uaint	vaint
 merci	merci
+⁊	et
 proier	proier
 ne	ne
 seruises	servises
@@ -239,6 +245,7 @@ a	a
 plusor	plusor
 guiaux	guiaux
 pooir	pooir
+⁊	et
 bobant	bobant
 que	que
 douz	douz
@@ -261,6 +268,7 @@ merci	merci
 trouuer	trouver
 bien	bien
 sai	sai
+⁊	et
 uoi	voi
 qu	qu
 a	a
@@ -296,6 +304,7 @@ a	a
 nul	nul
 ior	jor
 recouurer	recouvrer
+⁊	et
 ie	je
 mẽ	men
 morrai	morrai
@@ -315,6 +324,7 @@ ou	ou
 naist	naist
 la	la
 rose	rose
+⁊	et
 li	li
 lis	lis
 Aygle	Aygle

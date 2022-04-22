@@ -84,6 +84,7 @@ moi	moi
 son	son
 cuer	cuer
 dolent	dolent
+⁊	et
 ie	je
 me	me
 doi	doi
@@ -133,6 +134,7 @@ aura	aura
 tantost	tantost
 sanz	sanz
 delaier	delaier
+⁊	et
 se	se
 ie	je
 puis	puis
@@ -171,6 +173,7 @@ guileor	guileor
 qu	qu
 a	a
 mentir	mentir
+⁊	et
 a	a
 fraindre	fraindre
 font	font
@@ -223,8 +226,8 @@ ele	ele
 tient	tient
 mesdit	mesdit
 a	a
-controuail	controvail
-le	le
+controuaille	controvaille
+⁊	et
 dit	dit
 toz	toz
 iors	jors
@@ -232,12 +235,16 @@ que	que
 ie	je
 la	la
 uueil	vueil
-trahirie	trahirie
+trahir	trahir
+⁊	et
+ie	ie
 l	l
 aĩ	ain
 tant	tant
+⁊	et
 la	la
 uueil	vueil
+⁊	et
 desir	desir
 cou	cou
 mont	mont
@@ -266,8 +273,10 @@ son	son
 prison	prison
 bien	bien
 tenir	tenir
+⁊	et
 si	si
-la	la
+l	l
+a	a
 prisa	prisa
 si	si
 dure	dure

@@ -44,6 +44,7 @@ acheter	acheter
 les	les
 biens	biens
 Bele	Bele
+⁊	et
 bonne	bonne
 a	a
 uos	vos
@@ -131,6 +132,7 @@ estuet	estuet
 que	que
 la	la
 uoie	voie
+⁊	et
 que	que
 sa	sa
 fresche	fresche
@@ -193,6 +195,7 @@ ua	va
 t	t
 en	en
 tost	tost
+⁊	et
 dia	dia
 blazon	blazon
 a	a

@@ -12,6 +12,7 @@ ueil
 partir
 en1
 chanter
+et
 en1
 grant
 balance
@@ -125,7 +126,7 @@ mon1
 pöesté
 plus
 mauvais
-ne2
+ne1
 estre1
 mie
 ainc
@@ -151,7 +152,7 @@ tant
 je
 avoir
 bel1
-sermone
+sermoner
 que4
 ne1
 il
@@ -164,6 +165,7 @@ vostre
 gré2
 mon1
 cors1
+et
 mon1
 vie1
 metre2
@@ -171,7 +173,7 @@ en1
 vostre
 volenté
 maugré
-cel
+ce2
 qui
 mout
 mesler
@@ -194,8 +196,7 @@ que4
 cel
 qui
 tant
-avoir
-ame
+amer1
 a3
 vos
 soi1

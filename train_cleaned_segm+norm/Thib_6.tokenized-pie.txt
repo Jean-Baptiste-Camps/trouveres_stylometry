@@ -14,7 +14,9 @@ ou	ou
 dex	dex
 fu	fu
 mors	mors
+⁊	et
 uis	vis
+⁊	et
 qui	qui
 la	la
 crois	crois
@@ -32,7 +34,7 @@ qui	qui
 a	a
 en	en
 sor	sor
-pitienerameinbrance	pitienerameinbrance
+pitienerameinbrance	pitienerameinbe
 au	au
 haut	haut
 seignor	seignor
@@ -40,9 +42,11 @@ doit	doit
 querre	querre
 sa	sa
 ueniance	veniance
+⁊	et
 deliurer	delivrer
 sa	sa
 terre	terre
+⁊	et
 son	son
 Tuit	Tuit
 li	li
@@ -61,6 +65,7 @@ pais	pais
 honor	honor
 ne	ne
 pris	pris
+⁊	et
 chascuns	chascuns
 dit	dit
 ma	ma
@@ -111,6 +116,7 @@ bacheler	bacheler
 qui	qui
 aiment	aiment
 dieu	dieu
+⁊	et
 l	l
 ennor	ennor
 de	de
@@ -122,6 +128,7 @@ uuelent	vuelent
 a	a
 dieu	dieu
 aler	aler
+⁊	et
 li	li
 morueux	morveux
 li	li
@@ -145,7 +152,7 @@ dieu	dieu
 en	en
 sa	sa
 uie	vie
-	et
+⁊	et
 por	por
 si	si
 pou	pou
@@ -162,6 +169,7 @@ crois	crois
 por	por
 nos	nos
 pener	pener
+⁊	et
 nos	nos
 dira	dira
 au	au
@@ -188,9 +196,11 @@ sont	sont
 la	la
 me	me
 uerrez	verrez
+⁊	et
 ma	ma
 mere	mere
 marie	marie
+⁊	et
 uos	vos
 par	par
 cui	cui
@@ -210,6 +220,7 @@ cuide	cuide
 demorer	demorer
 toz	toz
 haitiez	haitiez
+⁊	et
 que	que
 iames	james
 ne	ne
@@ -220,6 +231,7 @@ ainsi	ainsi
 les	les
 tiẽt	tient
 anemis	anemis
+⁊	et
 pechiez	pechiez
 que	que
 il	il
@@ -237,6 +249,7 @@ ostes	ostes
 leur	leur
 tel	tel
 pensee	pensee
+⁊	et
 nos	nos
 metez	metez
 en	en
@@ -259,6 +272,7 @@ nos	nos
 uirge	virge
 bien	bien
 auree	avree
+⁊	et
 puis	puis
 apres	apres
 ne	ne
