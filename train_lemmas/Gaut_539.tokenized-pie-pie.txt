@@ -21,7 +21,7 @@ desirrer
 le
 douz
 dolor
-
+o3
 que4
 rien
 qui
@@ -78,8 +78,8 @@ avoir
 faire
 de
 onor
-
-que2
+o3
+que4
 le
 meillor
 de+le
@@ -90,8 +90,8 @@ qui
 vëoir
 son4
 crine1
-boivre
-que2
+bloiier
+que4
 sembler
 que4
 il
@@ -101,7 +101,7 @@ or1
 et
 son4
 col
--
+qui
 blanchoiier
 desoz
 le
@@ -116,7 +116,7 @@ mon1
 joie
 et
 mon1
-rechier1
+riche
 tresor
 certes
 je
@@ -125,7 +125,7 @@ voloir
 sans
 il
 valoir
-rector
+Hector
 de
 si
 bel1
@@ -148,7 +148,7 @@ je
 devoir
 bien1
 aprendre
-
+o3
 coment1
 pöoir
 achever
@@ -171,7 +171,7 @@ grant
 orgueil
 faire
 nëis
-si+il
+selen1
 penser
 ainz
 sofrir
@@ -195,7 +195,7 @@ faire
 porter
 car
 tant
-redentir
+redondre
 le
 escondire
 de
@@ -207,7 +207,7 @@ tel
 chose
 pöoir
 dire
-
+o3
 dont
 heaume
 savoir
@@ -235,7 +235,7 @@ por2
 le
 amor
 de
-
+un
 come1
 pöoir
 bien1
@@ -249,7 +249,7 @@ chanter
 fors1
 por2
 se
-
+un
 dont
 dieu
 je

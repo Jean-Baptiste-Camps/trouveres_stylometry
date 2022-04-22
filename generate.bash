@@ -6,7 +6,7 @@ rm *_pos/*
 # Train data
 ~/boudams/env/bin/boudams tag ~/boudams/models/fro_denorm.boudams_model train_cleaned/*
 mv train_cleaned/*tokenized* train_cleaned_segm/
-~/pie/env/bin/pie tag "train_cleaned_segm/*.tokenized.txt" ~/pie/fro_expan_02b-normalised-2021_07_01-09_49_27.tar
+~/pie/env/bin/pie tag "train_cleaned_segm/*.tokenized.txt" ~/pie/fro_expan_02b-normalised-2022_04_22-12_24_15.tar
 mv train_cleaned_segm/*pie* train_cleaned_segm+norm/
 perl -i -pe "s/^.*\t(.+)$/\1/g" train_cleaned_segm+norm/*.tokenized-pie.txt
 perl -i -pe "s/\n/ /g"  train_cleaned_segm+norm/*.tokenized-pie.txt

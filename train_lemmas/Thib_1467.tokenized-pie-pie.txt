@@ -12,7 +12,7 @@ je
 faire
 joiant
 morir
-si
+se
 il
 trover
 vers2
@@ -43,10 +43,10 @@ achater
 le
 bien2
 bel1
-et
+o3
 bon
 a3
-vostre
+vos
 servir
 voile1
 que4
@@ -91,7 +91,7 @@ sembler
 por2
 le
 mien
-que1
+que4
 nul
 bien1
 ne1
@@ -130,7 +130,7 @@ je
 estovoir1
 que4
 le
-avoir
+avoiier
 que4
 son4
 frois1
@@ -187,13 +187,13 @@ je
 devoir
 grever
 nul
-ne1
-chançon
+ne2
+Cançon
 aler
 tu
 en2
 tost1
-et
+o3
 dire
 blasmer
 a3

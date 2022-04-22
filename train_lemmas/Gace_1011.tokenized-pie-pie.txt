@@ -32,7 +32,7 @@ estre1
 en1
 balance
 qui
-en2
+en1
 atendre
 guerredon
 cant1
@@ -53,7 +53,7 @@ trop
 de
 assez
 je
-desmesurer
+demorer
 en1
 devoir
 avoir
@@ -91,14 +91,14 @@ dire
 se
 je
 il
-agaitier
+agaiter
 autrui
 je
 vif
 come1
 ome
 en1
-falirance
+faille3
 car
 de
 dur
@@ -109,7 +109,7 @@ cant1
 je
 i2
 estre1
-conseil
+Conseil
 querre
 de
 mon1
@@ -142,7 +142,7 @@ un
 fol3
 contenance
 de
-amer1
+Belamer
 le
 vie1
 ne2
@@ -184,8 +184,8 @@ rien
 je
 devoir
 valoir
-il
-enviz
+le
+enui
 qui
 tant
 je
@@ -199,7 +199,7 @@ espoir2
 mais1
 adès
 mer
-asseoir
+assëurer
 et
 faire
 mon1
@@ -218,7 +218,7 @@ mien
 tierz
 por2
 decevoir
-gas
+Gasse
 de
 son4
 mesestance

@@ -30,7 +30,7 @@ je
 en2
 devoir
 merveillier
-
+o3
 se
 je
 aler
@@ -110,7 +110,7 @@ ne1
 je
 en2
 conseillier1
-
+où
 mais1
 garder
 tu
@@ -140,13 +140,13 @@ bien1
 a3
 pöoir
 de
-merre1
+merir
 le
 dolor
 et
 le
 encombrier
-
+o3
 amor
 que4
 il

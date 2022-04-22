@@ -129,7 +129,7 @@ ADVgen
 VERcjg
 ADJqua
 NOMcom
-PONfbl
+PROrel
 CONsub
 PROper
 PROper
@@ -196,7 +196,7 @@ PRE
 VERinf
 PRE
 NOMcom
-PONfbl
+CONcoo
 CONsub
 PROrel
 NOMcom

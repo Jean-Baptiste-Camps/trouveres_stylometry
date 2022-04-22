@@ -1,7 +1,7 @@
 en1
 cel
 tant
-que2
+que4
 vëoir
 former
 le
@@ -28,7 +28,7 @@ que4
 onque
 ne1
 soloir
-richier
+Richier
 ne2
 onque
 ne1
@@ -79,13 +79,13 @@ neporcant
 bien1
 devoir
 trover
-
+o3
 folie2
 cant1
 je
 il
 querre
-Haille
+haut
 folor
 ne1
 estre1
@@ -103,7 +103,7 @@ en2
 devoir
 avoir
 marz
-chaut
+ciel
 qui
 trichier
 tot
@@ -130,7 +130,7 @@ vëoir
 ore3
 de
 jor
-
+o3
 que4
 ne1
 je
@@ -157,7 +157,7 @@ ne1
 avoir
 tant
 de
-verjor
+vigor
 que4
 il
 vos
@@ -168,7 +168,7 @@ cuer2
 en1
 sospir
 et
-plor
+plorer
 mais1
 ne1
 vos
@@ -185,11 +185,11 @@ le
 lais
 vëoir
 et
-brauté
+biauté
 et
 cortoisie
-öir
-
+ha!
+o3
 las
 je
 aler
@@ -205,7 +205,7 @@ ne1
 aler
 en1+le
 querre
-
+o3
 mais1
 que4
 je
@@ -237,7 +237,7 @@ comant
 de
 je
 grever
-aemplir
+aclir
 mais1
 merveille
 estre1
@@ -261,6 +261,6 @@ bien1
 il
 je
 pöoir
-merrer
+merir
 nul
 qui

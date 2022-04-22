@@ -8,7 +8,7 @@ naistre
 le
 erbe
 verdoiier
-que2
+qui
 flor1
 et
 fueille
@@ -22,7 +22,7 @@ por2
 cel
 estre1
 dolent
-o3
+où
 il
 ne1
 avoir
@@ -34,7 +34,7 @@ que4
 trop
 estre1
 tenir1
-
+o3
 vers2
 de
 guerredon
@@ -47,7 +47,7 @@ faire
 atendre
 amer1
 que4
-caire
+aler
 ne1
 estre1
 pas
@@ -79,7 +79,7 @@ de+le
 ueil
 ne2
 de+le
-vivre1
+vïaire1
 dont
 le
 en2
@@ -93,7 +93,7 @@ cuer2
 ne1
 devoir
 plaire
-
+où
 semblance
 de
 amor
@@ -122,7 +122,7 @@ tant
 je
 morir
 merci
-prometre
+priier
 se
 ne1
 savoir
@@ -134,8 +134,8 @@ si
 faire
 come1
 recroire
-
-qui
+o3
+cui
 son4
 baston
 tenir1
@@ -147,7 +147,7 @@ ne1
 soi1
 pöoir
 defendre
-dieu
+Dieu
 tant
 gent1
 je
@@ -183,14 +183,13 @@ reprendre1
 mais1
 sans
 pitié
-brauté
+biauté
 grant
 je
 devoir
 par
 tot
 desplaire
-
 se
 je
 en2
@@ -236,7 +235,7 @@ por2
 engagier
 o3
 vendre
-
+un
 je
 pöoir
 come1

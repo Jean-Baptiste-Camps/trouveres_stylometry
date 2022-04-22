@@ -31,7 +31,7 @@ defendre
 mais1
 cel
 mon1
-greve2
+grëeu
 trop
 malement
 qui
@@ -143,7 +143,7 @@ il
 trover
 devant
 il
-envie
+enoiier
 lors
 ne1
 savoir
@@ -196,7 +196,7 @@ voloir
 endormir
 .
 lors
-tenir1
+venir
 mon1
 joie
 et

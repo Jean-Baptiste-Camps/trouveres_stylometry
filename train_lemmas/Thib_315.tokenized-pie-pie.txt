@@ -1,4 +1,4 @@
-et
+je
 ne1
 vëoir
 mais1
@@ -13,7 +13,7 @@ faire
 feste1
 ne2
 joie
-et
+où
 por2+ce1
 avoir
 je
@@ -33,7 +33,7 @@ ne1
 avoir
 en1+le
 comandement
-et
+o3
 por2
 ice2
 sage
@@ -44,7 +44,7 @@ mon1
 chançon
 por2
 ce1
-que4
+que2
 je
 voloir
 ne1
@@ -71,7 +71,7 @@ por2
 dis1
 soi1
 chastiier
-et
+o3
 le
 costume
 estre1
@@ -83,7 +83,7 @@ plus
 penser
 a3
 il
-et
+où
 il
 plus
 soi1
@@ -94,16 +94,16 @@ amor
 avoir
 tot
 cuer2
-et
+o3
 talent
 il
 devoir
 sofrir
 bien1
-et
+o3
 mal1
 mercïer
-et
+o3
 qui
 ainsi
 ne1
@@ -125,7 +125,7 @@ je
 aidier
 dieu
 onque
-ne2
+ne1
 vëoir
 nul
 très
@@ -136,11 +136,11 @@ soi1
 en2
 peser
 retraire
-et
+où
 cel
 estre1
 fol3
-et
+o3
 felon
 plein
 de
@@ -150,8 +150,8 @@ autrement
 voloir
 mener
 son4
-afarir
-haif
+afaire2
+häir
 savoir
 estre1
 là
@@ -180,12 +180,12 @@ il
 avoir
 de
 autrui
-catre
+cant1
 plus
 mon1
 chauce
 amor
-et
+où
 moins
 il
 estre1
@@ -200,7 +200,7 @@ contraire1
 que4
 qui
 amer1
-ainz
+ainc
 dieu
 ne1
 faire
@@ -228,7 +228,7 @@ vostre
 estre1
 que4
 mon1
-fin1
+fin2
 cuer2
 je
 faire
@@ -246,7 +246,7 @@ je
 il
 en2
 croire
-si
+se
 estre1
 pensif
 que4
@@ -286,7 +286,7 @@ on
 essaucier
 ne2
 ja
-orgevel
+orgoillos
 ne2
 soi1
 i2
@@ -306,9 +306,9 @@ le
 suen
 bien1
 faire
-et
+o3
 avancier
-chançon
+Cançon
 dire
 il
 que4

@@ -1,6 +1,6 @@
 CONsub
 PROper
-VERcjg
+NOMcom
 PROper
 VERcjg
 VERppe
@@ -17,7 +17,7 @@ VERcjg
 NOMcom
 CONcoo
 NOMcom
-NOMcom
+VERcjg
 CONcoo
 DETdef
 NOMcom
@@ -45,11 +45,11 @@ VERppe
 PRE
 DETind
 NOMcom
-PONfbl
+PROrel
 CONsub
 PRE.DETdef
 NOMcom
-VERcjg
+PRE
 DETdef
 NOMcom
 VERcjg
@@ -58,7 +58,7 @@ ADJqua
 NOMcom
 PRE
 NOMcom
-VERcjg
+VERppe
 NOMcom
 PRE
 PROper
@@ -76,7 +76,7 @@ ADVneg
 VERcjg
 ADVneg
 VERppa
-PONfbl
+CONcoo
 PROdem
 PROrel
 PROper
@@ -85,7 +85,7 @@ VERcjg
 DETpos
 NOMcom
 VERppa
-PONfbl
+DETndf
 PROper
 VERcjg
 CONsub
@@ -154,7 +154,6 @@ DETpos
 NOMcom
 PROrel
 PROper
-PONfbl
 PROadv
 VERcjg
 PRE
@@ -167,7 +166,7 @@ PROper
 VERcjg
 CONcoo
 VERcjg
-PONfbl
+CONcoo
 CONsub
 CONsub
 PROper

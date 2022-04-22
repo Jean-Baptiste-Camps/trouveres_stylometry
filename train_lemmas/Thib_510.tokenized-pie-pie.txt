@@ -1,4 +1,4 @@
-et
+que3
 ne2
 dolor
 enosser
@@ -50,7 +50,7 @@ ne1
 voloir
 a3
 nul
-fuerre1
+fuerre2
 quel1
 estre1
 en1
@@ -60,7 +60,7 @@ mieus
 amer1
 dolor
 sofrir
-et
+o3
 le
 grant
 pëor
@@ -79,7 +79,7 @@ vos
 tant
 ne2
 cant1
-querre
+culvert
 bel1
 estrange
 faire
@@ -153,12 +153,12 @@ son4
 corroz
 a3+le
 sospir
-et
+o3
 a3+le
-sanglot
+senglor
 je
 en2
-rendre
+rien
 que4
 ne1
 en2
@@ -175,16 +175,16 @@ crïer2
 come1
 avoir
 haut
-sautier2
+saintëarie
 dame
 cui
 i2
 amer1
 tant
-que4
+quelque
 bien1
 en1
-delapir
+delaiier1
 je
 doner
 por2
@@ -196,7 +196,7 @@ qui
 sentir
 mais1
 mar
-et
+un
 merci
 il
 avoir

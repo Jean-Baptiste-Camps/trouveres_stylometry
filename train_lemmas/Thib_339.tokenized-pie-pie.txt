@@ -4,7 +4,7 @@ nuit
 en1
 mon1
 dormir
-seignier
+soingier1
 dotance
 de
 un
@@ -13,7 +13,7 @@ partir
 en1
 champ
 tant
-et
+o3
 en1
 grant
 balance
@@ -36,10 +36,10 @@ ce1
 tu
 lors
 trassalir
-durer
+durement2
 en1
 grant
-esfanance
+esmanacïence
 movoir
 de
 enfance
@@ -81,7 +81,7 @@ voloir
 a3
 lonc
 duree
-que2
+qui
 por2
 mal1
 ne1
@@ -166,7 +166,7 @@ vostre
 gré2
 mon1
 cors1
-et
+où
 mon1
 vie1
 metre2
@@ -177,11 +177,11 @@ maugré
 ce2
 qui
 mout
-mesle_mesle
-avoir
+mesler
+a3
 vos
 cui
-caire
+aler
 crëanter
 a3
 estre1
@@ -198,7 +198,7 @@ cel
 qui
 tant
 amer1
-avoir
+a3
 vos
 soi1
-venil
+umelïer

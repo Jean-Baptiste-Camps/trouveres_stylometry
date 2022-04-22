@@ -1,4 +1,4 @@
-et
+i2
 aler
 le
 autrier
@@ -14,9 +14,9 @@ faire
 un
 chançon
 cant1
-Otiner
+joi
 ne1
-sofautement
+savoir
 lez
 un
 buisson
@@ -40,7 +40,7 @@ ne1
 avoir
 quinze
 an
-et
+o3
 demi2
 ne2
 onque
@@ -65,11 +65,11 @@ je
 tu
 famencement
 por2
-Dieu
+dieu
 vos
 avoir
 nom
-et
+o3
 il
 sauver
 maintenant
@@ -98,7 +98,7 @@ tel
 ami
 que4
 i2
-amer1
+amiot
 plus
 bel1
 choisir
@@ -128,7 +128,7 @@ a3
 porpenser
 come1
 faire
-mener
+menu
 changier
 son4
 talent
@@ -136,13 +136,13 @@ a3
 terre
 il
 il
-masser
+massiz
 cant1
 plus
 regarder
 son4
 cler
-vis1
+uis
 tant
 estre1
 plus
@@ -153,7 +153,7 @@ qui
 doble
 mon1
 talent
-il
+lor2
 il
 prisier
 a3
@@ -164,7 +164,7 @@ que2
 je
 deignier
 esgarder
-et
+o3
 faire
 autre
 semblant
@@ -173,7 +173,7 @@ il
 comencier
 a3
 plorer
-et
+o3
 dire
 itant
 je
@@ -213,7 +213,7 @@ il
 monter
 de
 maintenant
-et
+un
 trestot
 droit
 je
@@ -229,13 +229,13 @@ pré
 regarder
 estre1
 crïer2
--
+2
 pastor
-parmeniblement
+parimier
 qui
 venir
 iver2
-et
+un
 lever
 grant
 cri

@@ -10,7 +10,7 @@ mort
 conte1
 estrange
 terre
-languit
+languison
 las
 sans
 deduit
@@ -19,7 +19,7 @@ sans
 confort
 et
 si
-devoir
+doloir
 mout
 mon1
 enemi
@@ -37,7 +37,7 @@ cuer2
 verai
 et
 fort
-
+o3
 que4
 se
 dieu
@@ -50,7 +50,7 @@ pis1
 mon1
 douz
 dame
-ne2
+ne1
 croire
 tot
 cel
@@ -92,7 +92,7 @@ doter2
 en1
 cest
 mout
-ome
+come1
 ce1
 que2
 vos
@@ -103,7 +103,7 @@ cuer2
 legier2
 de
 feme
-avoir
+avenir
 que4
 le
 amer1
@@ -125,7 +125,7 @@ de
 fin2
 amor
 venir
-
+o3
 que4
 il
 soi1
@@ -184,17 +184,17 @@ mon1
 dame
 tot
 tens
-Otinel
+Eteigde
 ce1
 savoir
 a3
 deduit
-chançon
+Cançon
 a3
 mon1
 dame
 tu
-envoiier
+envoignier
 que4
 nul
 en2

@@ -168,8 +168,8 @@ PROper
 VERcjg
 ADVgen
 VERinf
-PONfbl
-CONsub
+CONcoo
+PROrel
 NOMcom
 VERcjg
 NOMcom
@@ -206,7 +206,7 @@ ADVgen
 ADVneg
 VERcjg
 VERinf
-PONfbl
+PROrel
 ADVgen
 PROrel
 PROper
@@ -235,7 +235,7 @@ CONsub
 DETind
 ADJind
 NOMcom
-VERppe
+VERcjg
 PRE
 PROper
 VERinf

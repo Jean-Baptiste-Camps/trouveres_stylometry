@@ -15,7 +15,7 @@ pas
 droit
 que4
 je
-chanter
+chant
 ne2
 onque
 chançon
@@ -45,14 +45,14 @@ cel
 qui
 par
 acostumance
-
+un
 faire
 ton4
 chançon
 un
 fors1
 contenance
-et
+je
 savoir
 de
 pöoir
@@ -104,8 +104,8 @@ peine
 et
 a3
 grevance
-
-et
+o3
+je
 ne1
 dire
 pas
@@ -129,8 +129,8 @@ que4
 felon
 et
 envie
-
-mout
+un
+mont
 trop
 mal1
 faire
@@ -150,7 +150,7 @@ estre1
 si
 crüel
 dessevrance
-Omer1
+come1
 de
 Joie
 et
@@ -229,7 +229,7 @@ avoir
 biauté
 douz
 et
-plaisant
+plaire
 merveille
 faire
 cant1
@@ -250,6 +250,6 @@ nul
 confort
 ne2
 trover
-uevre
+itel
 mon1
 delivrance

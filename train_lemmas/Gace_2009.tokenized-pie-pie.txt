@@ -1,7 +1,7 @@
 cant1
 noif
 et
-gras
+jauol
 et
 froidure
 remanoir
@@ -14,8 +14,8 @@ flor1
 et
 fueille
 et
-verdon
-
+verdor
+un
 venir
 o4
 le
@@ -31,7 +31,7 @@ avoir
 si
 droit
 ochaison
-que4
+que2
 i2
 amer1
 de
@@ -39,7 +39,7 @@ amor
 qui
 trop
 durer
-
+o3
 sans
 joie
 et
@@ -50,7 +50,7 @@ estre1
 de
 crüel
 nature
-qui
+que2
 amor
 faire
 sans
@@ -82,7 +82,7 @@ estre1
 qui
 soi1
 i2
-asseoir
+assëurer
 en1
 il
 ne1
@@ -98,16 +98,16 @@ lonc
 tant
 mon1
 amor
-grever
+grëer
 se
 ne1
 savoir
 se
 dieu
 je
-voie
+vëoir
 se
-i2
+je
 avoir
 mieus
 que4
@@ -136,7 +136,7 @@ que4
 il
 je
 avoir
-mon1
+moiien
 destinee
 de
 tant
@@ -149,7 +149,7 @@ il
 en2
 savoir
 bon
-gré2
+grief
 a3
 mon1
 plaisir
@@ -229,7 +229,7 @@ douz
 dame
 a3
 vos
-ester
+saster
 mon1
 cuer2
 tot

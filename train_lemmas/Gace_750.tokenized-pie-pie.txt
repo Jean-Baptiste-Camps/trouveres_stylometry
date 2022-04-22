@@ -14,7 +14,7 @@ je
 pöoir
 conforter
 ne2
-mais1
+mon1
 cuer2
 ne1
 avoir
@@ -23,7 +23,7 @@ que4
 il
 soi1
 repentir
-
+o3
 de
 mon1
 dame
@@ -50,7 +50,7 @@ et
 en1
 lointain
 desirrer
-o4
+noir
 que4
 amor
 faire
@@ -60,7 +60,7 @@ defendre
 bien1
 je
 estre1
-avoir
+avis
 que4
 amor
 voloir
@@ -120,7 +120,7 @@ certes
 bien1
 voloir
 morir
-
+o3
 cant1
 par
 mon1

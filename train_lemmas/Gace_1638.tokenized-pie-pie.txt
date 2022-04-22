@@ -1,5 +1,5 @@
 cant1
-je
+jeu
 öir
 le
 noif
@@ -18,7 +18,7 @@ brisier
 .
 là
 il
-sol1
+son4
 .
 ueil
 il
@@ -33,7 +33,7 @@ chant2
 faire
 son4
 comant
-
+o3
 ne1
 avoir
 pöoir
@@ -130,8 +130,8 @@ je
 morir
 por2
 le
-
-que4
+o3
+que2
 je
 ja
 de
@@ -158,15 +158,15 @@ ja
 ne1
 en2
 querre
-veritarie
+vertomement
 il
 mon1
-grever
+grëer
 fors1
 tant
 que4
 le
-bien1
+bien2
 en1
 aele
 mal1
@@ -177,7 +177,7 @@ gré2
 si+il
 il
 plaire
-se
+si
 je
 en2
 destreindre
@@ -199,7 +199,7 @@ je
 ocire
 mie
 prendre
-entasser
+entasidé
 conroi
 je
 ne1
@@ -218,7 +218,7 @@ ome
 devoir
 foi
 por2
-Dieu
+dieu
 pitié
 vos
 en2

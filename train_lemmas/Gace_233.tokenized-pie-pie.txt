@@ -17,7 +17,7 @@ vëoir
 fors1
 morir
 et
-rerre
+rire
 ne2
 je
 ne1
@@ -50,7 +50,7 @@ il
 avoir
 un
 autresi
-
+o3
 por2
 ce1
 ne1
@@ -82,8 +82,8 @@ por2
 cui
 mon1
 joie
-emprendre
-
+empire
+où
 priier
 je
 a3
@@ -120,7 +120,7 @@ por2
 ce1
 ne2
 come1
-oste
+oser
 on
 ami
 onque
@@ -136,7 +136,7 @@ ne1+il
 savoir
 ne2
 nul
-ne1
+ne2
 le
 marprie
 le
@@ -153,7 +153,7 @@ estre1
 fors1
 le
 nul
-mon1
+mais1
 cuer2
 remanoir
 se
@@ -226,7 +226,7 @@ plus
 je
 desdeignier
 chascun
-conseillier1
+conseillier2
 je
 dame
 que4
@@ -243,8 +243,8 @@ mais1
 qui
 je
 tenir1
-
-a3
+o3
+avoir
 bon
 amor
 donc
@@ -269,7 +269,7 @@ en1
 franc1
 cuer2
 debonaire
-
+où
 pöoir
 penser
 rien
@@ -292,7 +292,7 @@ avoir
 de+le
 tot
 falir
-gas
+Gasse
 a3
 son4
 chant2

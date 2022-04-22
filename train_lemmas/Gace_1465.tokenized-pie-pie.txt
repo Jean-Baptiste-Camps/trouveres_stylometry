@@ -83,9 +83,9 @@ ne1
 je
 laissier
 repentir
-
+o3
 car
-en1
+en2
 amer1
 voloir
 bien1
@@ -100,8 +100,8 @@ vos
 je
 laissier
 en1
-pais
-mais1
+päis
+mon1
 or4
 estre1
 je
@@ -130,7 +130,7 @@ por2
 vos
 servir
 lait1
-öir
+ha!
 cuer2
 de
 nïent

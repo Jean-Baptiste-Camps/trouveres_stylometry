@@ -70,7 +70,7 @@ DETind
 NOMcom
 VERcjg
 DETndf
-NOMcom
+PROcar
 ADVneg
 PROadv
 VERcjg
@@ -115,7 +115,7 @@ ADVgen
 ADVneg
 VERcjg
 VERcjg
-PONfbl
+PROrel
 CONsub
 PROind
 NOMcom
@@ -151,9 +151,9 @@ NOMcom
 ADVneg
 VERcjg
 NOMcom
-ADVgen
 PROper
-NOMcom
+PROper
+VERcjg
 PRE
 ADJqua
 NOMcom
@@ -181,7 +181,7 @@ NOMcom
 ADVgen
 VERcjg
 NOMcom
-PRE
+VERppe
 PROper
 PROper
 VERcjg
@@ -258,7 +258,7 @@ PROper
 PROper
 VERcjg
 NOMcom
-ADJqua
+NOMpro
 ADJqua
 NOMcom
 PRE

@@ -1,7 +1,7 @@
 cant1
 flor1
 et
-glaive
+glait
 et
 verdor
 soi1
@@ -21,10 +21,10 @@ chascun
 dote
 et
 resoignier
-tresque1
+trovus
 a3+le
 bel1
-tens
+tant
 que2
 il
 soloir
@@ -37,7 +37,7 @@ que4
 ne1
 pöoir
 oblïer
-
+o3
 le
 douz
 rien
@@ -46,14 +46,14 @@ dieu
 joie
 je
 doner
-
+o3
 car
 de
 il
 estre1
 et
 venir
-mon1
+je
 penser
 coment1
 que4
@@ -62,7 +62,7 @@ joie
 je
 guerroiier2
 mout
-mol
+mil1
 je
 avoir
 faire
@@ -74,7 +74,7 @@ cel
 come1
 delaiier1
 et
-porloigne
+porloignier
 qui
 il
 faire
@@ -98,7 +98,7 @@ de
 mon1
 cors1
 soi1
-desjoigne
+designier
 .
 que4
 il
@@ -141,7 +141,7 @@ pöoir
 valoir
 tant
 je
-conoistre
+covenir
 vostre
 plaisir
 voloir
@@ -151,9 +151,9 @@ amer1
 mieus
 que4
 le
-merin
+merir
 remanoir
-
+o3
 que4
 avoir
 joie
@@ -198,8 +198,8 @@ sans
 vos
 grant
 joie
-ne1
-maugaignier
+ne2
+mavoir
 se
 en1+le
 je

@@ -28,7 +28,7 @@ messe
 mon1
 dame
 avoir
-tasser
+assez
 avoir
 onor
 que4
@@ -38,13 +38,13 @@ ne1
 voloir
 nul
 avoir
-
+o3
 fors1
 il
 cui
 ne1
 deignier
-chaloir
+chëoir
 grant
 peine
 a3
@@ -55,7 +55,7 @@ en1
 amor
 maintenir
 plus
-que4
+que1
 ne1
 pöoir
 pöoir
@@ -67,7 +67,7 @@ voloir
 servir
 por2
 ce1
-muire1
+morir
 a3
 martire2
 que4
@@ -89,7 +89,7 @@ que4
 mon1
 cuer2
 mout
-pöoir
+petit
 je
 avoir
 or4
@@ -117,10 +117,10 @@ en2
 querre
 mon1
 cuer2
-champ
+changier
 pechié
 faire
-si+il
+se+il
 porchacier
 mire1
 et
@@ -142,7 +142,7 @@ de
 mon1
 dame
 onorer
-sel1
+sele
 voloir
 si
 je
@@ -161,7 +161,7 @@ estre1
 or4
 criembre
 que4
-Dieu
+dieu
 je
 haire
 de
@@ -172,7 +172,7 @@ avoir
 que4
 mon1
 cuer2
-o3
+o4
 dieu
 ce1
 savoir

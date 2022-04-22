@@ -1,11 +1,11 @@
-et
+i2
 amer1
 par
 costume
 et
 par
 us
-
+un
 le
 vie1
 ne1
@@ -17,7 +17,7 @@ come1
 ami
 et
 dru1
-
+o3
 qui
 de
 amor
@@ -29,7 +29,7 @@ sans
 avoir
 mout
 de
-mauvais
+mautos
 mais1
 ne1
 je
@@ -50,7 +50,7 @@ je
 i2
 laissier
 emprendre
-
+o3
 un
 sol1
 jor
@@ -66,7 +66,7 @@ je
 refuser
 le
 dolor
-qui
+cui
 je
 faire
 tenir1
@@ -74,7 +74,7 @@ mon1
 dame
 estre1
 douz
-jave
+aigue
 et
 estre1
 por2
@@ -104,7 +104,7 @@ estre1
 mon1
 dolor
 graignor
-
+o3
 que4
 trover
 après
@@ -154,8 +154,8 @@ croire
 ainz
 il
 estre1
-reporger
-
+reprover
+o3
 mon1
 lëauté
 sans
@@ -203,7 +203,7 @@ de
 je
 tant
 amer1
-
+où
 il
 devoir
 il
@@ -218,7 +218,7 @@ que2
 je
 criembre
 que4
-el1
+il
 ne1
 je
 ocire
@@ -228,11 +228,11 @@ estre1
 ramentevoir
 de
 amor
--
+qui
 parage
 oblie
 bien1
-movoir
+morir
 le
 semblant
 rendre
@@ -247,7 +247,7 @@ mais1
 esperance
 je
 afïer
-
+o3
 tot
 adès
 de
@@ -294,7 +294,7 @@ mon1
 dame
 bien1
 servir
-
+o3
 lonc
 tant
 sans
@@ -309,7 +309,7 @@ le
 peine
 et
 retenir
-
+o3
 blanchoiier
 cui
 amor

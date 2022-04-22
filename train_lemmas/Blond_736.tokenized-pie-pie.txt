@@ -13,7 +13,7 @@ car
 le
 vaillant
 avoir
-qui
+que2
 mon1
 cuer2
 soi1
@@ -40,7 +40,7 @@ amer1
 tenir1
 en1
 esperance
-
+o3
 de
 joie
 avoir
@@ -51,7 +51,7 @@ il
 ne1
 il
 avoir
-
+o3
 tot
 sans
 cuidier1
@@ -60,7 +60,7 @@ bien1
 que4
 je
 morir
-estre1
+ire
 et
 enui
 je
@@ -116,7 +116,7 @@ pöoir
 tot
 de
 fi2
-
+o3
 que4
 ainc
 de
@@ -127,7 +127,7 @@ bel1
 rien
 ne1
 vëoir
-et
+je
 ne1
 je
 devoir
@@ -180,7 +180,7 @@ et
 ne1
 si
 savoir
-Guiter
+Guitier
 et
 perdre
 por2
@@ -189,7 +189,7 @@ que4
 il
 cuidier1
 gäaignier1
-ondre
+tenir1
 soi1
 devoir
 fin2
@@ -251,7 +251,7 @@ je
 i2
 venir
 aidier
-
+o3
 se
 lëauté
 je
