@@ -31,14 +31,14 @@ def nettoyageTextes(string):
     replace  = ' '
     string = re.sub(pattern, replace, string, flags=re.M)
     # the hard way: clean diacritics
-    nfkd_form = unicodedata.normalize('NFKD', string)
+    string = unicodedata.normalize('NFKD', string)
     pattern = r"[\u0300\u0301\u0308\u0327]"
     replace  = ''
-    string = re.sub(pattern, replace, nfkd_form, flags=re.M)
+    string = re.sub(pattern, replace, string, flags=re.M)
     # and now some punctuation  and private zone medieval punct
     pattern = r'[\"«»,;:?!·\uF161\uF143]'
     replace  = ''
-    string = re.sub(pattern, replace, nfkd_form, flags=re.M)
+    string = re.sub(pattern, replace, string, flags=re.M)
     #élements entre partehèses
     # pattern = r'\([^\(]+\)'
     # replace = ''
@@ -48,6 +48,10 @@ def nettoyageTextes(string):
     # string = re.sub(pattern, replace, string, flags=re.M)
     # and finally, remove diacritics and clean
     # string = unidecode.unidecode(string)
+    # and finally, normalise space
+    pattern = r'[ \t]{2,}'
+    replace  = ' '
+    string = re.sub(pattern, replace, string.strip(), flags=re.M)
     return string.encode("utf-8", "strict")
 
 
