@@ -36,8 +36,12 @@ def nettoyageTextes(string):
     replace  = ''
     string = re.sub(pattern, replace, string, flags=re.M)
     # and now some punctuation  and private zone medieval punct
-    pattern = r'[\"«»,;:?!·\uF161\uF143]'
+    pattern = r'[\"«»,;:?!·\uF161]'
     replace  = ''
+    string = re.sub(pattern, replace, string, flags=re.M)
+    # Normalise tironian 'et'
+    pattern = r'[\uF142\uF143\uF158\uF1A7]'
+    replace = '⁊'
     string = re.sub(pattern, replace, string, flags=re.M)
     #élements entre partehèses
     # pattern = r'\([^\(]+\)'
