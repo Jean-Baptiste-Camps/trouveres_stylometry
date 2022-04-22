@@ -33,7 +33,6 @@ mon1
 plaisir
 où
 autrement
-un
 cuidier1
 morir
 sans
@@ -63,7 +62,7 @@ de
 amor
 que4
 le
-bien2
+bien1
 ainsi
 ce1
 cel
@@ -166,15 +165,14 @@ pertu
 aler
 mon1
 atendance
-o3
-assëurer
+a3+le
+sore
 mon1
 de
 morir
 le
 flor1
 ha!
-où
 las
 je
 il
@@ -209,7 +207,7 @@ et
 secors
 ainc
 mais1
-nul
+nos1
 amen
 en1
 tel
@@ -232,7 +230,7 @@ dolor
 mon1
 cuer2
 devoir
-hair
+häir
 si+il
 lonc
 il
@@ -243,7 +241,7 @@ le
 mal1
 de
 amer1
-ne1
+ne2
 je
 anuit
 nenil
@@ -283,7 +281,6 @@ avoir
 de
 son4
 vailance
-o3
 dame
 ne2
 pucele
@@ -343,7 +340,6 @@ estre1
 bel1
 et
 blanc
-un
 ne1
 je
 en2

@@ -129,7 +129,6 @@ mout
 faire
 grant
 mesprison
-o3
 cant1
 je
 il
@@ -159,7 +158,7 @@ ne1
 devoir
 avoir
 dotance
-fin1
+fin2
 cuer2
 lëal
 qui
@@ -196,7 +195,6 @@ a3
 faire
 sans
 ochaison
-o3
 cant1
 que4
 amor

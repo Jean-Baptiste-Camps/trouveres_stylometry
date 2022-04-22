@@ -1,9 +1,8 @@
 cuer2
 desirrer
-avoir
-paie
-o3
-douçor
+apaiier
+de+le
+coup1
 et
 confort
 et
@@ -55,7 +54,8 @@ si
 ne1
 perdre
 defors
-haut
+avoir
+las
 por2
 coi2
 je
@@ -74,7 +74,6 @@ ce1
 dont
 estre1
 navrer
-o3
 mon1
 boche
 ne1
@@ -113,7 +112,6 @@ je
 estre1
 il
 avis
-o3
 que4
 en1
 baisier
@@ -149,16 +147,16 @@ estre1
 mon1
 bien1
 prometre
-esté1
+en1
 las
 tant
 avoir
 je
 pis1
-o3
 amor
 je
-emporgnier
+avoir
+menor
 se
 je
 dieu
@@ -169,7 +167,7 @@ je
 faire
 cel
 qui
-si
+se
 je
 pener
 et

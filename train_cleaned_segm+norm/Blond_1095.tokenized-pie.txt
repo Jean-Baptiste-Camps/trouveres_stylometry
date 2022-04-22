@@ -42,7 +42,6 @@ et	et
 force	force
 et	et
 pooir	pooir
-	u
 ne	ne
 laisserai	laisserai
 mon	mon
@@ -144,7 +143,6 @@ destraigne	destraigne
 sanz	sanz
 auoir	avoir
 guerredon	guerredon
-	u
 ne	ne
 diex	diex
 uoloir	voloir
@@ -199,7 +197,6 @@ uous	vous
 se	se
 doleur	doleur
 non	non
-	u
 dont	dont
 ne	ne
 sai	sai
@@ -254,7 +251,6 @@ de	de
 uostre	vostre
 grant	grant
 biaute	biaute
-	u
 ne	ne
 m	m
 en	en
@@ -272,7 +268,6 @@ me	me
 doint	doint
 ma	ma
 uolente	volente
-	u
 de	de
 uous	vous
 qui	qui
@@ -284,7 +279,8 @@ il	il
 uous	vous
 deuoit	devoit
 uenir	venir
-agre	agre
+a	a
+gre	gre
 ainz	ainz
 ai	ai
 tout	tout
@@ -304,7 +300,6 @@ ne	ne
 me	me
 sunt	sunt
 amende	amende
-	u
 li	li
 mal	mal
 qui	qui
@@ -324,7 +319,7 @@ a	a
 de	de
 sa	sa
 dame	dame
-chante	chante
+chante	chante
 et	et
 si	si
 te	te

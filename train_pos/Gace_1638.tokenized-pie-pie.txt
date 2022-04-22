@@ -33,7 +33,6 @@ PONfrt
 VERcjg
 DETpos
 NOMcom
-PROrel
 ADVneg
 VERcjg
 NOMcom
@@ -98,7 +97,7 @@ CONcoo
 ADJqua
 VERcjg
 DETind
-ADJpos
+DETpos
 NOMcom
 VERcjg
 ADVneg
@@ -131,14 +130,13 @@ VERinf
 PRE
 PROper
 PROrel
-PROrel
 PROper
 ADVgen
-PRE
-NOMcom
+VERinf
+PROper
 VERcjg
 DETind
-NOMcom
+PROind
 ADVneg
 PROper
 PROadv
@@ -158,7 +156,8 @@ ADVgen
 ADVneg
 PROadv
 VERcjg
-ADVgen
+NOMcom
+ADVsub
 PROper
 DETpos
 VERppe

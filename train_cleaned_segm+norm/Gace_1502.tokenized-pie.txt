@@ -44,7 +44,7 @@ tant	tant
 nule	nule
 rienz	rienz
 ne	ne
-desirre	desirre
+desirre	desirre
 fors	fors
 uostre	vostre
 cors	cors
@@ -156,8 +156,7 @@ ma	ma
 doleurs	doleurs
 seroit	seroit
 tost	tost
-oubliee	oubliee
-se	Sse
+oublieese	oublieese
 guerredon	guerredon
 fuissent	fuissent
 a	a

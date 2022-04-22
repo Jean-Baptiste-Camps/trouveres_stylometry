@@ -38,7 +38,6 @@ ne1
 voloir
 nul
 avoir
-o3
 fors1
 il
 cui
@@ -56,7 +55,7 @@ amor
 maintenir
 plus
 que1
-ne1
+ne2
 pöoir
 pöoir
 dire
@@ -120,7 +119,7 @@ cuer2
 changier
 pechié
 faire
-se+il
+si+il
 porchacier
 mire1
 et
@@ -142,7 +141,7 @@ de
 mon1
 dame
 onorer
-sele
+sel1
 voloir
 si
 je

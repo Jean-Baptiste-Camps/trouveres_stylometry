@@ -129,7 +129,6 @@ VERcjg
 ADJqua
 CONcoo
 VERppe
-PROrel
 CONsub
 PROper
 ADVneg

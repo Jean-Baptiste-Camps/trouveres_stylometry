@@ -17,7 +17,6 @@ pas	pas
 de	de
 moi	moi
 souprise	souprise
-	u
 deuers	devers
 mes	mes
 cuers	cuers
@@ -42,12 +41,12 @@ ele	ele
 nen	nen
 est	est
 esprise	esprise
-	u
 pour	pour
 mon	mon
 grant	grant
 mal	mal
-la	la
+l	l
+a	a
 requis	requis
 Mais	Mais
 la	la
@@ -84,14 +83,12 @@ s	s
 en	en
 prise	prise
 quar	quar
-ie	ie
+ie	je
 ne	ne
 suis	suis
 pas	pas
 si	si
-eslis	eslisi
-s	s
-e	e
+eslisse	eslisse
 le	le
 eslit	eslit
 qu	qu
@@ -131,7 +128,6 @@ ome	ome
 de	de
 bas	bas
 parente	parente
-	u
 qui	qui
 mieuz	mieuz
 ert	ert
@@ -165,8 +161,7 @@ tant	tant
 la	la
 seruirai	servirai
 a	a
-gre	gree
-s	s
+gres	gres
 il	il
 plaist	plaist
 a	a

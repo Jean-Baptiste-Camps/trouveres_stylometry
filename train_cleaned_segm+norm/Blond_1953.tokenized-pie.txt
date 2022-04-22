@@ -24,7 +24,6 @@ por	por
 ma	ma
 leal	leal
 amie	amie
-	u
 qui	qui
 ia	ja
 n	n
@@ -63,7 +62,6 @@ ce	ce
 me	me
 fait	fait
 ramembrer	ramembrer
-	u
 la	la
 ioie	joie
 et	et
@@ -93,7 +91,6 @@ ce	ce
 me	me
 fait	fait
 desirrer	desirrer
-	u
 sa	sa
 douce	douce
 compaignie	compaignie
@@ -128,7 +125,6 @@ se	se
 pour	pour
 amer	amer
 empire	empire
-	u
 gent	gent
 guerredonarent	guerredonarent
 qͣr	quar
@@ -141,7 +137,6 @@ ne	ne
 puet	puet
 auoir	avoir
 tourment	tourment
-	u
 que	que
 plour	plour
 ne	ne
@@ -155,17 +150,16 @@ plaint	plaint
 de	de
 uostre	vostre
 encombrement	encombrement
-	un
 endroit	endroit
 moi	moi
 ne	ne
 remaint	remaint
-	u
 l	l
 amours	amours
 qui	qui
 si	si
-mesprent	mesprent
+m	m
+esprent	esprent
 doucement	doucement
 me	me
 destraint	destraint
@@ -181,7 +175,7 @@ ne	ne
 nos	nos
 escondire	escondire
 uostre	vostre
-ꝯmandement	commandement
+ꝯmandement	conmandement
 amours	amours
 proi	proi
 quel	quel
@@ -192,7 +186,6 @@ a	a
 faire	faire
 uo	vo
 talent	talent
-	u
 si	si
 qu	qu
 a	a
@@ -248,7 +241,6 @@ dieu	dieu
 ni	ni
 mes	mes
 pensez	pensez
-	u
 n	n
 estes	estes
 pas	pas
@@ -263,14 +255,12 @@ de	de
 uous	vous
 soie	soie
 amez	amez
-	u
 s	s
 a	a
 tort	tort
 ne	ne
 me	me
 mescroit	mescroit
-	u
 li	li
 cuers	cuers
 que	que
@@ -292,14 +282,14 @@ ie	je
 ne	ne
 sai	sai
 se	se
-iai	iai
+i	i
+ai	ai
 droit	droit
 ia	ja
 tant	tant
 ne	ne
 m	m
 amerez	amerez
-	u
 pluz	pluz
 ne	ne
 soiez	soiez

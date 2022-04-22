@@ -30,7 +30,6 @@ je
 en2
 devoir
 merveillier
-o3
 se
 je
 aler
@@ -109,8 +108,8 @@ ne2
 ne1
 je
 en2
+savoir
 conseillier1
-où
 mais1
 garder
 tu
@@ -126,7 +125,7 @@ bien1
 voloir
 amor
 servir
-ne1
+ne2
 soi1
 en2
 devoir
@@ -146,7 +145,6 @@ dolor
 et
 le
 encombrier
-o3
 amor
 que4
 il

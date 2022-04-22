@@ -41,7 +41,6 @@ amant	amant
 tenu	tenu
 en	en
 esperance	esperance
-	u
 de	de
 ioie	joie
 auoir	avoir
@@ -50,16 +49,14 @@ se	se
 par	par
 li	li
 ne	ne
-l	l
-ai	ai
-	u
+lai	lai
 tout	tout
 sanz	sanz
 quidier	quidier
 sai	sai
 biẽ	bien
 que	que
-ie	ie
+ie	je
 morrai	morrai
 Ire	Ire
 et	et
@@ -79,7 +76,7 @@ et	et
 demandent	demandent
 pour	pour
 coi	coi
-ie	je
+ie	ie
 uois	vois
 chantant	chantant
 maiz	maiz
@@ -117,7 +114,6 @@ puet	puet
 tout	tout
 de	de
 fi	fi
-	u
 qu	qu
 ainc	ainc
 de	de
@@ -153,7 +149,7 @@ que	que
 ie	je
 ne	ne
 puis	puis
-desseruir	desservir
+desseruir	desseruir
 par	par
 doloir	doloir
 maiz	maiz
@@ -173,8 +169,7 @@ qui	qui
 met	met
 en	en
 auenture	aventure
-quant	quant
-que	que
+quantque	quantque
 il	il
 a	a
 et	et
@@ -236,7 +231,7 @@ ne	ne
 ia	ja
 pitiez	pitiez
 dont	dont
-ie	je
+ie	ie
 la	la
 truis	truis
 si	si
@@ -252,11 +247,9 @@ m	m
 i	i
 uiegne	viegne
 aidier	aidier
-	u
 se	se
 loiautez	loiautez
-m	m
-i	i
+mi	mi
 puet	puet
 auoir	avoir
 mestier	mestier

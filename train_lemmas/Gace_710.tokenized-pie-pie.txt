@@ -41,7 +41,6 @@ vos
 en2
 prendre
 pitié
-o3
 que4
 il
 ne1
@@ -56,11 +55,10 @@ je
 savoir
 de
 voir
-que2
+que4
 raison
 je
 defendre
-o3
 si
 haut
 amor
@@ -77,11 +75,10 @@ estre1
 de
 un
 contenement
-o3
 puis
 quel1
 avoir
-a3
+avoir
 son4
 talent
 jugier
@@ -104,7 +101,6 @@ soi1
 en2
 estre1
 avancier
-o3
 a3
 son4
 talent
@@ -129,7 +125,7 @@ estre1
 sorprendre
 et
 liier3
-où
+a3
 novrer
 devoir
 son4
@@ -150,8 +146,7 @@ pié
 mais1
 je
 estre1
-las
-sor2
+lassëor
 tot
 autre
 pöoir
@@ -203,8 +198,7 @@ je
 ocire
 et
 se
-en1
-droit
+endroit
 vos
 estre1
 veintre
@@ -232,7 +226,6 @@ et
 cors1
 très
 gent1
-un
 vos
 doner
 dieu
@@ -266,7 +259,6 @@ mauvais
 onorer
 ne2
 savoir
-o3
 vilain
 gent1
 qui
@@ -293,7 +285,6 @@ de+le
 partir
 estre1
 apareillier1
-où
 ja
 onque
 dieu

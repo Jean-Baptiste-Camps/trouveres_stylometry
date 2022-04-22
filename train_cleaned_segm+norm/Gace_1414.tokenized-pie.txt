@@ -72,7 +72,6 @@ uoir	voir
 ne	ne
 quierent	quierent
 parler	parler
-	u
 s	s
 il	il
 ne	ne
@@ -95,11 +94,9 @@ fait	fait
 d	d
 anui	anui
 endurer	endurer
-	u
 que	que
 n	n
-ai	ai
-maiz	maiz
+aimaiz	aimaiz
 poour	poour
 de	de
 morir	morir
@@ -142,9 +139,9 @@ nostre	nostre
 anemi	anemi
 ensint	ensint
 ioiant	joiant
-	u
 si	si
-nel	nel
+ne	ne
+l	l
 deussiez	deussiez
 pas	pas
 uoloir	voloir
@@ -182,7 +179,7 @@ atendrai	atendrai
 merri	merri
 criant	criant
 quant	quant
-ie	ie
+ie	je
 n	n
 ai	ai
 contre	contre
@@ -213,7 +210,6 @@ ce	ce
 se	se
 tent	tent
 longement	longement
-	u
 n	n
 en	en
 puis	puis
@@ -289,17 +285,14 @@ en	en
 deusse	deusse
 estre	estre
 pensis	pensis
-he	he
-	u
+he	He
 diex	diex
 qu	qu
 est	est
 ce	ce
 que	que
 ie	je
-deuis	devis
-	u
-ia	ja
+deuisia	devisia
 n	n
 ameroit	ameroit
 mis	mis
@@ -311,8 +304,7 @@ me	me
 dement	dement
 qui	qui
 me	me
-menast	menast
-es	es
+menastes	menastes
 upaiz	upaiz
 uiai	viai
 mon	mon
@@ -321,7 +313,6 @@ en	en
 tel	tel
 lien	lien
 mis	mis
-	u
 que	que
 ie	je
 morrai	morrai

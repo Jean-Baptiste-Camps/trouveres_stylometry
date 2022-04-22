@@ -42,7 +42,7 @@ cant1
 il
 ne1
 il
-amener
+amender
 chascun
 dire
 que4
@@ -50,7 +50,6 @@ il
 avoir
 un
 autresi
-o3
 por2
 ce1
 ne1
@@ -83,9 +82,7 @@ cui
 mon1
 joie
 empire
-où
 priier
-je
 a3
 dieu
 que4
@@ -127,7 +124,7 @@ onque
 ne1
 faire
 por2
-le
+il
 faus
 priiere
 ne2
@@ -136,9 +133,9 @@ ne1+il
 savoir
 ne2
 nul
-ne2
+ne1
 le
-marprie
+marprine
 le
 mien
 amor
@@ -243,8 +240,7 @@ mais1
 qui
 je
 tenir1
-o3
-avoir
+a3
 bon
 amor
 donc
@@ -259,17 +255,16 @@ vos
 vëoir
 se
 joie
-je
+mien
 avenir
 mout
-je
+mon1
 merveille
 que4
 en1
 franc1
 cuer2
 debonaire
-où
 pöoir
 penser
 rien
@@ -282,7 +277,7 @@ dire
 douz
 dame
 por2
-Dieu
+dieu
 vos
 priier
 que4

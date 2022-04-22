@@ -85,7 +85,7 @@ comparer2
 vostre
 grant
 valor
-que2
+que4
 mal1
 se
 en2
@@ -97,15 +97,13 @@ et
 mon1
 grant
 meschëance
-o3
 avoir
-se
+si
 de
 je
 tot
 joie
 partie
-o3
 que4
 vivre1
 nain
@@ -132,7 +130,7 @@ qui
 ne1
 je
 i2
-savoir
+estre1
 garder
 si
 croire
@@ -166,7 +164,7 @@ vostre
 compagnie
 que4
 le
-desirrer
+desir
 dobler
 mon1
 mesestance
@@ -186,7 +184,7 @@ sans
 apeticier2
 par
 mon1
-fin1
+fin2
 cuer2
 qui
 ne1
@@ -220,7 +218,6 @@ vie1
 ne1
 avoir
 poissance
-o3
 que4
 je
 destruire

@@ -50,7 +50,6 @@ a	a
 qui	qui
 amors	amors
 maintient	maintient
-	u
 puiz	puiz
 qu	qu
 oneurs	oneurs
@@ -94,8 +93,7 @@ car	car
 uostre	vostre
 clers	clers
 uis	vis
-m	m
-esclaire	esclaire
+mesclaire	mesclaire
 pluz	pluz
 que	que
 l	l

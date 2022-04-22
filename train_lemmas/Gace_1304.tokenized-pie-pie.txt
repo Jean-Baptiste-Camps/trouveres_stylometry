@@ -37,8 +37,7 @@ je
 i2
 pöoir
 aidier
-e2
-un
+en1
 las
 je
 laissier
@@ -95,7 +94,7 @@ aler
 tel
 je
 avoir
-lerudel
+lerudenl
 je
 presenter
 ainçois
@@ -112,7 +111,7 @@ a3+le
 cler
 uis
 por2
-que2
+qui
 je
 estre1
 en1
@@ -145,8 +144,7 @@ pas
 de
 si
 haut
-pris1
-o3
+prisier
 que4
 je
 ja
@@ -176,7 +174,7 @@ malement
 que4
 puis
 le
-or4
+ore3
 que2
 je
 estre1
@@ -255,10 +253,10 @@ seignor
 de
 et
 car
-mon1
+mais1
 conseillier1
 ja
-ne1
+ne2
 pöoir
 je
 marz
@@ -334,7 +332,6 @@ dire
 bien1
 paiier
 estre1
-o3
 se
 encore
 dire
@@ -347,10 +344,10 @@ non
 avuec
 dieu
 estre1
-umair
+mais1
 je
 je
-ame
+amer1
 mout
 mieus
 si

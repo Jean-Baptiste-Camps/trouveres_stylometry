@@ -49,7 +49,6 @@ amis	amis
 a	a
 tort	tort
 ochoisonez	ochoisonez
-	un
 est	est
 mout	mout
 souuent	souvent
@@ -100,7 +99,6 @@ ne	ne
 m	m
 ait	ait
 oublie	oublie
-	u
 par	par
 le	le
 conseill	conseill
@@ -145,7 +143,6 @@ atendrai	atendrai
 par	par
 ceste	ceste
 seurte	seurte
-	u
 ioie	joie
 d	d
 amours	amours
@@ -158,7 +155,6 @@ uous	vous
 ꝯ	com
 laide	laide
 cruaute	cruaute
-	un
 fet	fet
 qui	qui
 ocit	ocit
@@ -172,7 +168,6 @@ d	d
 orgueill	orgueill
 uous	vous
 desfendez	desfendez
-	u
 ne	ne
 trahissiez	trahissiez
 uos	vos
@@ -192,7 +187,8 @@ que	que
 ia	ja
 sans	sans
 li	li
-naurai	naurai
+n	n
+aurai	aurai
 ioie	joie
 certainne	certainne
 tant	tant
@@ -203,7 +199,6 @@ tout	tout
 a	a
 sa	sa
 uolente	volente
-	u
 que	que
 mis	mis
 trauauz	travauz
@@ -218,7 +213,6 @@ truis	truis
 pensif	pensif
 et	et
 esgare	esgare
-	u
 pluz	pluz
 me	me
 confort	confort
@@ -235,10 +229,10 @@ qui	qui
 proiez	proiez
 et	et
 amez	amez
-	u
 faites	faites
 ausi	ausi
-seioir	sejoir
+se	se
+ioir	joir
 en	en
 uolez	volez
 Douce	Douce
@@ -246,8 +240,7 @@ dame	dame
 mout	mout
 mont	mont
 a	a
-choison	choison
-e	et
+choisone	choisone
 faus	faus
 recreant	recreant
 et	et
@@ -261,7 +254,6 @@ espoir	espoir
 mout	mout
 si	si
 desconforte	desconforte
-	u
 prez	prez
 ne	ne
 mont	mont
@@ -285,8 +277,7 @@ l	l
 amour	amour
 qui	qui
 ia	ja
-n	n
-en	en
+nen	nen
 iert	iert
 lontainne	lontainne
 tant	tant
@@ -296,7 +287,6 @@ en	en
 uous	vous
 finement	finement
 esmerez	esmerez
-	u
 qu	qu
 ainc	ainc
 si	si
@@ -307,12 +297,9 @@ quis	quis
 ne	ne
 trouuez	trouvez
 Finez	finez
-chancon	chancon
-s	s
-i	i
-a	a
-ne	ne
-m	m
+chancons	chancons
+ia	ja
+nem	nem
 i	i
 reguardez	reguardez
 par	par
@@ -330,7 +317,6 @@ male	male
 hore	hore
 fui	fui
 nez	nez
-	u
 qui	qui
 touz	touz
 iours	jours
@@ -338,5 +324,5 @@ aimet	aimet
 ia	ja
 n	n
 i	i
-i	i
-ereamez	ereamez
+iere	iere
+amez	amez

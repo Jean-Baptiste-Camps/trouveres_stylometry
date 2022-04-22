@@ -154,9 +154,7 @@ auroie	auroie
 tant	tant
 de	de
 mes	mes
-de	de
-lis	lis
-	u
+delis	delis
 qu	qu
 amours	amours
 me	me
@@ -210,7 +208,6 @@ sanz	sanz
 partir	partir
 si	si
 ataigne	ataigne
-	u
 pour	pour
 estre	estre
 de	de

@@ -39,7 +39,6 @@ i	i
 puet	puet
 aidier	aidier
 he	he
-	un
 las	las
 me	me
 laira	laira
@@ -147,7 +146,6 @@ de	de
 si	si
 haut	haut
 pris	pris
-	u
 que	que
 ie	je
 ia	ja
@@ -335,7 +333,6 @@ dit	dit
 bien	bien
 paiez	paiez
 sui	sui
-	u
 se	se
 encore	encore
 disoit	disoit
@@ -348,7 +345,7 @@ non	non
 auec	avec
 dieu	dieu
 sui	sui
-maiz	umaiz
+maiz	maiz
 ie	je
 m	m
 amaisse	amaisse

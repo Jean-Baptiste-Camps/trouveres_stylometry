@@ -37,7 +37,6 @@ soi1
 amer1
 bien1
 savoir
-o3
 que4
 il
 faire
@@ -55,7 +54,7 @@ de
 bon
 amor
 savoir
-que2
+que4
 estre1
 prest1
 et
@@ -115,7 +114,7 @@ vos
 et
 le
 grant
-prisier
+pris1
 dame
 je
 ocire
@@ -141,7 +140,6 @@ par
 ce1
 en2
 amer1
-où
 le
 volenté
 hardi
@@ -159,7 +157,6 @@ de
 tel
 force2
 establir
-o3
 que4
 sor2
 tot
@@ -180,14 +177,13 @@ en2
 desdire
 car
 je
-il
+le
 otroiier
-son4
-vent
+venir
 estre1
 et
 estre1
-en1
+en2
 il
 je
 fïer
@@ -215,7 +211,7 @@ qui
 mon1
 tu
 cuer2
-racine
+raciner
 et
 florir
 si
@@ -229,7 +225,8 @@ contredire
 ainz
 dire
 que4
-aidier
+i2
+atendre
 o4
 le
 mal1

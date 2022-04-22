@@ -156,7 +156,6 @@ NOMcom
 VERcjg
 ADVgen
 VERppe
-DETpos
 NOMcom
 VERcjg
 PRE

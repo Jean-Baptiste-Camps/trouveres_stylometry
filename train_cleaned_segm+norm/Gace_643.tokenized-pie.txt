@@ -38,7 +38,7 @@ qui	qui
 d	d
 amours	amours
 se	se
-repent	repente
+repent	repent
 s	s
 est	est
 bien	bien
@@ -169,7 +169,6 @@ me	me
 fait	fait
 souent	sovent
 souspirer	souspirer
-	u
 qu	qu
 anuis	anuis
 fait	fait
@@ -207,7 +206,6 @@ puis	puis
 ne	ne
 sauoit	savoit
 assener	assener
-	u
 la	la
 u	u
 ele	ele

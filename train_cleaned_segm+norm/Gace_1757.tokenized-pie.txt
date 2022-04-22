@@ -29,7 +29,7 @@ messe	messe
 ma	ma
 dame	dame
 auoie	avoie
-assez	Wassez
+assez	assez
 auroie	auroie
 honour	honour
 Que	Que
@@ -39,7 +39,6 @@ ne	ne
 ueut	veut
 nul	nul
 auoir	avoir
-	u
 fors	fors
 li	li
 cui	cui

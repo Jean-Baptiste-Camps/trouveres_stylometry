@@ -110,7 +110,6 @@ plus	plus
 loial	loial
 ami	ami
 trouer	trover
-	u
 qui	qui
 soit	soit
 dont	dont
@@ -123,7 +122,6 @@ haute	haute
 honeur	honeur
 d	d
 amie	amie
-	un
 ne	ne
 porroit	porroit
 nus	nus
@@ -189,7 +187,6 @@ maiz	maiz
 ne	ne
 fui	fui
 priz	priz
-	u
 d	d
 amours	amours
 maiz	maiz
@@ -210,8 +207,7 @@ proi	proi
 uolenteiz	volenteiz
 quẽ	que
 uostre	vostre
-ꝯpaignie	compaignie
-	un
+ꝯpaignie	conpaignie
 m	m
 acueilliez	acueilliez
 ainz	ainz
@@ -249,7 +245,7 @@ li	li
 pluz	pluz
 loianz	loianz
 amis	amis
-del	ddel
+del	del
 mont	mont
 si	si
 le	le
@@ -270,7 +266,6 @@ ce	ce
 m	m
 est	est
 uis	vis
-	u
 tant	tant
 qu	qu
 a	a
@@ -292,7 +287,6 @@ qu	qu
 il	il
 saura	saura
 ententiz	ententiz
-	u
 d	d
 amer	amer
 sanz	sanz
