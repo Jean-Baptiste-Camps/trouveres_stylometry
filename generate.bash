@@ -17,7 +17,7 @@ cp train_cleaned_segm+norm+lemmat/*-pie-pie.txt train_lemmas/
 cp train_cleaned_segm+norm+lemmat/*-pie-pie.txt train_pos/
 # Unseen data (with proper envs)
 ~/boudams/env/bin/boudams tag ~/boudams/models/fro_denorm.boudams_model unseen_cleaned/*
-~/pie/env/bin/pie tag "unseen_cleaned/*.tokenized.txt" ~/pie/fro_expan_02b-normalised-2021_07_01-09_49_27.tar
+~/pie/env/bin/pie tag "unseen_cleaned/*.tokenized.txt" ~/pie/fro_expan_02b-normalised-2022_04_22-12_24_15.tar
 perl -i -pe "s/^.*\t(.+)$/\1/g" unseen_cleaned/*.tokenized-pie.txt
 perl -i -pe "s/\n/ /g"  unseen_cleaned/*.tokenized-pie.txt
 perl -i -pe "s/normalised //g"  unseen_cleaned/*.tokenized-pie.txt
