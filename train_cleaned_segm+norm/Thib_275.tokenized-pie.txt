@@ -15,12 +15,15 @@ est	est
 douz	douz
 ci	ci
 poignanz	poignanz
+⁊	et
 deliteuz	deliteuz
 apenser	apenser
+⁊	et
 tant	tant
 set	set
 biau	biau
 conforter	conforter
+⁊	et
 de	de
 grans	grans
 biẽs	biens
@@ -69,7 +72,8 @@ recorder	recorder
 Amors	Amors
 qnͣt	qant
 uos	vos
-maues	maves
+m	m
+aues	aves
 mis	mis
 lie	lie
 en	en
@@ -80,7 +84,7 @@ ameroie	ameroie
 estre	estre
 ocis	ocis
 que	que
-ieusse	ieusse
+ieusse	jeusse
 raencon	raencon
 tiex	tiex
 max	max
@@ -116,9 +120,12 @@ m	m
 a	a
 uostre	vostre
 amors	amors
-sosprisur̃e	sosprisure
+sospris	sospris
+⁊	et
+ur̃e	vostre
 plaisanz	plaisanz
-facon	façon
+facon	facon
+⁊	et
 biautez	biautez
 a	a
 tel	tel
@@ -128,6 +135,7 @@ resplent	resplent
 en	en
 uostre	vostre
 uis	vis
+⁊	et
 des	des
 les	les
 piez	piez

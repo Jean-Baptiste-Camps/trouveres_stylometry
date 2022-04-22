@@ -61,6 +61,7 @@ mielz	mielz
 aimmes	aimmes
 dolors	dolors
 sosfrir	sosfrir
+⁊	et
 les	les
 granz	granz
 paors	paors
@@ -153,6 +154,7 @@ son	son
 corrouz	corrouz
 as	as
 sospirs	sospirs
+⁊	et
 as	as
 senglouz	senglouz
 m	m
@@ -169,6 +171,7 @@ uoiz	voiz
 aorant	aorant
 le	le
 leu	leu
+⁊	et
 merci	merci
 criant	criant
 cum	cum
@@ -194,12 +197,14 @@ cil	cil
 qui	qui
 sent	sent
 mez	mez
-m	m
-ar	ar
+mar	mar
+⁊	et
 merci	merci
 l	l
-atent	atent
+a	a
+tent	tent
 trop	trop
 a	a
-anuici	anuici
+anui	anui
+ci	ci
 contraire	contraire

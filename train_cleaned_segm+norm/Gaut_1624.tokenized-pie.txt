@@ -205,7 +205,7 @@ oez	oez
 loer	loer
 cheueus	cheveus
 ablons	ablons
-	et
+⁊	et
 uis	uis
 riant	riant
 et	et

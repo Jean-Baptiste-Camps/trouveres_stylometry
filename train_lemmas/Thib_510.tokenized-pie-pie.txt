@@ -60,6 +60,7 @@ mieus
 amer1
 dolor
 sofrir
+et
 le
 grant
 pëor
@@ -78,7 +79,7 @@ vos
 tant
 ne2
 cant1
-covoir
+culvert
 bel1
 estrange
 faire
@@ -152,6 +153,7 @@ son4
 corroz
 a3+le
 sospir
+et
 a3+le
 senglor
 je
@@ -164,10 +166,11 @@ pöoir
 plus
 faire
 ainz
-voiz
+vëoir
 aorner2
 le
 lieu
+et
 merci
 crïer2
 come1
@@ -175,7 +178,7 @@ avoir
 haut
 saintëarie
 dame
-cui
+que2
 i2
 amer1
 tant
@@ -193,12 +196,14 @@ cel
 qui
 sentir
 mais1
-je
-avoir
+mar
+et
 merci
 il
-atendre
-trop
 avoir
-encui
+tendre1
+trop
+a3
+enui
+ci
 contraire1

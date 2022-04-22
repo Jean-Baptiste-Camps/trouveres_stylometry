@@ -10,14 +10,14 @@ est	estre1	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s	est
 drois	droit	ADJqua	NOMB.=s|GENRE=m|CAS=n|DEGRE=p	drois
 que	que4	CONsub	MORPH=empty	que
 de	de	PRE	MORPH=empty	de
-li	le	PROper	PERS.=3|NOMB.=s|GENRE=m|CAS=i	li
+li	il	PROper	PERS.=3|NOMB.=s|GENRE=m|CAS=i	li
 chant	chant2	NOMcom	MODE=ind|NOMB.=s|GENRE=m|CAS=r	chant
 et	et	CONcoo	MORPH=empty	et
 que	que4	CONsub	MORPH=empty	que
-je	je	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=n	je
+ie	je	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=n	ie
 ma	mon1	DETpos	PERS.=1|NOMB.=s|GENRE=f|CAS=r	ma
 doleur	dolor	NOMcom	NOMB.=s|GENRE=f|CAS=r	doleur
-vueille	voloir	VERcjg	MODE=sub|TEMPS=pst|PERS.=1|NOMB.=s	vueille
+vueille	voloir	VERcjg	MODE=sub|PERS.=3|NOMB.=s	vueille
 quant	cant1	CONsub	MORPH=empty	quant
 cele	cel	PROdem	NOMB.=s|GENRE=f|CAS=n	cele
 me	je	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=i	me
@@ -39,7 +39,7 @@ bouche	boche	NOMcom	NOMB.=s|GENRE=f|CAS=r	bouche
 riant	rire	VERppa	NOMB.=s|GENRE=f|CAS=r	riant
 me	je	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=i	me
 vait	aler	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s	vait
-pluz	plus	ADVgen	DEGRE=c	pluz
+pluz	plus	ADVgen	DEGRE=-	pluz
 qu	que4	CONsub	MORPH=empty	qu
 ele	il	PROper	PERS.=3|NOMB.=s|GENRE=f|CAS=n	ele
 n	ne1	ADVneg	MORPH=empty	n

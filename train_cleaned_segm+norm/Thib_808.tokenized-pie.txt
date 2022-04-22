@@ -32,6 +32,7 @@ que	que
 tant	tant
 est	est
 cortoise	cortoise
+⁊	et
 Se	Se
 poisse	poisse
 oublisage	oublisage
@@ -41,11 +42,12 @@ puis	puis
 aillors	aillors
 penserer	penserer
 sa	sa
-biau	biau
-te	te
+biaute	biaute
+⁊	et
 ses	ses
 bons	bons
 diz	diz
+⁊	et
 son	son
 tres	tres
 douz	douz
@@ -83,7 +85,7 @@ muert	muert
 d	d
 amors	amors
 mes	mes
-ie	je
+ie	ie
 n	n
 en	en
 quier	quier
@@ -95,7 +97,9 @@ sosfrir	sosfrir
 ma	ma
 dolor	dolor
 uuire	vuire
+⁊	et
 atendre	atendre
+⁊	et
 languir	languir
 qu	qu
 ele	ele
@@ -105,8 +109,8 @@ bien	bien
 merir	merir
 mes	mes
 max	max
-m	m
-a	a
+⁊	et
+ma	ma
 ꝯsirre	consirre
 e	e
 n	n
@@ -117,8 +121,7 @@ droit	droit
 qui	qui
 bee	bee
 q̃	que
-l	l
-en	en
+len	len
 porroit	porroit
 auenir	avenir
 Dame	Dame
@@ -130,6 +133,7 @@ souuent	souvent
 l	l
 estuet	estuet
 esbahir	esbahir
+⁊	et
 penser	penser
 a	a
 tel	tel
@@ -191,8 +195,7 @@ ce	ce
 fait	fait
 amors	amors
 doloir	doloir
-q̃	que
-le	le
+q̃le	quele
 uelt	velt
 guerredon	guerredon
 rendre	rendre
@@ -201,6 +204,7 @@ qui	qui
 bien	bien
 seuent	sevent
 atendre	atendre
+⁊	et
 seruir	servir
 a	a
 son	son
@@ -209,8 +213,10 @@ Damedex	Damedex
 tot	tot
 mon	mon
 pooir	pooir
-motro	motro
-auos	avos
+m	m
+otro	otro
+a	a
+uos	vos
 sanz	sanz
 ꝯtendre	contendre
 que	que

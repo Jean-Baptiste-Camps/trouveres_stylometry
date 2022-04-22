@@ -172,7 +172,7 @@ puis	puis
 de	de
 uous	vous
 partir	partir
-	et
+⁊	et
 si	si
 ne	ne
 uous	vous

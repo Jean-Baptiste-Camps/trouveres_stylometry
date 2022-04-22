@@ -58,6 +58,7 @@ nus	nus
 ne	ne
 puet	puet
 eschaper	eschaper
+⁊	et
 ı	ı
 aı	aı
 forfet	forfet
@@ -67,8 +68,8 @@ a	a
 perdre	perdre
 le	le
 cors	cors
-l	l
-ame	ame
+⁊	et
+lame	lame
 se	se
 ne	ne
 m	m
@@ -94,6 +95,7 @@ refusee	refusee
 sıre	sıre
 droıture	droıture
 oublıez	oublıez
+⁊	et
 destendez	destendez
 uostre	vostre
 corde	corde
@@ -168,14 +170,17 @@ le	le
 somes	somes
 par	par
 uos	vos
-deuoır	devoır
+de	de
+uoır	voır
 le	le
 sai	sai
+⁊	et
 laısseraı	laısseraı
+⁊	et
 dex	dex
 nos	nos
 doınt	doınt
-sas̃	sasin
+sas̃	sasint
 delaı	delaı
 auoır	avoır
 son	son

@@ -41,7 +41,9 @@ combat	combat
 amors	amors
 cest	cest
 cuers	cuers
+⁊	et
 cors	cors
+⁊	et
 li	li
 oeil	oeil
 dont	dont
@@ -75,6 +77,7 @@ droit	droit
 ou	ou
 a	a
 tort	tort
+⁊	et
 amors	amors
 fiert	fiert
 fans	fans
@@ -153,7 +156,8 @@ en	en
 est	est
 par	par
 tesmoing	tesmoing
-ie	je
+⁊	et
+ie	ie
 per	per
 sanz	sanz
 reconquerre	reconquerre
@@ -218,13 +222,16 @@ poing	poing
 ml̃tgnͣt	moutgant
 sen	sen
 a	a
-abiau	abiau
+a	a
+biau	biau
 querre	querre
+⁊	et
 au	au
 donner	donner
 sans	sans
 requerre	requerre
-ie	je
+⁊	et
+ie	ie
 dame	dame
 cri	cri
 merci	merci
@@ -291,7 +298,7 @@ ou	ou
 uos	vos
 le	le
 tenez	tenez
-dex	Dex
+dex	dex
 fu	fu
 ains	ains
 mais	mais
@@ -341,6 +348,6 @@ si	si
 grief	grief
 qu	qu
 il	il
-meisme	meïsme
+meisme	meisme
 n	n
 eust	eust

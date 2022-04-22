@@ -72,6 +72,7 @@ merci	merci
 crier	crier
 En	En
 dormant	dormant
+⁊	et
 en	en
 ueillant	veillant
 est	est
@@ -81,6 +82,7 @@ dou	dou
 tot	tot
 a	a
 lui	lui
+⁊	et
 li	li
 prie	prie
 doucemẽt	doucement
@@ -96,7 +98,7 @@ tant	tant
 me	me
 fi	fi
 queqnͣt	quequnt
-ie	je
+ie	ie
 pens	pens
 durement	durement
 de	de
@@ -104,6 +106,7 @@ ioie	joie
 toz	toz
 mentrobli	mentrobli
 Ioie	Ioie
+⁊	et
 duel	duel
 a	a
 cil	cil
@@ -116,6 +119,7 @@ asenti	asenti
 mes	mes
 cuers	cuers
 pleure	pleure
+⁊	et
 ie	je
 en	en
 chanteinisi	chanteinisi
@@ -132,7 +136,7 @@ guerte	guerte
 donez	donez
 lent	lent
 ne	ne
-porqnͣt	porqant
+porqnͣt	porqunt
 de	de
 moi	moi
 pri	pri

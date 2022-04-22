@@ -185,7 +185,7 @@ n	n
 amai	amai
 mainz	mainz
 loiaument	loiaument
-	et
+⁊	et
 si	si
 sai	sai
 bien	bien

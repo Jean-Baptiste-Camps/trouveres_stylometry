@@ -20,6 +20,7 @@ VERppe
 CONsub
 PRE
 NOMcom
+CONcoo
 PRE
 NOMcom
 VERcjg
@@ -71,9 +72,10 @@ ADVgen
 ADJqua
 NOMcom
 VERcjg
+CONcoo
 ADVgen
 VERcjg
-PROper
+PROimp
 VERcjg
 CONsub
 PRE
@@ -96,6 +98,7 @@ ADVneg
 ADVgen
 VERppe
 ADJqua
+CONcoo
 VERppe
 PROper
 PROrel
@@ -121,9 +124,9 @@ PRE
 PROdem
 PRE
 VERppe
-PROadv
-VERcjg
-PROrel
+PRE
+NOMcom
+PROint
 PROind
 PROrel
 PROper
@@ -187,12 +190,12 @@ VERcjg
 ADJqua
 ADVgen
 VERcjg
-ADJqua
+NOMcom
 ADVgen
 VERppa
 ADVgen
-VERcjg
-ADVgen
+ADJqua
+NOMcom
 VERinf
 PROper
 ADVint

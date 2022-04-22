@@ -20,6 +20,7 @@ m	m
 estuet	estuet
 souent	sovent
 plaindre	plaindre
+⁊	et
 plorer	plorer
 que	que
 nus	nus
@@ -124,16 +125,14 @@ tante	tante
 gent	gent
 sont	sont
 pris	pris
-a	a
-guiler	guiler
+aguiler	aguiler
 qu	qu
 a	a
 paine	paine
 iert	iert
 coneuz	coneuz
 faus	faus
-a	a
-mis	mis
+amis	amis
 ice	ice
 m	m
 ocist	ocist
@@ -145,8 +144,10 @@ me	me
 tolt	tolt
 mat	mat
 ioie	joie
+⁊	et
 ma	ma
 fiance	fiance
+⁊	et
 fait	fait
 doloir	doloir
 dame	dame

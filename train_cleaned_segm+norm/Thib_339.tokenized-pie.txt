@@ -13,6 +13,7 @@ ieu	ieu
 parti	parti
 en	en
 chãtant	chantant
+⁊	et
 en	en
 grant	grant
 balance	balance
@@ -165,6 +166,7 @@ uostre	vostre
 gre	gre
 mon	mon
 cors	cors
+⁊	et
 ma	ma
 uie	vie
 met	met
@@ -195,8 +197,7 @@ que	que
 cil	cil
 qui	qui
 tant	tant
-a	a
-ame	ame
+aame	aame
 a	a
 uos	vos
 s	s

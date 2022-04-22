@@ -17,9 +17,10 @@ amer1
 estre1
 si
 sorprendre
-que4
+que1
 de
 jor
+et
 de
 nuit
 estre1
@@ -71,8 +72,9 @@ söef
 mal1
 cuer2
 embler
+et
 sovent
-maire
+maroir2
 il
 sembler
 que4
@@ -96,6 +98,7 @@ mie
 ci
 faire
 joiant
+et
 priier
 il
 que4
@@ -110,7 +113,7 @@ vos
 ne1
 faire
 rien
-que4
+que2
 je
 vos
 amer1
@@ -124,7 +127,7 @@ metre2
 en2
 oblïer
 conquerre
-nos1
+nul
 qui
 vos
 amer1
@@ -191,8 +194,8 @@ froit1
 or4
 chant2
 or4
-plorer
-or4
+plor
+estor2
 sospir
 je
 comander
