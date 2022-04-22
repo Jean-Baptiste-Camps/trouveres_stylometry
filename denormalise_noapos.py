@@ -35,8 +35,8 @@ def nettoyageTextes(string):
     pattern = r"[\u0300\u0301\u0308\u0327]"
     replace  = ''
     string = re.sub(pattern, replace, nfkd_form, flags=re.M)
-    # and now some punctuation
-    pattern = r'[\"«»,;:?!·]'
+    # and now some punctuation  and private zone medieval punct
+    pattern = r'[\"«»,;:?!·\uF161\uF143]'
     replace  = ''
     string = re.sub(pattern, replace, nfkd_form, flags=re.M)
     #élements entre partehèses
