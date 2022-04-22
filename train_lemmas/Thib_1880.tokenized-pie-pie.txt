@@ -12,14 +12,12 @@ estre1
 ce1
 car
 nul
-regne
+rendre
 ne1
 faire
 tant
 cuer2
-le
-on
-o3
+lonc
 come1
 grant
 pëor
@@ -54,7 +52,7 @@ tot
 ce1
 ne2
 pöoir
-et
+avoir
 eschaper
 a3+le
 cuer2
@@ -99,7 +97,6 @@ felon
 car
 icel
 avoir
-où
 mieus
 doter1
 amor
@@ -147,7 +144,7 @@ de
 peine
 et
 de
-empirlant
+amicel
 conoistre
 derrier(e)
 a3
@@ -201,7 +198,6 @@ aler
 ferir
 en1+le
 Gui
-o3
 cant1
 il
 ne1
@@ -216,9 +212,9 @@ cant1
 et
 pens
 bien1
-a3
+avoir
 le
-que4
+que2
 avoir
 mon1
 dolor
@@ -234,7 +230,7 @@ que4
 trestot
 mentorber
 et
-maistre
+mestier
 que4
 entre2
 son4
@@ -253,7 +249,7 @@ et
 et
 vos
 bien1
-que4
+que2
 a3
 tot
 avoir
@@ -274,7 +270,7 @@ il
 ne1
 il
 en2
-souer
+sovenir
 bel1
 de
 tot
@@ -290,7 +286,6 @@ estre1
 par
 vos
 mer
-où
 mout
 voloir
 mal1

@@ -43,7 +43,6 @@ achater
 le
 bien2
 bel1
-o3
 bon
 a3
 vos
@@ -130,8 +129,8 @@ je
 estovoir1
 que4
 le
-avoiier
-que4
+voie
+que2
 son4
 frois1
 color
@@ -140,13 +139,13 @@ en1
 mon1
 cuer2
 mirëor
-dieu
+Dieu
 come1
 si
 faire
 bel1
 mire1
-nos1
+nul
 atendre
 je
 estovoir1
@@ -191,9 +190,8 @@ ne2
 Cançon
 aler
 tu
-en2
+en1
 tost1
-o3
 dire
 blasmer
 a3

@@ -31,7 +31,6 @@ ades	ades
 me	me
 ueut	veut
 greuer	grever
-	u
 du	du
 monde	monde
 la	la
@@ -76,12 +75,12 @@ m	m
 i	i
 laist	laist
 fausser	fausser
-nis	nis
-s	s
-ele	ele
+n	n
+issele	issele
 a	a
 ma	ma
-mortiuree	mortivree
+mort	mort
+iuree	juree
 Mout	mout
 me	me
 plaist	plaist
@@ -112,7 +111,6 @@ me	me
 ueut	veut
 ioie	joie
 doner	doner
-	u
 que	que
 bien	bien
 ne	ne
@@ -171,7 +169,7 @@ pluz	pluz
 cuit	cuit
 merci	merci
 trouer	trover
-et	et
+et	et
 pluz	pluz
 est	est
 mire	mire
@@ -217,7 +215,6 @@ i	i
 ai	ai
 merci	merci
 trouee	trovee
-	u
 qu	qu
 autre	autre
 n	n
@@ -229,8 +226,7 @@ mout	mout
 li	li
 deuroit	devroit
 peser	peser
-s	ss
-ert	ert
+sert	sert
 de	de
 faus	faus
 amanz	amanz

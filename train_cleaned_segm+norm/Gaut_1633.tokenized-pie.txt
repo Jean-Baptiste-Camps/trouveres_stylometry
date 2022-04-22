@@ -170,7 +170,6 @@ graille	graille
 et	et
 bien	bien
 parlant	parlant
-	u
 la	la
 fist	fist
 diex	diex
@@ -228,7 +227,6 @@ simple	simple
 chieres	chieres
 et	et
 moustrer	moustrer
-	u
 maiz	maiz
 il	il
 n	n
@@ -269,7 +267,6 @@ est	est
 de	de
 ce	ce
 uilainne	vilainne
-	u
 qu	qu
 ele	ele
 ne	ne
@@ -291,7 +288,6 @@ m	m
 en	en
 porroit	porroit
 tourner	tourner
-	u
 que	que
 ne	ne
 soit	soit

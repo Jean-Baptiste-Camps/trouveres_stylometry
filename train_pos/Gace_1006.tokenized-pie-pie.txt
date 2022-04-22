@@ -102,6 +102,7 @@ NOMcom
 ADJqua
 NOMpro
 ADJqua
+NOMcom
 DETpos
 NOMcom
 PROrel
@@ -135,7 +136,7 @@ NOMcom
 ADJqua
 NOMcom
 PROper
-NOMcom
+VERcjg
 ADVgen
 PROper
 VERcjg
@@ -185,7 +186,7 @@ NOMcom
 PROrel
 VERinf
 VERcjg
-NOMcom
+VERppe
 PRE
 NOMcom
 PROper
@@ -219,15 +220,14 @@ PROper
 VERcjg
 ADJqua
 CONcoo
-NOMcom
+VERcjg
 CONcoo
 NOMcom
 PROper
 VERcjg
-VERppe
-NOMcom
+CONcoo
 ADJqua
-NOMcom
+VERcjg
 ADVgen
 ADJqua
 NOMcom

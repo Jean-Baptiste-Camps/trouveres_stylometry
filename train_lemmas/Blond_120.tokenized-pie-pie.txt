@@ -17,7 +17,6 @@ cuer2
 angoissier
 et
 mahaignier
-où
 je
 ne1
 en2
@@ -43,7 +42,7 @@ dolor
 que2
 por2
 le
-sentor
+senor
 il
 priier
 que4
@@ -59,7 +58,7 @@ grever
 soi1
 feindre
 trop
-mairre
+maire
 et
 Pavine
 sovent
@@ -95,12 +94,10 @@ je
 amer1
 si
 lëaument
-o3
 come1
 se
 ueil
-je
-en2
+mien
 faire
 le
 enseigne
@@ -115,7 +112,6 @@ tant
 pöoir
 je
 garir
-o3
 de
 cest
 mal1
@@ -147,8 +143,7 @@ ja
 puis
 ne1
 devoir
-jöir
-o3
+joir
 de+le
 bien1
 donc
@@ -193,8 +188,8 @@ regart
 ne2
 mon1
 falir
-noiier2
-le
+noiier1
+il
 bel1
 ueil
 que4
@@ -208,7 +203,6 @@ ne1
 decevoir
 par
 mentir
-un
 faire
 bien1
 semblant
@@ -221,7 +215,7 @@ je
 si
 faire
 plus
-deus
+douz
 message1
 ne1
 je
@@ -281,11 +275,10 @@ soi1
 amer1
 de
 cuer2
-entier
-o3
-si
+enterin
 come1
-Jehait
+je
+faire
 en1
 grant
 folage

@@ -145,7 +145,7 @@ ueil
 dire
 por2
 je
-que2
+qui
 tant
 bien1
 avoir
@@ -156,7 +156,6 @@ dolor
 estre1
 tost1
 oblïer
-son4
 guerredon
 estre1
 a3

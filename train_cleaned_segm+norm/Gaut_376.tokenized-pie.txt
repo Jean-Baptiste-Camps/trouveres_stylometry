@@ -5,7 +5,6 @@ ie	ie
 ne	ne
 sueill	sueill
 fas	fas
-	u
 mon	mon
 chant	chant
 des	des
@@ -18,9 +17,7 @@ fui	fui
 un	un
 iour	iour
 las	las
-	u
-d	d
-amer	amer
+damer	damer
 cele	cele
 a	a
 mon	mon
@@ -32,7 +29,6 @@ tient	tient
 en	en
 ses	ses
 las	las
-	u
 de	de
 li	li
 ne	ne
@@ -58,7 +54,6 @@ ce	ce
 sera	sera
 mauuez	mauvez
 eschaz	eschaz
-	u
 mainz	mainz
 en	en
 aura	aura
@@ -71,7 +66,6 @@ et	et
 si	si
 bel	bel
 braz	braz
-	un
 me	me
 font	font
 en	en
@@ -82,8 +76,8 @@ son	son
 simple	simple
 uisses	visses
 reguars	reguars
-mis	mis
-orent	orent
+mi	mi
+sorent	sorent
 si	si
 deceuoir	decevoir
 qu	qu
@@ -108,7 +102,6 @@ choisi	choisi
 haut	haut
 ou	ou
 bas	bas
-	u
 ie	je
 ne	ne
 m	m
@@ -122,7 +115,6 @@ en	en
 sui	sui
 clamez	clamez
 las	las
-	u
 mainz	mainz
 ioie	joie
 en	en
@@ -168,7 +160,6 @@ de	de
 ce	ce
 dont	dont
 irascus	irascus
-	un
 deuroie	devroie
 es	es
 tͤ	tre
@@ -181,7 +172,6 @@ pluz	pluz
 sui	sui
 q̃	que
 mis	mis
-	un
 a	a
 tres	tres
 haut	haut
@@ -225,8 +215,8 @@ au	au
 iour	jour
 soie	soie
 ie	je
-pendus	pendus
-ia	ja
+pendusi	pendusi
+a	a
 tant	tant
 n	n
 en	en
@@ -238,7 +228,6 @@ sui	sui
 dou	dou
 trauaill	travaill
 mus	mus
-	un
 pl᷒iert	plusiert
 li	li
 guerredons	guerredons
@@ -257,7 +246,6 @@ bele	bele
 a	a
 li	li
 loer	loer
-	un
 ne	ne
 deuroit	devroit
 nus	nus
@@ -298,7 +286,6 @@ laim	laim
 pour	pour
 li	li
 endurer	endurer
-	u
 q	q
 un	un
 grant	grant

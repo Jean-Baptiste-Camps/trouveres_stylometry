@@ -27,7 +27,6 @@ a	a
 chanter	chanter
 n	n
 entent	entent
-	u
 qui	qui
 mieuz	mieuz
 s	s
@@ -39,11 +38,9 @@ r	r
 ce	ce
 chant	chant
 uoirement	voirement
-	u
 quentir	quentir
 plus	plus
-doucemen	doucemen
-t	t
+doucement	doucement
 rop	rop
 par	par
 me	me
@@ -74,8 +71,8 @@ la	la
 tres	tres
 bele	bele
 au	au
-corsnt	corsnt
-	un
+cors	cors
+nt	nt
 me	me
 feist	feist
 touz	touz
@@ -86,7 +83,7 @@ ce	ce
 m	m
 ocit	ocit
 uraiement	vraiement
-iel	Kiel
+iel	jel
 ne	ne
 set	set
 que	que
@@ -123,7 +120,6 @@ droit	droit
 le	le
 deust	deust
 faire	faire
-	u
 se	se
 reguars	reguars
 a	a
@@ -135,7 +131,7 @@ iex	iex
 ne	ne
 me	me
 ment	ment
-Chancons	Chançons
+Chancons	Chancons
 ua	va
 isnelement	isnelement
 a	a
@@ -155,8 +151,7 @@ est	est
 souef	souef
 flaire	flaire
 ne	ne
-l	l
-os	os
+los	los
 penser	penser
 autrement	autrement
 quar	quar
@@ -177,7 +172,6 @@ ne	ne
 l	l
 en	en
 prent	prent
-	u
 blondiaus	blondiaus
 muert	muert
 que	que

@@ -51,7 +51,6 @@ il	il
 a	a
 une	une
 autresi	autresi
-	u
 pour	pour
 ce	ce
 ne	ne
@@ -84,9 +83,7 @@ cui	cui
 ma	ma
 ioie	joie
 empire	empire
-	u
-pri	pri
-ie	je
+priie	priie
 a	a
 dieu	dieu
 qu	qu
@@ -244,7 +241,6 @@ mes	mes
 qui	qui
 me	me
 tieigne	tieigne
-	u
 a	a
 bone	bone
 amour	amour
@@ -270,7 +266,6 @@ en	en
 franc	franc
 cuer	cuer
 debonere	debonere
-	u
 poez	poez
 penser	penser
 rienz	rienz
@@ -280,7 +275,7 @@ morir	morir
 crieigne	crieigne
 Chascũs	Chascuns
 dist	dist
-Douce	douce
+Douce	Douce
 dame	dame
 pour	pour
 dieu	dieu

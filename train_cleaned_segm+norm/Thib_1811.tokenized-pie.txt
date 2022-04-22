@@ -19,20 +19,17 @@ bñ	bien
 doner	doner
 de	de
 lor	lor
-auirterres	avirterres
-	u
+auir	avir
+terres	terres
 fiez	fiez
-	u
 mesfaiz	mesfaiz
 pardoner	pardoner
-	u
 amors	amors
 puet	puet
 home	home
 de	de
 mort	mort
 garder	garder
-	u
 doner	doner
 ioie	joie
 qui	qui
@@ -81,7 +78,6 @@ ne	ne
 faut	faut
 fors	fors
 mesure	mesure
-	u
 ce	ce
 qu	qu
 ele	ele
@@ -120,8 +116,7 @@ tient	tient
 sanz	sanz
 guerredon	guerredon
 destroit	destroit
-	u
-ie	ie
+ie	je
 sui	sui
 cil	cil
 quiex	quiex
@@ -217,7 +212,8 @@ ma	ma
 reson	reson
 bien	bien
 sent	sent
-uoice	nuoice
+uoi	voi
+ce	ce
 n	n
 est	est
 mie	mie
@@ -243,7 +239,6 @@ mie	mie
 Dame	Dame
 ma	ma
 mort	mort
-	u
 ma	ma
 uie	vie
 est	est
@@ -257,7 +252,6 @@ Raoul	Raoul
 cil	cil
 qui	qui
 sert	sert
-	un
 prie	prie
 auroit	auroit
 bñ	bien

@@ -23,7 +23,6 @@ suiu	suiu
 ne	ne
 sui	sui
 mie	mie
-	u
 quar	quar
 ire	ire
 ma	ma
@@ -39,7 +38,6 @@ tout	tout
 le	le
 mont	mont
 atourne	atourne
-	u
 en	en
 tristece	tristece
 en	en
@@ -63,7 +61,8 @@ et	et
 tout	tout
 bien	bien
 adosse	adosse
-Habone	Haibone
+Ha	Ha
+bone	bone
 amour	amour
 cil	cil
 qui	qui
@@ -76,7 +75,9 @@ fol	fol
 sunt	sunt
 mout	mout
 petit	petit
-seneia	seneia
+sen	sen
+e	e
+ia	ja
 muet	muet
 de	de
 uous	vous
@@ -107,14 +108,13 @@ en	en
 quier	quier
 auoit	avoit
 aie	aie
-ie	ie
+ie	je
 ne	ne
 quier	quier
 pas	pas
 le	le
 don	don
 dessauore	dessavore
-	u
 que	que
 on	on
 reqiuert	reqivert
@@ -143,10 +143,10 @@ gent	gent
 e	e
 la	la
 bele	bele
-l	l
-eschauie	eschavie
+les	les
+chauie	chavie
 au	au
-uis	vis
+uis	uis
 riant	riant
 fres	fres
 et	et
@@ -173,7 +173,6 @@ le	le
 m	m
 a	a
 eschuie	eschuie
-	u
 et	et
 tout	tout
 ades	ades
@@ -197,7 +196,6 @@ sera	sera
 la	la
 mercis	mercis
 desseruie	desservie
-	u
 pour	pour
 qui	qui
 i	i
@@ -248,7 +246,7 @@ auez	avez
 si	si
 malmene	malmene
 quar	quar
-recouurez	recouvrez
+recouurez	reçouvrez
 a	a
 faire	faire
 courtoisie	courtoisie
@@ -282,7 +280,7 @@ mi	mi
 faites	faites
 de	de
 uostre	vostre
-greie	gresie
+greie	greie
 le	le
 prendrai	prendrai
 de	de
@@ -305,7 +303,7 @@ me	me
 chastie	chastie
 quar	quar
 prisme	prisme
-uoi	voi
-soupris	soupris
+uois	vois
+oupris	oupris
 et	et
 arreste	arreste

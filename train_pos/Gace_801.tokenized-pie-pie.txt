@@ -260,13 +260,12 @@ DETpos
 ADJqua
 NOMcom
 CONcoo
-PROind
+VERcjg
 PROper
 ADVgen
 VERcjg
 PROper
 VERinf
-CONcoo
 ADVgen
 PROper
 VERcjg
@@ -328,7 +327,6 @@ VERcjg
 NOMcom
 CONcoo
 NOMcom
-CONcoo
 CONcoo
 DETind
 NOMcom

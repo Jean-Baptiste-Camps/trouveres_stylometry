@@ -14,7 +14,6 @@ sanz	sanz
 plus	plus
 de	de
 rimoier	rimoier
-	u
 por	por
 faire	faire
 solaz	solaz
@@ -75,7 +74,6 @@ deuroit	devroit
 trestorñ	trestorner
 en	en
 fuiant	fuiant
-	u
 garantir	garantir
 si	si
 pooit	pooit
@@ -89,7 +87,6 @@ plus	plus
 a	a
 moi	moi
 lancier	lancier
-	u
 mainz	mainz
 li	li
 fui	fui
@@ -112,7 +109,7 @@ seuz	seuz
 en	en
 un	un
 uergier	vergier
-Ie	Je
+Ie	Ie
 sai	sai
 de	de
 uoir	voir
@@ -121,8 +118,7 @@ ma	ma
 dame	dame
 aiment	aiment
 cent	cent
-pl᷒	plus
-assez	assez
+pl᷒assez	plusassez
 c	c
 est	est
 por	por
@@ -139,7 +135,7 @@ duremẽt	durement
 si	si
 me	me
 doint	doint
-dex	dex
+dex	Dex
 son	son
 biau	biau
 cors	cors
@@ -152,7 +148,6 @@ que	que
 plus	plus
 auroie	auroie
 chier	chier
-	u
 se	se
 i	i
 en	en
@@ -167,7 +162,6 @@ deuroit	devroit
 trainer	trainer
 tot	tot
 auant	avant
-	u
 puis	puis
 pandre	pandre
 plus	plus
@@ -185,7 +179,8 @@ uos	vos
 aim	aim
 tant	tant
 ele	ele
-diraie	diraie
+dirai	dirai
+e	e
 la	la
 uueil	vueil
 engignier	engignier
@@ -233,7 +228,7 @@ ou	ou
 atendre	atendre
 ou	ou
 laissier	laissier
-Ie	Ie
+Ie	Je
 ne	ne
 di	di
 pas	pas

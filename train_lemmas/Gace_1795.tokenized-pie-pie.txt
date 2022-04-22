@@ -80,7 +80,6 @@ voloir
 son4
 joie
 atendre
-un
 sachier2
 por2
 voir
@@ -166,7 +165,7 @@ grant
 joie
 avancier
 plus
-que4
+que1
 vertu
 qui
 en1
@@ -183,13 +182,12 @@ son4
 valor
 je
 vendre
-o3
 perdre
 je
 estre1
 ne1
 savoir
-que4
+que1
 a3
 je
 je
@@ -214,7 +212,7 @@ dire
 cant1
 plus
 i2
-pens
+pan1
 plus
 je
 estovoir1
@@ -233,7 +231,8 @@ legier2
 veintre
 peine
 et
-aire2
+ire
+se
 bel1
 semblant
 estre1
@@ -255,7 +254,6 @@ cuer2
 qui
 tel
 il
-avoir
 desirrer
 certes
 mais1
@@ -264,8 +262,6 @@ qui
 por2
 amor
 empire
-où
-ne1
 avoir
 en1
 il

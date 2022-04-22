@@ -116,7 +116,6 @@ tant	tant
 n	n
 auront	auront
 deuise	devise
-	u
 que	que
 on	on
 doiue	doive
@@ -177,14 +176,12 @@ si	si
 freschement	freschement
 ꝯfui	confui
 au	au
-ꝯ	com
+ꝯ	con
 mencier	mencier
 encore	encore
 mait	mait
 guerredons	guerredons
-demoure	demouree
-ie	je
-me	me
+demoureieme	demoureieme
 soulaz	soulaz
 en	en
 ce	ce

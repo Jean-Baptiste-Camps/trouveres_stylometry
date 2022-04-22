@@ -55,7 +55,8 @@ ne	ne
 se	se
 set	set
 aidier	aidier
-Hablanche	Harblanche
+Ha	Ha
+blanche	blanche
 clere	clere
 et	et
 uermeille	vermeille
@@ -95,7 +96,6 @@ ne	ne
 mi	mi
 uuelent	vuelent
 conseillier	conseillier
-	u
 mar	mar
 uous	vous
 ui	vi
@@ -132,9 +132,9 @@ me	me
 me	me
 uaut	vaut
 quar	quar
-ie	je
-sourquier	sourquier
-sun	sun
+iesourquier	Jesourquier
+s	s
+un	un
 petit	petit
 de	de
 felonie	felonie
@@ -146,7 +146,6 @@ uous	vous
 fait	fait
 pitie	pitie
 desuoier	desvoier
-	u
 mar	mar
 uous	vous
 oi	oi
@@ -197,7 +196,6 @@ bien	bien
 condiure	condivre
 et	et
 haucier	haucier
-	u
 mon	mon
 outrageus	outrageus
 desirrier	desirrier
@@ -245,7 +243,6 @@ mon	mon
 biau	biau
 tort	tort
 chanleissier	chanleissier
-	u
 ne	ne
 mon	mon
 outrage	outrage

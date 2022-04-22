@@ -15,7 +15,8 @@ qu	qu
 an	an
 uos	vos
 morrez	morrez
-iemes	Wiemes
+ie	je
+mes	mes
 c	c
 iert	iert
 auant	avant
@@ -34,10 +35,9 @@ esbahie	esbahie
 que	que
 tant	tant
 auez	avez
-s	s
-en	en
+sen	sen
 biaute	biaute
-ie	Wie
+ie	je
 aim	aim
 tant	tant
 que	que
@@ -63,7 +63,7 @@ nule	nule
 mort	mort
 perie	perie
 ne	ne
-ie	je
+ie	ie
 ne	ne
 sai	sai
 se	se
@@ -92,8 +92,8 @@ qu	qu
 amors	amors
 damage	damage
 i	i
-aura	aura
-gnͣt	grant
+au	au
+ragnͣt	ragnant
 mes	mes
 toz	toz
 iors	jors
@@ -119,13 +119,12 @@ amee	amee
 de	de
 la	la
 ioie	joie
-men	men
+m	m
+en	en
 aim	aim
 mielz	mielz
-	u
 tien	tien
 chier	chier
-	u
 por	por
 ce	ce
 ai	ai
@@ -198,7 +197,7 @@ couuenoit	couvenoit
 iugiere	jugiere
 le	le
 seroit	seroit
-seruie	serviee
+seruie	servie
 honoree	honoree
 Damedex	Damedex
 doint	doint
@@ -207,7 +206,6 @@ uos	vos
 iugiez	jugiez
 a	a
 droit	droit
-	u
 counoissiez	counoissiez
 les	les
 max	max
@@ -225,7 +223,7 @@ iugemens	jugemens
 en	en
 soit	soit
 se	se
-ie	je
+ie	ie
 i	i
 muir	muir
 amors	amors

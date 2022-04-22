@@ -14,8 +14,8 @@ face	face
 feste	feste
 ne	ne
 ioie	joie
-	u
-porce	porce
+por	por
+ce	ce
 ai	ai
 ge	ge
 demore	demore
@@ -34,7 +34,6 @@ n	n
 aurai	aurai
 eu	eu
 ꝯmandement	conmandement
-	u
 por	por
 ice	ice
 saige	saige
@@ -72,7 +71,6 @@ por	por
 dis	dis
 se	se
 chastoie	chastoie
-	u
 la	la
 costume	costume
 est	est
@@ -84,7 +82,6 @@ plus	plus
 pense	pense
 a	a
 li	li
-	u
 il	il
 plus	plus
 se	se
@@ -95,16 +92,13 @@ amor	amor
 a	a
 tot	tot
 cuer	cuer
-	u
 talent	talent
 il	il
 doit	doit
 soffrir	soffrir
 bien	bien
-	u
 mal	mal
 merciant	merciant
-	u
 qui	qui
 einsi	einsi
 ne	ne
@@ -137,12 +131,10 @@ s	s
 en	en
 poist	poist
 retraire	retraire
-	u
 cil	cil
 est	est
 fox	fox
-	u
-fel	felu
+fel	fel
 plains	plains
 d	d
 anui	anui
@@ -152,7 +144,7 @@ uelt	velt
 mener	mener
 son	son
 afaire	afaire
-hai	haie
+hai	hai
 sauiez	saviez
 este	este
 la	la
@@ -186,7 +178,6 @@ plus	plus
 mẽ	men
 chauce	chauce
 amors	amors
-	u
 mains	mains
 li	li
 fui	fui
@@ -202,7 +193,7 @@ que	que
 qui	qui
 aime	aime
 ains	ains
-dex	dex
+dex	Dex
 ne	ne
 fist	fist
 celui	celui
@@ -276,7 +267,7 @@ d	d
 orguellex	orguellex
 cuer	cuer
 bone	bone
-chancon	chançon
+chancon	chancon
 chantee	chantee
 mes	mes
 par	par
@@ -307,9 +298,8 @@ le	le
 sien	sien
 bñ	bien
 fere	fere
-	u
 auancier	avancier
-Chancon	Chancon
+Chancon	Chançon
 di	di
 li	li
 que	que
@@ -325,8 +315,7 @@ auoit	avoit
 cent	cent
 foiz	foiz
 ma	ma
-mort	mort
-iuree	juree
+mortiuree	mortivree
 si	si
 m	m
 estuet	estuet

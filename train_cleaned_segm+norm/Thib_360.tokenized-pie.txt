@@ -105,7 +105,7 @@ si	si
 grant	grant
 uers	vers
 ponpee	ponpee
-iulius	iulius
+iulius	Julius
 que	que
 ma	ma
 dame	dame
@@ -121,11 +121,11 @@ desirranz	desirranz
 deuant	devant
 li	li
 est	est
-toziorz	tozjorz
+toz	toz
+iorz	jorz
 mes	mes
 esperiz	esperiz
-nuit	nnuit
-	u
+nuit	nuit
 ior	jor
 li	li
 crie	crie
@@ -145,7 +145,6 @@ trairai	trairai
 dieu	dieu
 a	a
 garant	garant
-	u
 toz	toz
 les	les
 sainz	sainz
@@ -177,7 +176,7 @@ tolez	tolez
 uos	vos
 debonaires	debonaires
 diz	diz
-me	sme
+me	me
 chaciez	chaciez
 com	com
 beste	beste
@@ -228,7 +227,7 @@ N	n
 est	est
 merueille	merveille
 se	se
-ie	je
+ie	ie
 sui	sui
 esbahiz	esbahiz
 que	que
@@ -261,9 +260,9 @@ uos	vos
 en	en
 iur	jur
 les	les
-grez	grez
+grez	grez
 les	les
-mercız	mercız
+mercız	merçz
 que	que
 ıe	ıe
 atent	atent
@@ -283,11 +282,10 @@ bastız	bastız
 chancon	chancon
 ua	va
 tost	tost
-	u
 nõ	non
 pas	pas
 a	a
-enuiz	envize
+enuiz	enviz
 salue	salue
 nostre	nostre
 gent	gent

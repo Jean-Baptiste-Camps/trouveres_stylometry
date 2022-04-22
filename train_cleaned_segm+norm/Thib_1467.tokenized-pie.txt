@@ -44,7 +44,6 @@ acheter	acheter
 les	les
 biens	biens
 Bele	Bele
-	u
 bonne	bonne
 a	a
 uos	vos
@@ -130,8 +129,8 @@ ades	ades
 m	m
 estuet	estuet
 que	que
-l	l
-auoie	avoiee
+la	la
+uoie	voie
 que	que
 sa	sa
 fresche	fresche
@@ -194,7 +193,6 @@ ua	va
 t	t
 en	en
 tost	tost
-	u
 dia	dia
 blazon	blazon
 a	a

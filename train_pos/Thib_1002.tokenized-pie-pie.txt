@@ -70,8 +70,7 @@ NOMcom
 NOMcom
 VERinf
 PRE
-VERppa
-CONcoo
+NOMcom
 PRE
 VERppa
 VERcjg
@@ -103,7 +102,7 @@ PRE
 NOMcom
 DETind
 VERcjg
-DETind
+DETpos
 NOMcom
 PRE
 PROdem
@@ -125,10 +124,10 @@ NOMcom
 VERcjg
 NOMcom
 ADVgen
-VERcjg
-VERcjg
-PROper
+NOMcom
 VERppe
+PROper
+VERcjg
 VERppe
 ADVgen
 CONcoo
@@ -191,4 +190,4 @@ PROper
 VERcjg
 VERinf
 PRE.DETdef
-NOMcom
+VERinf

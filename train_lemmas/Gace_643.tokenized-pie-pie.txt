@@ -168,8 +168,7 @@ je
 faire
 sovent
 sospirer
-o3
-que2
+que4
 enui
 faire
 envie
@@ -206,7 +205,6 @@ puis
 ne1
 savoir
 assener
-où
 là
 où
 il

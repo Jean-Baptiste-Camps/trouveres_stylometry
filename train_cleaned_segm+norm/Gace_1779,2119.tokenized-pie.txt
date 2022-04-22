@@ -38,7 +38,6 @@ que	que
 ne	ne
 puis	puis
 oublier	oublier
-	u
 la	la
 douce	douce
 riens	riens
@@ -47,7 +46,6 @@ dex	dex
 ioie	joie
 me	me
 doigne	doigne
-	u
 quar	quar
 de	de
 li	li
@@ -92,8 +90,7 @@ puisse	puisse
 trop	trop
 amer	amer
 ne	ne
-qu	qu
-ele	ele
+quele	quele
 ia	ja
 de	de
 mõ	mon
@@ -154,7 +151,6 @@ que	que
 li	li
 merirs	merirs
 remaigne	remaigne
-	u
 qu	qu
 auoir	avoir
 ioie	joie
@@ -193,8 +189,7 @@ les	les
 biens	biens
 grant	grant
 debonaire	debonaire
-tene	tene
-ia	ja
+teneia	teneia
 sanz	sanz
 uous	vous
 granz	granz

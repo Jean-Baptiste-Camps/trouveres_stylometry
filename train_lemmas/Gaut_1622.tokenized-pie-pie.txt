@@ -29,12 +29,12 @@ je
 semondre
 que4
 je
-chanter
+chant2
 amor
 qui
 mesprendre
 et
-atinel
+atiner
 et
 je
 faire
@@ -45,7 +45,6 @@ envoisier
 en1
 itel
 guise
-o3
 que4
 de+le
 cuer2
@@ -76,7 +75,6 @@ ne1
 estre1
 mie
 avenir
-o3
 ce1
 que4
 il
@@ -85,7 +83,6 @@ ocire
 mon1
 ueil
 vëoir
-un
 je
 faire
 que4
@@ -132,7 +129,7 @@ ne2
 de
 autre
 ne2
-le
+il
 aler
 querre
 et
@@ -166,12 +163,10 @@ je
 reconforter
 et
 prisier
-o3
 que4
 se
 je
-muire1
-ce1
-estre1
+morir
+cest
 por2
 vaillant

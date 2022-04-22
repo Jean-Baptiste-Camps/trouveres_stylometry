@@ -14,14 +14,12 @@ estre1
 douz
 ci
 poindre
-o3
 delit2
 apenser
 tant
 savoir
 bel1
 conforter
-o3
 de
 grant
 bien2
@@ -36,7 +34,7 @@ devoir
 oster2
 fin2
 amant
-voloir
+vue4
 a3
 mon1
 dame
@@ -70,8 +68,7 @@ recorder
 amor
 cant1
 vos
-je
-avoir
+mauve
 metre2
 lié1
 en1
@@ -82,7 +79,7 @@ amer1
 estre1
 ocire
 que4
-juese
+uis
 räençon
 tel
 mal1
@@ -119,10 +116,8 @@ avoir
 vostre
 amor
 sosprendre
-o3
-vostre
 plaire
-façon
+faire
 biauté
 a3
 tel
@@ -131,7 +126,8 @@ qui
 resplendre
 en1
 vostre
-vistoier
+vis1
+de+le
 le
 pié
 jusque

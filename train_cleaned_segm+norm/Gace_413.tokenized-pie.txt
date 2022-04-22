@@ -37,8 +37,9 @@ plente	plente
 que	que
 merueille	merveille
 est	est
-seieriẽz	seierienz
-heneis	henneis
+se	se
+ieriẽz	ierienz
+heneis	heneis
 cele	cele
 anuieuse	anuieuse
 gent	gent
@@ -48,7 +49,7 @@ ai	ai
 de	de
 fin	fin
 cuer	cuer
-ameneia	ameneja
+ameneia	ameneia
 n	n
 amerai	amerai
 autrement	autrement
@@ -82,16 +83,14 @@ de	de
 li	li
 sunt	sunt
 tout	tout
-m	m
-i	i
+mi	mi
 pense	pense
 mout	mout
 me	me
 plaist	plaist
 ce	ce
 que	que
-me	me
-ꝯsent	consent
+meꝯsent	meconsent
 Se	Se
 i	i
 ai	ai
@@ -120,8 +119,10 @@ se	se
 li	li
 merirs	merirs
 ma	ma
-demorece	demorece
-men	men
+demore	demore
+ce	ce
+m	m
+en	en
 a	a
 mout	mout
 reconforte	reconforte
@@ -132,7 +133,7 @@ d	d
 eure	eure
 a	a
 on	on
-recourece	recouresce
+recourece	recovrece
 ꝯ	com
 desirre	desirre
 longement	longement
@@ -153,7 +154,6 @@ est	est
 en	en
 sa	sa
 poeste	poeste
-	un
 merci	merci
 doit	doit
 crier	crier
@@ -191,7 +191,6 @@ me	me
 uaudroient	vaudroient
 il	il
 noient	noient
-	u
 la	la
 dont	dont
 il	il
@@ -205,8 +204,7 @@ nuire	nuire
 aior	ajor
 escient	escient
 por	por
-caient	caient
-il	il
+caientil	caientil
 renoie	renoie
 de	de
 tant	tant
@@ -214,8 +212,7 @@ ont	ont
 mõ	mon
 anui	anui
 pour	pour
-par	par
-le	le
+parle	parle
 qu	qu
 a	a
 painnes	painnes
@@ -247,7 +244,7 @@ m	m
 a	a
 bon	bon
 ꝯseill	conseill
-done	donee
+done	done
 ce	ce
 perrai	perrai
 ie	je

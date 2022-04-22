@@ -15,7 +15,6 @@ sai	sai
 penser	penser
 ne	ne
 regehir	regehir
-	u
 mon	mon
 corage	corage
 et	et
@@ -23,8 +22,7 @@ mon	mon
 penser	penser
 dont	dont
 trop	trop
-m	m
-air	air
+mair	mair
 de	de
 mon	mon
 cuer	cuer
@@ -59,7 +57,6 @@ puis	puis
 plourer	plourer
 et	et
 dementer	dementer
-	u
 tart	tart
 uendrai	vendrai
 maiz	maiz
@@ -87,9 +84,10 @@ doucement	doucement
 si	si
 l	l
 a	a
-amaior	amajor
-mam	mam
-s	s
+amai	amai
+or	or
+m	m
+ams	ams
 en	en
 dolont	dolont
 grant	grant
@@ -177,9 +175,7 @@ engignie	engignie
 et	et
 de	de
 confort	confort
-	u
-m	m
-a	a
+ma	ma
 pou	pou
 leissie	leissie
 or	or
@@ -193,11 +189,11 @@ chargie	chargie
 grant	grant
 fais	fais
 en	en
-portiai	portiai
+port	port
+iai	iai
 pourchacie	pourchacie
 et	et
 atirie	atirie
-	u
 qu	qu
 en	en
 souspirant	souspirant
@@ -244,8 +240,7 @@ est	est
 uis	vis
 que	que
 desseruie	desservie
-n	n
-en	en
+nen	nen
 ai	ai
 mie	mie
 ainz	ainz
@@ -276,7 +271,7 @@ pour	pour
 li	li
 mout	mout
 pẽsis	pensis
-Bien	Bien
+Bien	bien
 m	m
 a	a
 ma	ma
@@ -350,7 +345,8 @@ humilite	humilite
 i	i
 ai	ai
 trouueie	trouveie
-diuerte	diverte
+di	di
+uerte	verte
 se	se
 ie	je
 ne	ne

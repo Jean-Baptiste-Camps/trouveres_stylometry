@@ -6,7 +6,7 @@ je
 venir
 de
 amor
-mais1
+mon1
 tu
 cuer2
 entree
@@ -16,12 +16,11 @@ jor
 sans
 retor1
 tant
-laissier
+là
 desirrer
 le
 douz
 dolor
-o3
 que4
 rien
 qui
@@ -34,7 +33,7 @@ savoir
 douz
 dame
 ainc
-ne2
+ne1
 vos
 dire
 nul
@@ -78,7 +77,6 @@ avoir
 faire
 de
 onor
-o3
 que4
 le
 meillor
@@ -90,7 +88,7 @@ qui
 vëoir
 son4
 crine1
-bloiier
+bloi
 que4
 sembler
 que4
@@ -127,7 +125,7 @@ il
 valoir
 Hector
 de
-si
+se
 bel1
 dame
 amer1
@@ -148,7 +146,6 @@ je
 devoir
 bien1
 aprendre
-o3
 coment1
 pöoir
 achever
@@ -171,7 +168,7 @@ grant
 orgueil
 faire
 nëis
-selen1
+si+il
 penser
 ainz
 sofrir
@@ -207,9 +204,9 @@ tel
 chose
 pöoir
 dire
-o3
 dont
-heaume
+en1+le
+je
 savoir
 mal1
 gré2
@@ -223,7 +220,8 @@ et
 valor
 et
 bonté
-enväir
+tu
+envoiier
 de+le
 cors1
 sans
@@ -235,7 +233,6 @@ por2
 le
 amor
 de
-un
 come1
 pöoir
 bien1
@@ -249,9 +246,8 @@ chanter
 fors1
 por2
 se
-un
 dont
-dieu
+Dieu
 je
 doner
 estre1

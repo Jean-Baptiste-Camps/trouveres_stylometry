@@ -4,7 +4,6 @@ je
 ne1
 soloir
 faire
-o3
 mon1
 chant2
 de+le
@@ -17,9 +16,7 @@ estre1
 un
 jor
 las
-o3
-de
-amer1
+dame
 cel
 avoir
 mon1
@@ -31,7 +28,6 @@ tenir1
 en1
 son4
 las
-o3
 de
 il
 ne1
@@ -57,7 +53,6 @@ ce1
 estre1
 mauvais
 eschec1
-o3
 maint
 en2
 avoir
@@ -70,7 +65,6 @@ et
 si
 bel1
 braz
-un
 je
 faire
 en1
@@ -79,20 +73,20 @@ amor
 manoir1
 son4
 simple
-viser
+vif
 regart
-metre2
-avoir
-si
+je
+savoir
+se
 decevoir
 que4
 en1
 remermer
 son4
-solement
+solaz
 avoir
 metre2
-valoir
+trestot
 mon1
 pöoir
 ne1
@@ -105,9 +99,8 @@ i2
 avoir
 choisir
 haut
-en1+le
-bas
 où
+bas
 je
 ne1
 je
@@ -121,7 +114,6 @@ en2
 estre1
 clamer
 las
-où
 maint
 joie
 en2
@@ -132,7 +124,7 @@ amor
 tenir1
 il
 ja
-ne1
+ne2
 en2
 estre1
 repentir
@@ -167,9 +159,8 @@ de
 ce1
 dont
 iraistre
-un
 devoir
-estre1
+ez
 tref2
 estre1
 joiant
@@ -180,7 +171,6 @@ plus
 estre1
 que4
 metre2
-un
 avoir
 très
 haut
@@ -196,7 +186,7 @@ et
 bel1
 et
 avenant
-ineti
+inetil
 et
 de
 deus
@@ -225,7 +215,7 @@ jor
 estre1
 je
 pendre
-ja
+a3
 tant
 ne1
 en2
@@ -237,7 +227,6 @@ estre1
 de+le
 travail
 mu1
-un
 plustre
 le
 guerredon
@@ -254,9 +243,8 @@ tant
 estre1
 bel1
 a3
-le
+il
 löer1
-un
 ne1
 devoir
 nul
@@ -264,7 +252,7 @@ ome
 mentir
 por2
 ce1
-ne1
+ne2
 en2
 faire
 a3
@@ -297,7 +285,6 @@ laim
 por2
 il
 endurer
-o3
 que4
 un
 grant

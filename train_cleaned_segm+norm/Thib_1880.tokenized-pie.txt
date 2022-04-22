@@ -18,9 +18,7 @@ ne	ne
 faıt	faıt
 tant	tant
 cuer	cuer
-l	l
-on	on
-	u
+lon	lon
 ꝯ	com
 granz	granz
 pooırs	pooırs
@@ -100,7 +98,6 @@ felon	felon
 car	car
 is	is
 a	a
-	u
 mıeuz	mıeuz
 doıt	doıt
 amours	amours
@@ -148,7 +145,7 @@ de	de
 paınne	paınne
 et	et
 d	d
-amiiquıl	amiisquıl
+amiiquıl	amiiquıl
 conuıent	conuıent
 dıre	dıre
 a	a
@@ -202,7 +199,6 @@ uait	vait
 ferır	ferır
 el	el
 glui	glui
-	u
 quant	quant
 ıl	ıl
 ne	ne
@@ -265,7 +261,7 @@ courrouce	courrouce
 et	et
 laıdenge	laıdenge
 et	et
-maudı	maudıe
+maudı	maudı
 quar	quar
 ıe	ıe
 saı	saı
@@ -291,7 +287,6 @@ sunt	sunt
 par	par
 uous	vous
 merı	merı
-	u
 mout	mout
 uıuraı	uıuraı
 mal	mal

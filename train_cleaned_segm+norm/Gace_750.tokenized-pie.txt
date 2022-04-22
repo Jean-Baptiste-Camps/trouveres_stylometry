@@ -24,7 +24,6 @@ qu	qu
 il	il
 se	se
 repente	repente
-	u
 de	de
 ma	ma
 dame	dame
@@ -51,7 +50,7 @@ et	et
 en	en
 lontain	lontain
 desir	desir
-uoi	nuoi
+uoi	voi
 qu	qu
 amours	amours
 fait	fait
@@ -102,7 +101,7 @@ mort	mort
 li	li
 agree	agree
 car	car
-ie	je
+ie	ie
 l	l
 aim	aim
 pluz	pluz
@@ -121,7 +120,6 @@ certes	certes
 bien	bien
 uueill	vueill
 morir	morir
-	u
 quãt	quant
 par	par
 ma	ma

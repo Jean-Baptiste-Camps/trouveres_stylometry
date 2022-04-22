@@ -45,12 +45,12 @@ qui	qui
 sui	sui
 toz	toz
 siens	siens
-	un
 sui	sui
 a	a
 sa	sa
 de	de
-iuse	juse
+ius	jus
+e	e
 pitiez	pitiez
 de	de
 cuer	cuer
@@ -88,8 +88,7 @@ ie	je
 choisi	choisi
 uostre	vostre
 gente	gente
-facon	façon
-qnͣt	quant
+faconqnͣt	faconqant
 ie	je
 ui	vi
 uostre	vostre
@@ -108,8 +107,8 @@ de	de
 uos	vos
 amer	amer
 me	me
-semont	semont
-iustise	justise
+semont	semont
+iustise	Justise
 a	a
 uos	vos
 est	est
@@ -150,7 +149,7 @@ Mout	mout
 a	a
 amors	amors
 force	force
-gnͣt	ngrant
+gnͣt	grant
 pooir	pooir
 qui	qui
 sanz	sanz
@@ -215,7 +214,6 @@ ma	ma
 li	li
 douz	douz
 ris	ris
-	u
 li	li
 belo	belo
 Douce	Douce
@@ -251,7 +249,7 @@ est	est
 tornee	tornee
 a	a
 pensee	pensee
-he	hee
+he	He
 cors	cors
 sanz	sanz
 cuer	cuer
@@ -266,9 +264,8 @@ ma	ma
 naure	navre
 sanz	sanz
 deffiance	deffiance
-	u
 ne	ne
-porqnͣt	porquant
+porqnͣt	porqant
 ie	je
 ne	ne
 la	la
@@ -281,7 +278,6 @@ bien	bien
 bele	bele
 dame	dame
 amer	amer
-	u
 s	s
 amor	amor
 garder	garder
@@ -297,10 +293,8 @@ foloiant	foloiant
 q̃	que
 ie	je
 en	en
-aim	aim
-mes	mes
+aimmes	aimmes
 max	max
-	u
 mes	mes
 doors	doors
 .	.
@@ -366,7 +360,7 @@ einsi	einsi
 Lagnͣt	Lagnant
 biaute	biaute
 qui	qui
-mespnͣt	mespnat
+mespnͣt	mespant
 magree	magree
 qui	qui
 sor	sor

@@ -24,7 +24,6 @@ de	de
 li	li
 se	se
 desfent	desfent
-	u
 qu	qu
 il	il
 ne	ne
@@ -56,7 +55,6 @@ li	li
 bien	bien
 a	a
 deuise	devise
-	u
 ne	ne
 ia	ja
 sanz	sanz
@@ -119,10 +117,9 @@ sai	sai
 en	en
 quel	quel
 guise	guise
-uiegne	vuiegne
+uiegne	viegne
 si	si
 haut	haut
-	u
 de	de
 si	si
 bas	bas
@@ -150,7 +147,6 @@ doint	doint
 ioir	joir
 issi	issi
 ueraiement	veraiement
-	u
 ꝯ	com
 ie	ie
 n	n
@@ -161,7 +157,6 @@ nul	nul
 talent	talent
 de	de
 faindre	faindre
-	u
 uers	vers
 ma	ma
 dame	dame
@@ -179,7 +174,6 @@ de	de
 douce	douce
 mort	mort
 souprendre	souprendre
-	u
 qu	qu
 ele	ele
 de	de
@@ -189,7 +183,6 @@ ia	ja
 nul	nul
 iour	jour
 requise	requise
-	u
 maiz	maiz
 el	el
 set	set
@@ -208,7 +201,7 @@ ce	ce
 que	que
 ie	je
 sent	sent
-nis	Gnis
+nis	nis
 li	li
 felon	felon
 deuroient	devroient
@@ -222,7 +215,8 @@ uif	vif
 si	si
 ꝯ	com
 amours	amours
-consentet	consentet
+consent	consent
+et	et
 ne	ne
 me	me
 puet	puet
@@ -238,7 +232,8 @@ c	c
 onques	onques
 o	o
 sai	sai
-emprendre	emprendre
+em	em
+prendre	prendre
 si	si
 haute	haute
 amour	amour
@@ -248,7 +243,6 @@ moi	moi
 ne	ne
 doit	doit
 descendre	descendre
-	u
 li	li
 guerredons	guerredons
 ne	ne
@@ -256,16 +250,17 @@ ia	ja
 n	n
 en	en
 iert	iert
-seurqui	seurqui
+seurqui	seürqui
 se	se
-celeu	eceleu
+ce	ce
+leu	leu
 touz	touz
 biens	biens
 et	et
 biautez	biautez
 est	est
 assise	assise
-Ie	Ie
+Ie	Je
 n	n
 ai	ai
 mestier	mestier
@@ -289,7 +284,6 @@ set	set
 bien	bien
 et	et
 entent	entent
-	u
 que	que
 grant	grant
 amour	amour
@@ -308,7 +302,6 @@ fin	fin
 cuer	cuer
 a	a
 descendre	descendre
-	u
 il	il
 n	n
 a	a
@@ -327,7 +320,6 @@ dedenz	dedenz
 mon	mon
 cuer	cuer
 reprise	reprise
-	u
 la	la
 merci	merci
 dieu	dieu
@@ -345,7 +337,6 @@ ualeur	valeur
 s	s
 est	est
 mise	mise
-	u
 quar	quar
 l	l
 eissie	eissie

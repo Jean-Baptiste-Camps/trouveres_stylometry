@@ -35,7 +35,7 @@ et	et
 nuit	nuit
 et	et
 iour	jour
-he	hee
+he	he
 las	las
 chaitis	chaitis
 einsinc	einsinc
@@ -54,7 +54,7 @@ ioie	joie
 en	en
 ma	ma
 uie	vie
-Se	se
+Se	Se
 ie	je
 uif	vif
 en	en
@@ -85,13 +85,12 @@ largece	largece
 pris	pris
 et	et
 hounour	hounour
-	un
 nous	nous
 ont	ont
 einsi	einsi
 du	du
 tout	tout
-apeticie	apeticie
+apeticie	apeticie
 et	et
 ont	ont
 tant	tant
@@ -180,7 +179,6 @@ ne	ne
 mi	mi
 ueut	veüt
 mie	mie
-	u
 einsi	einsi
 puis	puis
 ie	je
@@ -228,7 +226,6 @@ qui	qui
 tant	tant
 me	me
 contralie	contralie
-	u
 maiz	maiz
 ne	ne
 li	li
@@ -270,7 +267,7 @@ tristor	tristor
 marz	marz
 toutes	toutes
 uoies	voies
-aour	aouru
+aour	aour
 droit	droit
 cele	cele
 part	part
@@ -279,7 +276,6 @@ ie	je
 sai	sai
 m	m
 anemie	anemie
-	u
 si	si
 coiement	coiement
 quel	quel
@@ -307,7 +303,6 @@ deffie	deffie
 ne	ne
 nule	nule
 autre	autre
-	un
 ne	ne
 me	me
 puet	puet

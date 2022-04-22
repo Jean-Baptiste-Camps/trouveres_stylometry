@@ -80,13 +80,13 @@ nonporquant	nonporquant
 bien	bien
 doi	doi
 trouer	trover
-	u
 folie	folie
 quant	quant
 ie	ie
 la	la
 quier	quier
-halas	haulas
+ha	ha
+las	las
 folours	folours
 n	n
 est	est
@@ -131,7 +131,6 @@ ui	vi
 hore	hore
 de	de
 iour	jour
-	u
 que	que
 ne	ne
 me	me
@@ -190,7 +189,6 @@ biautez	biautez
 et	et
 cortoisie	cortoisie
 Ha	Ha
-	u
 las	las
 ie	ie
 uois	vois
@@ -206,7 +204,6 @@ n	n
 aloit	aloit
 el	el
 querant	querant
-	u
 maiz	maiz
 que	que
 me	me
@@ -218,7 +215,7 @@ ne	ne
 uoi	voi
 nul	nul
 samblant	samblant
-ꝯment	conment
+ꝯment	comment
 ie	je
 m	m
 en	en

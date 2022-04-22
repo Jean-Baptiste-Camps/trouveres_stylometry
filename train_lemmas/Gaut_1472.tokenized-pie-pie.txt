@@ -69,7 +69,6 @@ i2
 avoir
 tel
 desirrier2
-où
 nenil
 car
 je
@@ -122,6 +121,7 @@ cuer2
 où
 il
 ne1
+avoir
 que4
 en2
 meillor
@@ -132,7 +132,7 @@ avoir
 faire
 de
 mal1
-a3
+avoir
 escïent
 plus
 que4
@@ -144,7 +144,6 @@ endurer
 ne1
 estre1
 merveille
-son4
 amor
 je
 faire
@@ -159,7 +158,6 @@ ne1
 avoir
 si
 poissant
-o3
 qui
 contre
 il

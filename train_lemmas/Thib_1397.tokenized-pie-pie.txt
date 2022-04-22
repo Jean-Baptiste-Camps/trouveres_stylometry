@@ -59,8 +59,8 @@ en2
 estre1
 le
 sospir
-o3
-cest
+ce1
+estre1
 tozjors
 ne2
 je
@@ -80,7 +80,7 @@ je
 ne1
 savoir
 se
-metre2
+mil1
 aler
 cel
 voie
@@ -113,7 +113,6 @@ tot
 plein
 de
 ire
-o3
 de
 dolor
 por2
@@ -142,7 +141,7 @@ mon1
 destinee
 mais1
 se
-dieu
+Dieu
 plaire
 encore
 vëoir
@@ -178,8 +177,7 @@ que4
 je
 mie
 fi2
-tu
-aler
+taire
 en1
 vostre
 valor
@@ -196,10 +194,8 @@ trover
 ne2
 porcant
 je
-morir
-o3
+muire1
 nuit
-où
 jor
 or4
 vos
@@ -261,10 +257,8 @@ ne1
 je
 soloir
 pas
-de+le
-le
-oir
-ne1
+doloir
+ne2
 mesfrëer
 si
 vos
@@ -289,8 +283,7 @@ pöoir
 que4
 tu
 estre1
-soz
-vent
+sovent
 par
 il
 chanter

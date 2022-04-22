@@ -45,8 +45,7 @@ tant
 ardre
 cant1
 le
-remetre
-un
+remire
 mais1
 bien1
 croire
@@ -85,7 +84,7 @@ il
 mestir
 baut
 sans
-Girbert
+Girler
 et
 sans
 mentir
@@ -100,7 +99,6 @@ qui
 tant
 pöoir
 fuir
-o3
 metre2
 ne1
 estre1
@@ -108,7 +106,7 @@ joiant
 a3
 Thiebaus
 le
-serf
+cerf
 estre1
 aventuros
 et
@@ -124,7 +122,7 @@ crinent
 deus
 plus
 bel1
-que2
+que1
 un
 sort3
 espanois
@@ -182,7 +180,7 @@ ne2
 lieu
 qui
 estre1
-famelois
+fameillos
 ne1
 estre1
 a3
@@ -195,12 +193,11 @@ ne1
 estre1
 de
 cel
-o3
 qui
 amer1
 desor
 lor2
-pois1
+pois2
 dame
 un
 rien
@@ -215,8 +212,7 @@ de
 ocire
 son4
 verai
-amer1
-ueil
+amentil
 voir
 bien1
 il
@@ -245,7 +241,6 @@ il
 vos
 dire
 öir
-o3
 mout
 en2
 estre1

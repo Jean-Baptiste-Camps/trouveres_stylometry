@@ -31,7 +31,7 @@ c	c
 onques	onques
 ueist	veist
 nue	nue
-hom	home
+hom	hom
 n	n
 estoit	estoit
 pas	pas
@@ -41,7 +41,6 @@ n	n
 eust	eüst
 quinze	quinze
 anz	anz
-	u
 demi	demi
 n	n
 onq̃s	onques
@@ -70,7 +69,6 @@ dieu	dieu
 uos	vos
 auez	avez
 nõ	non
-	u
 ele	ele
 saut	saut
 maintenant	maintenant
@@ -117,8 +115,7 @@ que	que
 ne	ne
 me	me
 daigne	daigne
-esgar	esgar
-der	der
+esgarder	esgarder
 ne	ne
 fere	fere
 autre	autre
@@ -129,7 +126,7 @@ a	a
 porpenser	porpenser
 ꝯ	com
 faite	faite
-mẽ	menu
+mẽ	men
 changier	changier
 son	son
 talent	talent
@@ -165,16 +162,14 @@ que	que
 me	me
 degnast	degnast
 esgarder	esgarder
-	u
 fere	fere
 autre	autre
 semblant	semblant
 e	e
 le	le
-ꝯmence	commence
+ꝯmence	conmence
 a	a
 plorer	plorer
-	u
 dit	dit
 itant	itant
 ie	je
@@ -214,7 +209,6 @@ la	la
 montai	montai
 de	de
 maintenant	maintenant
-	un
 trestot	trestot
 droit	droit
 m	m
@@ -236,7 +230,6 @@ parmiible	parmiible
 qui	qui
 uenoiant	venoiant
 hiuant	hivant
-	un
 leuerenti	leverenti
 grant	grant
 cri	cri
@@ -250,7 +243,8 @@ ie	ie
 la	la
 laissi	laissi
 m	m
-enfouin	enfovin
+en	en
+fouin	fovin
 oi	oi
 cure	cure
 de	de

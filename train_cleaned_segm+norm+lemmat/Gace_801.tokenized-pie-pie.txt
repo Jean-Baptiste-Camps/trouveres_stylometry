@@ -239,7 +239,7 @@ joie	joie	NOMcom	NOMB.=s|GENRE=f|CAS=r	joie
 et	et	CONcoo	MORPH=empty	et
 hounour	hontor	NOMcom	NOMB.=s|GENRE=f|CAS=r	hounour
 et	et	CONcoo	MORPH=empty	et
-viess	viez	ADJqua	NOMB.=s|GENRE=f|CAS=n|DEGRE=p	viess
+vies	vie1	ADJqua	NOMB.=s|GENRE=f|CAS=n|DEGRE=p	vies
 amours	amor	NOMcom	NOMB.=s|GENRE=f|CAS=n	amours
 veinquoit	veintre	VERcjg	MODE=ind|TEMPS=ipf|PERS.=3|NOMB.=s	veinquoit
 ma	mon1	DETpos	PERS.=1|NOMB.=s|GENRE=f|CAS=r	ma
@@ -261,13 +261,12 @@ sa	son4	DETpos	PERS.=3|NOMB.=s|GENRE=f|CAS=r	sa
 clere	cler	ADJqua	NOMB.=s|GENRE=f|CAS=r|DEGRE=p	clere
 facon	façon	NOMcom	NOMB.=s|GENRE=m|CAS=r	facon
 et	et	CONcoo	MORPH=empty	et
-quiant	caire	PROind	NOMB.=s	quiant
+quiant	caire	VERcjg	NOMB.=s	quiant
 ie	je	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=n	ie
 pluz	plus	ADVgen	DEGRE=-	pluz
 pensa	penser	VERcjg	MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s	pensa
-li	il	PROper	NOMB.=s|GENRE=m|CAS=i	li
+li	il	PROper	NOMB.=s|GENRE=m|CAS=n	li
 ramembrer	ramembrer	VERinf	NOMB.=s	ramembrer
-u	où	CONcoo	NOMB.=s	u
 si	si	ADVgen	DEGRE=-	si
 m	je	PROper	PERS.=1|NOMB.=s|GENRE=m|CAS=r	m
 esmerveill	esmerveillier	VERcjg	MODE=ind|PERS.=3|NOMB.=s	esmerveill
@@ -285,7 +284,7 @@ et	et	CONcoo	MORPH=empty	et
 desraison	desraisnier	NOMcom	NOMB.=s|GENRE=f|CAS=n	desraison
 qui	qui	PROrel	NOMB.=s|GENRE=f|CAS=n	qui
 porroit	pöoir	VERcjg	MODE=con|PERS.=3|NOMB.=s	porroit
-diex	Dieu	NOMpro	NOMB.=s|GENRE=m|CAS=n	diex
+diex	dieu	NOMpro	NOMB.=s|GENRE=m|CAS=n	diex
 a	a3	PRE	MORPH=empty	a
 cel	cel	DETdem	NOMB.=s|GENRE=m|CAS=r	cel
 cuer	cuer2	NOMcom	NOMB.=s|GENRE=m|CAS=r	cuer
@@ -329,11 +328,10 @@ vient	venir	VERcjg	MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s	vient
 soulaz	solaz	NOMcom	NOMB.=s|GENRE=m|CAS=n	soulaz
 et	et	CONcoo	MORPH=empty	et
 compaignie	compagnie	NOMcom	NOMB.=s|GENRE=f|CAS=n	compaignie
-u	o3	CONcoo	NOMB.=s	u
 et	et	CONcoo	MORPH=empty	et
 toute	tot	DETind	NOMB.=s|GENRE=f|CAS=r	toute
 rienz	rien	NOMcom	NOMB.=s|GENRE=f|CAS=r	rienz
 qui	qui	PROrel	NOMB.=s|GENRE=f|CAS=n	qui
-a	a3	PRE	MODE=ind|TEMPS=pst|NOMB.=s	a
+a	a3	PRE	MODE=ind|TEMPS=pst	a
 preudome	prodome	NOMcom	NOMB.=s|GENRE=m|CAS=r	preudome
 aie	avoir	VERcjg	MODE=sub|PERS.=3|NOMB.=s	aie

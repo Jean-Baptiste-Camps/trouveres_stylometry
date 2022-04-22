@@ -22,7 +22,6 @@ sivre
 ne1
 estre1
 mie
-o3
 car
 ire
 mon1
@@ -38,7 +37,6 @@ tot
 le
 monde1
 atorner
-o3
 en1
 tristece
 en1
@@ -62,7 +60,8 @@ et
 tot
 bien1
 adosser
-Habilon
+ha!
+bon
 amor
 cel
 qui
@@ -75,7 +74,9 @@ fol3
 estre1
 mout
 petit
-senëir
+sen2
+et
+ja
 movoir
 de
 vostre
@@ -94,7 +95,7 @@ por2
 ce1
 je
 tenir1
-avoir
+a3
 de+le
 en1
 lëauté
@@ -102,7 +103,7 @@ car
 por2
 Giler
 ne1
-en1
+en2
 querre
 avoir
 avoir
@@ -113,7 +114,6 @@ pas
 le
 don
 dessavoir
-o3
 que4
 on
 reverser
@@ -143,9 +143,9 @@ et
 le
 bel1
 le
-eschavie
+chavier
 a3+le
-vis1
+uis
 rire
 frois1
 et
@@ -172,14 +172,13 @@ il
 je
 avoir
 eschequir
-o3
 et
 tot
 adès
 par
 desafage
 garder
-Jocevois
+douz
 dame
 le
 vostre
@@ -196,7 +195,6 @@ estre1
 le
 merci
 deservir
-o3
 por2
 qui
 i2
@@ -225,7 +223,7 @@ estre1
 merveille
 se
 maint
-rover
+ruser
 esfrëer
 car
 longement2
@@ -252,7 +250,7 @@ a3
 faire
 cortoisie
 et
-desormer
+desor
 vos
 estre1
 tot
@@ -264,7 +262,7 @@ mout
 tost1
 le
 travail
-oblïer
+oblie
 se
 vos
 faire
@@ -281,7 +279,7 @@ je
 faire
 de
 vostre
-gresier
+gré2
 il
 prendre
 de
@@ -305,6 +303,6 @@ chastiier
 car
 prisme
 vëoir
-sorprendre
+oproiier
 et
 arester

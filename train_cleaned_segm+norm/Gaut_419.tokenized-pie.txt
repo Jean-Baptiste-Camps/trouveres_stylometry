@@ -51,7 +51,6 @@ m	m
 a	a
 dieus	dieus
 hounoure	hounoure
-	u
 qu	qu
 encor	encor
 n	n
@@ -77,8 +76,8 @@ encor	encor
 nen	nen
 aie	aie
 ie	ie
-grei	greai
-etent	etent
+greie	greie
+tent	tent
 au	au
 guerredon	guerredon
 qui	qui
@@ -87,7 +86,6 @@ de	de
 loiaute	loiaute
 par	par
 faussete	faussete
-	u
 ne	ne
 quier	quier
 nul	nul
@@ -103,7 +101,7 @@ du	du
 haut	haut
 don	don
 que	que
-i	j
+i	i
 ai	ai
 desirre	desirre
 diex	diex
@@ -120,7 +118,6 @@ ne	ne
 m	m
 ait	ait
 oublie	oublie
-	u
 mercis	mercis
 quar	quar
 trop	trop
@@ -130,11 +127,10 @@ lent	lent
 ce	ce
 ma	ma
 auques	auques
-deses	deses
+de	de
+ses	ses
 pere	pere
-	un
 querent	querent
-	un
 maint	maint
 grief	grief
 souspir	souspir
@@ -162,14 +158,13 @@ de	de
 coi	coi
 est	est
 conforte	conforte
-	u
 cil	cil
 n	n
 a	a
 nul	nul
 mal	mal
 maiz	maiz
-ie	je
+ie	ie
 qui	qui
 touz	touz
 iours	jours
@@ -196,7 +191,6 @@ porent	porent
 maiz	maiz
 quar	quar
 outreement	outreement
-	un
 est	est
 cele	cele
 bele	bele
@@ -208,7 +202,7 @@ quãt	quant
 lesguardai	lesguardai
 auoir	avoir
 quidai	quidai
-hasteement	ehasteement
+hasteement	hasteement
 trestout	trestout
 trouue	trouve
 quar	quar
@@ -266,7 +260,7 @@ maiz	maiz
 cest	cest
 passe	passe
 quar	quar
-ie	je
+ie	ie
 n	n
 i	i
 tent	tent

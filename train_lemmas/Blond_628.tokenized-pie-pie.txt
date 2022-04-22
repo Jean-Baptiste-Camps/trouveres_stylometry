@@ -23,7 +23,7 @@ vers2
 je
 qui
 tant
-là
+laissier
 amer1
 et
 bel1
@@ -33,11 +33,10 @@ coment1
 que4
 il
 prendre
-o3
 que4
 si
 bel1
-morir
+mort
 aprendre
 bon
 amor
@@ -58,7 +57,7 @@ soz
 bien1
 de
 color
-teindre
+teinte
 ne2
 müer
 mon1
@@ -66,16 +65,13 @@ dame
 estre1
 si
 colorer
-où
 poi
 il
 avoir
 ome
-ne2
 ne1
-estre1
-prendre
-o3
+en2
+esprendre2
 et
 qui
 a3
@@ -83,7 +79,7 @@ il
 ne1
 soi1
 rendre
-qui
+que2
 si
 douz
 amor
@@ -108,7 +104,7 @@ mais1
 se
 le
 enemi
-avoir
+a3
 boivre
 par
 amor
@@ -122,7 +118,7 @@ mais1
 ne1
 savoir
 coment1
-il
+le
 trover
 cant1
 tant
@@ -133,7 +129,6 @@ amor
 que4
 il
 je
-i2
 conduire
 se
 son4
@@ -153,7 +148,6 @@ quel1
 je
 i2
 conduire
-o3
 ainçois
 que4
 il
@@ -164,7 +158,6 @@ son4
 proiement
 estre1
 menu
-o3
 mais1
 ne1
 estre1

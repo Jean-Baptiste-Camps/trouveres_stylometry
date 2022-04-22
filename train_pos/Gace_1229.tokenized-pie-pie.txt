@@ -172,8 +172,7 @@ PROrel
 VERcjg
 PRE
 VERinf
-CONcoo
-CONsub
+PROrel
 PROadv
 VERcjg
 ADJqua

@@ -24,7 +24,7 @@ qui	qui
 fait	fait
 les	les
 pres	pres
-perdir	perdiru
+perdir	perdir
 fait	fait
 ma	ma
 ioie	joie
@@ -70,7 +70,6 @@ i	i
 ai	ai
 tel	tel
 desirrier	desirrier
-	u
 nenil	nenil
 quar	quar
 ie	je
@@ -122,7 +121,8 @@ fin	fin
 cuer	cuer
 u	u
 il	il
-na	na
+n	n
+a	a
 qu	qu
 en	en
 miudrer	miudrer
@@ -144,8 +144,7 @@ porroit	porroit
 endurer	endurer
 n	n
 est	est
-merueille	merveille
-s	s
+merueilles	merveilles
 amours	amours
 me	me
 fait	fait
@@ -160,7 +159,6 @@ n	n
 a	a
 si	si
 puissant	puissant
-	u
 qui	qui
 contre	contre
 li	li

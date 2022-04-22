@@ -57,12 +57,11 @@ mestier	mestier
 d	d
 aleiance	aleiance
 eee	eee
-Ma	ma
+Ma	Ma
 dame	dame
 a	a
 tel	tel
 connoissance	connoissance
-	u
 tel	tel
 renon	renon
 que	que
@@ -93,9 +92,7 @@ Mielz	mielz
 ami	ami
 de	de
 lui	lui
-la	la
-coitance	coitance
-	u
+lacoitance	lacoitance
 le	le
 non	non
 que	que
@@ -128,9 +125,8 @@ iors	jors
 remir	remir
 sa	sa
 semblance	semblance
-	u
 sa	sa
-facon	façon
+facon	facon
 aiez	aiez
 amor	amor
 guerredon	guerredon
@@ -147,4 +143,5 @@ que	que
 uos	vos
 aurez	avrez
 connoissance	connoissance
-eee	eee
+e	e
+ee	ee

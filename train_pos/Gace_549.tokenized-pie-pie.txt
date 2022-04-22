@@ -129,7 +129,6 @@ ADVgen
 VERcjg
 ADJqua
 NOMcom
-PROrel
 CONsub
 PROper
 PROper
@@ -190,13 +189,12 @@ ADVgen
 VERcjg
 ADVneg
 ADVgen
-DETpos
+PROper
 NOMcom
 PRE
 VERinf
 PRE
 NOMcom
-CONcoo
 CONsub
 PROrel
 NOMcom

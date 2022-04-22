@@ -115,7 +115,6 @@ tant
 ne1
 avoir
 deviser
-o3
 que4
 on
 devoir
@@ -182,8 +181,6 @@ encore
 maint
 guerredon
 demorer
-je
-je
 solaz
 en1
 ce1
@@ -237,7 +234,7 @@ plus
 haut
 dont
 doner
-si
+se
 ne1
 soi1
 en2
@@ -251,7 +248,7 @@ tel
 joie
 soi1
 devoir
-laint
+lieu
 travaillier
 a3
 vos
@@ -259,8 +256,8 @@ il
 dire
 compagnon
 Gasser
-bruille
-pensé
+bruillet
+penser
 de
 amor
 de

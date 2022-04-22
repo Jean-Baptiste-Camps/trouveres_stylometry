@@ -239,7 +239,7 @@ ioie	joie
 et	et
 hounour	hounour
 et	et
-uies	viess
+uies	vies
 amours	amours
 ueinquoit	veinquoit
 ma	ma
@@ -267,7 +267,6 @@ pluz	pluz
 pensa	pensa
 li	li
 ramembrer	ramembrer
-	u
 si	si
 m	m
 esmerueill	esmerveill
@@ -298,7 +297,7 @@ tant	tant
 conment	conment
 que	que
 m	m
-escondie	escondie
+escondie	escondie
 qu	qu
 a	a
 toute	toute
@@ -329,7 +328,6 @@ uient	vient
 soulaz	soulaz
 et	et
 compaignie	compaignie
-	u
 et	et
 toute	toute
 rienz	rienz

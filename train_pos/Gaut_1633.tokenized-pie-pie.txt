@@ -169,14 +169,13 @@ ADJqua
 CONcoo
 ADVgen
 VERppa
-PROrel
 ADVgen
 VERcjg
 NOMcom
 PRE
 DETpos
 NOMcom
-NOMpro
+VERppe
 PROper
 VERcjg
 PRE
@@ -188,7 +187,7 @@ NOMcom
 VERcjg
 VERinf
 CONcoo
-PRE
+ADVgen
 DETdem
 NOMcom
 ADJqua
@@ -228,7 +227,6 @@ NOMcom
 CONcoo
 VERinf
 CONcoo
-CONcoo
 PROper
 ADVneg
 VERcjg
@@ -268,7 +266,6 @@ VERcjg
 PRE
 PROdem
 NOMcom
-PROrel
 CONsub
 PROper
 ADVneg
@@ -290,8 +287,7 @@ PROper
 PROadv
 VERcjg
 VERinf
-PROrel
-CONsub
+ADVgen
 ADVneg
 VERcjg
 DETdef

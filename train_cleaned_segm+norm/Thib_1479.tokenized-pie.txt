@@ -20,14 +20,13 @@ amors	amors
 nestre	nestre
 et	et
 croistre	croistre
-	u
 florir	florir
 li	li
 ramembrers	ramembrers
 par	par
 costume	costume
-	u
-parus	parus
+par	par
+us	us
 d	d
 amors	amors
 liaus	liaus
@@ -73,8 +72,7 @@ gart	gart
 t	t
 q̃l	quel
 fust	fust
-tysbe	tysbe
-que	que
+tysbeque	tysbeque
 ie	je
 sui	sui
 piramus	piramus
@@ -96,7 +94,6 @@ en	en
 aurai	aurai
 plus	plus
 ahi	ahi
-	u
 bele	bele
 tãt	tant
 sui	sui
@@ -141,7 +138,6 @@ ie	je
 seruisse	servisse
 dieu	dieu
 autant	autant
-	un
 priasse	priasse
 de	de
 uerai	verai
@@ -197,7 +193,6 @@ fors	fors
 d	d
 iaux	iaux
 clos	clos
-	u
 de	de
 cuer	cuer
 noir	noir
@@ -216,7 +211,6 @@ fin	fin
 faudront	faudront
 li	li
 droiturier	droiturier
-	u
 la	la
 finz	finz
 est	est
@@ -226,7 +220,7 @@ que	que
 cri	cri
 uiautez	viautez
 uaint	vaint
-merci	merci
+merci	merci
 proier	proier
 ne	ne
 seruises	servises
@@ -245,7 +239,6 @@ a	a
 plusor	plusor
 guiaux	guiaux
 pooir	pooir
-	u
 bobant	bobant
 que	que
 douz	douz
@@ -268,7 +261,7 @@ merci	merci
 trouuer	trouver
 bien	bien
 sai	sai
-uoi	nuoi
+uoi	voi
 qu	qu
 a	a
 tos	tos
@@ -303,7 +296,8 @@ a	a
 nul	nul
 ior	jor
 recouurer	recouvrer
-iemẽ	siemen
+ie	je
+mẽ	men
 morrai	morrai
 chains	chains
 ma	ma
@@ -320,7 +314,7 @@ uis	vis
 ou	ou
 naist	naist
 la	la
-rose	rosee
+rose	rose
 li	li
 lis	lis
 Aygle	Aygle

@@ -13,8 +13,8 @@ faire
 feste1
 ne2
 joie
-où
-por2+ce1
+por2
+ce1
 avoir
 je
 demorer
@@ -33,7 +33,6 @@ ne1
 avoir
 en1+le
 comandement
-o3
 por2
 ice2
 sage
@@ -59,7 +58,7 @@ faire
 qui
 fin2
 ami
-reprendre1
+reprendre2
 ne2
 il
 ne1
@@ -71,7 +70,6 @@ por2
 dis1
 soi1
 chastiier
-o3
 le
 costume
 estre1
@@ -83,7 +81,6 @@ plus
 penser
 a3
 il
-où
 il
 plus
 soi1
@@ -94,22 +91,19 @@ amor
 avoir
 tot
 cuer2
-o3
 talent
 il
 devoir
 sofrir
 bien1
-o3
 mal1
 mercïer
-o3
 qui
 ainsi
 ne1
 faire
 il
-soi1
+se
 foloiier
 ne2
 ja
@@ -136,11 +130,9 @@ soi1
 en2
 peser
 retraire
-où
 cel
 estre1
 fol3
-o3
 felon
 plein
 de
@@ -151,7 +143,7 @@ voloir
 mener
 son4
 afaire2
-häir
+avoir
 savoir
 estre1
 là
@@ -185,7 +177,6 @@ plus
 mon1
 chauce
 amor
-où
 moins
 il
 estre1
@@ -246,7 +237,7 @@ je
 il
 en2
 croire
-se
+si
 estre1
 pensif
 que4
@@ -260,7 +251,7 @@ fors1
 que4
 merci
 dame
-si
+se
 vos
 agreer
 que4
@@ -306,7 +297,6 @@ le
 suen
 bien1
 faire
-o3
 avancier
 Cançon
 dire
@@ -324,9 +314,8 @@ avoir
 cent
 foiz
 mon1
-mort
-jurer
-si
+mortier
+se
 je
 estovoir1
 il

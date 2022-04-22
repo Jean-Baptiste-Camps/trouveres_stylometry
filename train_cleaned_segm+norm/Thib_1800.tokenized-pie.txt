@@ -59,9 +59,7 @@ que	que
 ie	je
 refrain	refrain
 mon	mon
-plor	plor
-	u
-s	s
+plors	plors
 en	en
 atent	atent
 ioie	joie
@@ -76,14 +74,12 @@ ml̃t	moult
 seoir	seoir
 quiẽ	quien
 sanz	sanz
-riue	rive
-	u
-n	n
+riuen	riven
 i	i
 a	a
 point	point
 de	de
-fonz	fonz
+fonz	fonz
 s	s
 il	il
 est	est
@@ -103,7 +99,8 @@ raison	raison
 mostree	mostree
 qu	qu
 apresgnͣz	apresgnaz
-marce	marce
+mar	mar
+ce	ce
 dit	dit
 ou	ou
 tot	tot
@@ -128,13 +125,13 @@ que	que
 de	de
 mes	mes
 max	max
-naiebñ	naiebier
+naie	naie
+bñ	bien
 le	le
 retor	retor
 Ice	Ice
 retor	retor
 diex	diex
-	u
 qnͣt	qant
 l	l
 aurai	aurai
@@ -149,7 +146,6 @@ atent	atent
 les	les
 uoz	voz
 biautez	biautez
-	u
 uostre	vostre
 fin	fin
 semblant	semblant
@@ -159,7 +155,6 @@ auoir	avoir
 une	une
 bonne	bonne
 esperance	esperance
-	u
 si	si
 ne	ne
 sai	sai
@@ -221,12 +216,11 @@ quiex	quiex
 sera	sera
 ma	ma
 chaance	chaance
-	un
 couuerrai	couverrai
 einsi	einsi
 mon	mon
 cuer	cuer
-irie	irieu
+irie	irie
 si	si
 saurai	saurai
 samors	samors
@@ -272,7 +266,7 @@ iangleor	jangleor
 qui	qui
 poi	poi
 gnent	gnent
-atisent	Watisent
+atisent	atisent
 uont	vont
 tant	tant
 parlant	parlant
@@ -287,7 +281,7 @@ une	une
 feue	feve
 ne	ne
 prisent	prisent
-ie	Kie
+ie	je
 dame	dame
 a	a
 uos	vos
@@ -296,7 +290,6 @@ rent	rent
 pansis	pansis
 humles	humles
 celanz	celanz
-	u
 fins	fins
 loiauz	loiauz
 amis	amis
@@ -315,5 +308,4 @@ est	est
 de	de
 cuer	cuer
 deceuans	decevans
-	u
 faintis	faintis

@@ -11,9 +11,7 @@ un
 ueil
 partir
 en1
-champ
-tant
-o3
+chanter
 en1
 grant
 balance
@@ -39,7 +37,7 @@ trassalir
 durement2
 en1
 grant
-esmanacïence
+esmanacïen
 movoir
 de
 enfance
@@ -127,7 +125,7 @@ mon1
 pöesté
 plus
 mauvais
-ne1
+ne2
 estre1
 mie
 ainc
@@ -153,7 +151,7 @@ tant
 je
 avoir
 bel1
-sermoner
+sermone
 que4
 ne1
 il
@@ -166,7 +164,6 @@ vostre
 gré2
 mon1
 cors1
-où
 mon1
 vie1
 metre2
@@ -174,7 +171,7 @@ en1
 vostre
 volenté
 maugré
-ce2
+cel
 qui
 mout
 mesler
@@ -197,7 +194,8 @@ que4
 cel
 qui
 tant
-amer1
+avoir
+ame
 a3
 vos
 soi1

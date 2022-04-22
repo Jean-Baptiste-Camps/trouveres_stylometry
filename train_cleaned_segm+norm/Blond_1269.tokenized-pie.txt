@@ -31,7 +31,6 @@ m	m
 en	en
 doi	doi
 merueillier	merveillier
-	u
 se	se
 ie	je
 uai	vai
@@ -109,9 +108,9 @@ sentir	sentir
 ne	ne
 ne	ne
 m	m
-ensai	ensai
+en	en
+sai	sai
 ꝯseillier	conseillier
-	u
 maiz	maiz
 guarde	guarde
 toi	toi
@@ -147,7 +146,6 @@ dolour	dolour
 et	et
 l	l
 encombrier	encombrier
-	u
 amours	amours
 qu	qu
 ele	ele

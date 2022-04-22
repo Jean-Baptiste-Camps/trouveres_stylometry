@@ -58,7 +58,7 @@ nus	nus
 ne	ne
 puet	puet
 eschaper	eschaper
-ı	Rı
+ı	ı
 aı	aı
 forfet	forfet
 douce	douce
@@ -67,8 +67,8 @@ a	a
 perdre	perdre
 le	le
 cors	cors
-	u
-lame	lame
+l	l
+ame	ame
 se	se
 ne	ne
 m	m
@@ -94,7 +94,6 @@ refusee	refusee
 sıre	sıre
 droıture	droıture
 oublıez	oublıez
-	u
 destendez	destendez
 uostre	vostre
 corde	corde
@@ -172,9 +171,7 @@ uos	vos
 deuoır	devoır
 le	le
 sai	sai
-	u
-laısse	laısse
-raı	raıus
+laısseraı	laısseraı
 dex	dex
 nos	nos
 doınt	doınt

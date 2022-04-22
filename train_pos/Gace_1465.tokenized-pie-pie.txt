@@ -83,14 +83,13 @@ ADVneg
 PROper
 VERcjg
 VERinf
-PROrel
 CONcoo
 PRE
 NOMcom
 VERcjg
 ADVgen
 VERinf
-NOMcom
+NOMpro
 DETind
 NOMcom
 VERcjg

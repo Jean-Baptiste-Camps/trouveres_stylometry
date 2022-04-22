@@ -26,7 +26,7 @@ dire
 verité
 de
 mon1
-penser
+pensé
 et
 de
 ce1
@@ -50,7 +50,6 @@ je
 avoir
 dieu
 Honousé
-o3
 que4
 encore
 ne1
@@ -62,7 +61,7 @@ fin1
 crïer2
 chanter
 je
-servir
+serf
 de
 bon
 volenté
@@ -77,7 +76,7 @@ ne1
 avoir
 je
 gré2
-ester
+tendre1
 a3+le
 guerredon
 qui
@@ -86,7 +85,6 @@ de
 lëauté
 par
 fausseté
-o3
 ne1
 querre
 nul
@@ -102,7 +100,7 @@ de+le
 haut
 don
 que2
-je
+i2
 avoir
 desirrer
 dieu
@@ -119,21 +117,19 @@ ne1
 je
 avoir
 oblïer
-o3
 merci
 car
 trop
 je
 parvenir
-lent1
+laint
 ce1
 mon1
 auques
-desez
+de
+son4
 pere
-un
 querre
-un
 maint
 grief
 sospir
@@ -161,7 +157,6 @@ de
 coi2
 estre1
 conforter
-o3
 cel
 ne1
 avoir
@@ -189,13 +184,12 @@ je
 ne2
 estre1
 il
-ne2
+ne1
 en2
 pöoir
 mais1
 car
 outreement
-un
 estre1
 cel
 bel1
@@ -207,7 +201,7 @@ cant1
 laissafir
 avoir
 cuidier1
-agatement
+hastement
 trestot
 trover
 car
@@ -238,7 +232,7 @@ par
 son4
 bel1
 afaitement
-male
+malee
 le
 semblant
 mostrer

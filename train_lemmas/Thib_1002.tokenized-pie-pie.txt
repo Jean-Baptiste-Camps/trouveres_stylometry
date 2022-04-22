@@ -71,7 +71,6 @@ merci
 crïer2
 en1
 dormir
-o3
 en1
 veillant
 estre1
@@ -116,10 +115,10 @@ assentir1
 mon1
 cuer2
 plorer
-fie1
+je
 en1
 chantelier
-mout
+mont
 mon1
 ueil
 traire
@@ -181,7 +180,7 @@ sans
 mentir
 que4
 un
-regarder
+regart
 le
 cuer2
 je

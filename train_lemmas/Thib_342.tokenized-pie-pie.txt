@@ -40,7 +40,6 @@ ne1
 avoir
 quinze
 an
-o3
 demi2
 ne2
 onque
@@ -63,13 +62,12 @@ bel1
 dire
 je
 tu
-famencement
+fanconement
 por2
-dieu
+Dieu
 vos
 avoir
 nom
-o3
 il
 sauver
 maintenant
@@ -117,7 +115,6 @@ ne1
 je
 deignier
 esgarder
-derrier(e)
 ne2
 faire
 autre
@@ -128,7 +125,7 @@ a3
 porpenser
 come1
 faire
-menu
+mien
 changier
 son4
 talent
@@ -136,7 +133,7 @@ a3
 terre
 il
 il
-massiz
+masser
 cant1
 plus
 regarder
@@ -160,11 +157,10 @@ a3
 demander
 mout
 belement
-que2
+que4
 je
 deignier
 esgarder
-o3
 faire
 autre
 semblant
@@ -173,7 +169,6 @@ il
 comencier
 a3
 plorer
-o3
 dire
 itant
 je
@@ -188,10 +183,10 @@ aler
 querre
 vers2
 il
-mestarie
+mestier
 se
-le
-dis1
+il
+dire
 mon1
 bel1
 por2
@@ -213,7 +208,6 @@ il
 monter
 de
 maintenant
-un
 trestot
 droit
 je
@@ -235,7 +229,6 @@ parimier
 qui
 venir
 iver2
-un
 lever
 grant
 cri
@@ -246,11 +239,12 @@ que4
 ne1
 dire
 je
-il
+là
 laissier
-mon1
-enfontin
-avoir
+je
+en1
+foivre
+öir
 cure
 de
 tel

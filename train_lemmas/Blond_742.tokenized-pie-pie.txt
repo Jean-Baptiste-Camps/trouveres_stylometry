@@ -26,7 +26,6 @@ a3
 chanter
 ne1
 entendre
-o3
 qui
 mieus
 soi1
@@ -38,11 +37,9 @@ très
 ce2
 chant2
 voirement
-o3
 contenir
 plus
 doucement
-tu
 trop
 par2
 je
@@ -58,7 +55,7 @@ dolor
 je
 rendre
 ce1
-que4
+que2
 a3
 tot
 lent1
@@ -74,7 +71,7 @@ très
 bel1
 a3+le
 cors1
-un
+ne1
 je
 faire
 tot
@@ -84,8 +81,8 @@ mais1
 ce1
 je
 ocire
-verai
-Helieu
+veraiement
+je+il
 ne1
 savoir
 que4
@@ -112,7 +109,7 @@ mari
 je
 croire
 bien1
-quelement
+colement
 je
 envoiier
 prochainement
@@ -122,7 +119,6 @@ droit
 il
 devoir
 faire
-o3
 se
 regart
 avoir
@@ -134,7 +130,7 @@ ueil
 ne1
 je
 mentir
-Cançon
+Chançon
 aler
 isnelement
 a3
@@ -143,7 +139,7 @@ bel1
 a3+le
 cler
 vïaire1
-se
+si
 il
 dire
 solement
@@ -153,9 +149,8 @@ bon
 estre1
 söef
 flaire
-ne1
-le
-oser
+ne2
+los1
 penser
 autrement
 car
@@ -176,7 +171,6 @@ ne1
 il
 en2
 prendre
-o3
 blandon
 morir
 que4

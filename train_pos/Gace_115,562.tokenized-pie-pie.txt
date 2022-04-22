@@ -33,9 +33,9 @@ VERcjg
 ADVgen
 VERppe
 PRE
+NOMcom
 VERinf
-PROrel
-PROrel
+CONsub
 PROper
 ADVneg
 VERcjg
@@ -63,8 +63,7 @@ VERcjg
 VERinf
 PRE
 VERinf
-PROrel
-PROrel
+CONsub
 PROper
 ADVneg
 VERcjg

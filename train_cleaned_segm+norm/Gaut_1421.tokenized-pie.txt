@@ -218,7 +218,6 @@ ne	ne
 les	les
 hante	hante
 souuent	souvent
-	u
 ni	ni
 paires	paires
 en	en
@@ -276,7 +275,6 @@ sachiez	sachiez
 bien	bien
 qual	qual
 departir	departir
-	un
 ꝯnoist	connoist
 on	on
 le	le
@@ -296,7 +294,6 @@ n	n
 ama	ama
 lor	lor
 soulaz	soulaz
-	u
 qui	qui
 trahis	trahis
 n	n
@@ -335,7 +332,6 @@ bien	bien
 en	en
 mon	mon
 descort	descort
-	u
 lor	lor
 bien	bien
 uueillanz	vueillanz

@@ -35,9 +35,7 @@ de	de
 uoir	voir
 a	a
 li	li
-men	men
-uant	vant
-	u
+menuant	menuant
 que	que
 iamaiz	jamaiz
 nul	nul
@@ -57,7 +55,6 @@ deust	deust
 auoir	avoir
 pluz	pluz
 grant	grant
-	u
 de	de
 moi	moi
 qui	qui
@@ -66,7 +63,7 @@ uois	vois
 languissant	languissant
 Biaus	Biaus
 sire	sire
-dex	dex
+dex	Dex
 sele	sele
 aime	aime
 ia	ja
@@ -105,10 +102,9 @@ aperceuant	apercevant
 quant	quant
 ele	ele
 encore	encore
-sent	sent
-un	un
+sentu	sentu
+n	n
 a	a
-	u
 nus	nus
 des	des
 mauz	mauz
@@ -123,9 +119,7 @@ uis	vis
 qu	qu
 ele	ele
 a	a
-si	si
-riant	riant
-	un
+siriant	siriant
 fait	fait
 le	le
 mien	mien
@@ -135,11 +129,9 @@ et	et
 pensant	pensant
 Li	Li
 lons	lons
-delaisd	delaisd
-a	a
+delaisda	delaisda
 li	li
 parler	parler
-	un
 me	me
 fait	fait
 souuent	souvent
@@ -183,7 +175,6 @@ on	on
 a	a
 grant	grant
 desir	desir
-	un
 fait	fait
 bien	bien
 mesure	mesure

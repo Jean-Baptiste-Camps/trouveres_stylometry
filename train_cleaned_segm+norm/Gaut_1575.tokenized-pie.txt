@@ -45,7 +45,6 @@ dont	dont
 on	on
 me	me
 croie	croie
-	u
 g	g
 i	i
 ai	ai
@@ -70,7 +69,6 @@ dont	dont
 me	me
 uenist	venist
 ioie	joie
-	u
 quant	quant
 ie	ie
 ma	ma
@@ -135,11 +133,10 @@ et	et
 par	par
 raison	raison
 se	se
-ie	ie
+ie	je
 or	or
 li	li
 failloie	failloie
-	u
 quantque	quantque
 i	i
 ai	ai
@@ -233,20 +230,16 @@ me	me
 fist	fist
 tant	tant
 qu	qu
-e	e
-le	le
+ele	ele
 mot	mot
 soupris	soupris
-	u
 par	par
 trahison	trahison
 qu	qu
 au	au
 treble	treble
 multeploie	multeploie
-	un
-m	m
-a	a
+ma	ma
 fait	fait
 chose	chose
 q̃	que
@@ -278,7 +271,6 @@ ie	ie
 pluz	pluz
 en	en
 desuoie	desvoie
-	u
 du	du
 guerredon	guerredon
 que	que
@@ -312,7 +304,6 @@ sunt	sunt
 si	si
 auant	avant
 mis	mis
-	u
 qu	qu
 il	il
 meslongent	meslongent
@@ -325,7 +316,6 @@ u	u
 ie	je
 di	di
 uoir	voir
-	u
 la	la
 leaus	leaus
 foloie	foloie

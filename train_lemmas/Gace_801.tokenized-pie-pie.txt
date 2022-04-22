@@ -238,7 +238,7 @@ joie
 et
 hontor
 et
-viez
+vie1
 amor
 veintre
 mon1
@@ -266,7 +266,6 @@ plus
 penser
 il
 ramembrer
-où
 si
 je
 esmerveillier
@@ -284,7 +283,7 @@ et
 desraisnier
 qui
 pöoir
-Dieu
+dieu
 a3
 cel
 cuer2
@@ -328,7 +327,6 @@ venir
 solaz
 et
 compagnie
-o3
 et
 tot
 rien

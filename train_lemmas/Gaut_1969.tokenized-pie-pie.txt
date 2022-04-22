@@ -21,7 +21,7 @@ chanter
 ne2
 ne1
 crïer2
-des2
+de+le
 que4
 ce1
 venir
@@ -84,7 +84,6 @@ largece
 prendre
 et
 hontor
-un
 nos1
 avoir
 ainsi
@@ -159,9 +158,9 @@ borc
 tot
 adès
 par
-Ilosaire
+eleschié
 que4
--
+ail
 cuer2
 a3
 sejor
@@ -179,7 +178,6 @@ ne1
 je
 vëoir
 mie
-o3
 ainsi
 puis
 je
@@ -227,7 +225,6 @@ qui
 tant
 je
 contrariier
-o3
 mais1
 ne1
 il
@@ -239,7 +236,7 @@ je
 estre1
 guerpir
 par
-dieu
+Dieu
 le
 haut
 crïator
@@ -278,7 +275,6 @@ je
 savoir
 mon1
 enemi
-o3
 se
 coiement
 quel1
@@ -306,7 +302,6 @@ desfïer
 ne2
 nul
 autre
-un
 ne1
 je
 pöoir

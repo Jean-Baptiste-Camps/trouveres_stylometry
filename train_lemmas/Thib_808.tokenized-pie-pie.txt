@@ -40,12 +40,11 @@ pöoir
 aillors
 penser
 son4
-biauté
-o3
+bel1
+tu
 son4
 bon
-dit
-o3
+dire
 son4
 très
 douz
@@ -55,9 +54,9 @@ peser
 estre1
 garir
 mais1
-ne2
-en2
-pöoir
+ne1
+en1
+por2
 mon1
 cuer2
 oster2
@@ -95,9 +94,7 @@ sofrir
 mon1
 dolor
 voir
-o3
 atendre
-o3
 langir
 que4
 il
@@ -107,8 +104,8 @@ bien1
 merir
 mais1
 mal1
-un
-mon1
+je
+avoir
 consirer
 et
 ne1
@@ -120,6 +117,7 @@ qui
 bëer
 que4
 le
+on
 pöoir
 avenir
 dame
@@ -131,7 +129,6 @@ sovent
 il
 estovoir1
 esbäir
-o3
 penser
 a3
 tel
@@ -157,7 +154,7 @@ que4
 sol1
 de
 le
-desirrer
+desirrier2
 je
 faire
 mon1
@@ -193,7 +190,8 @@ ce1
 faire
 amor
 doloir
-quel1
+que4
+il
 voloir
 guerredon
 rendre
@@ -202,7 +200,6 @@ qui
 bien1
 savoir
 atendre
-o3
 servir
 a3
 son4
@@ -211,10 +208,8 @@ Damnedeu
 tot
 mon1
 pöoir
-je
-ostor
-a3
-vos
+mort
+avoir
 sans
 contenir
 que4

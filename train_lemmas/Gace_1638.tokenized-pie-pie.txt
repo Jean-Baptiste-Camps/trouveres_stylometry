@@ -33,7 +33,6 @@ chant2
 faire
 son4
 comant
-o3
 ne1
 avoir
 pöoir
@@ -99,7 +98,7 @@ verai
 servir
 tot
 mon1
-amer1
+ame
 estre1
 pas
 droit
@@ -130,12 +129,11 @@ je
 morir
 por2
 le
-o3
-que2
+que4
 je
 ja
-de
-amer1
+dame
+je
 plaindre
 nul
 rien
@@ -158,7 +156,8 @@ ja
 ne1
 en2
 querre
-vertomement
+verité
+coment1
 il
 mon1
 grëer
@@ -177,7 +176,7 @@ gré2
 si+il
 il
 plaire
-si
+se
 je
 en2
 destreindre
@@ -199,7 +198,7 @@ je
 ocire
 mie
 prendre
-entasidé
+entasicïe
 conroi
 je
 ne1
@@ -218,7 +217,7 @@ ome
 devoir
 foi
 por2
-dieu
+Dieu
 pitié
 vos
 en2
@@ -226,7 +225,7 @@ prendre
 par
 dieu
 sele
-ne2
+ne1
 maie
 puis
 que4

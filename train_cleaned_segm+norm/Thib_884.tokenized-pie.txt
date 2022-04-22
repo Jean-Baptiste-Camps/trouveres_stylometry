@@ -19,7 +19,7 @@ ce	ce
 m	m
 estuet	estuet
 souent	sovent
-plaindre	plaindree
+plaindre	plaindre
 plorer	plorer
 que	que
 nus	nus
@@ -86,7 +86,7 @@ mes	mes
 cuers	cuers
 la	la
 ententis	ententis
-he	hee
+he	He
 bele	bele
 riens	riens
 douce	douce
@@ -144,10 +144,9 @@ ice	ice
 me	me
 tolt	tolt
 mat	mat
-ioie	joie
+ioie	joie
 ma	ma
 fiance	fiance
-	un
 fait	fait
 doloir	doloir
 dame	dame

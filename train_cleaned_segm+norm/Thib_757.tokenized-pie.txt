@@ -1,5 +1,5 @@
 token	normalised
-DAme	DAme
+DAme	Dame
 einsi	einsi
 est	est
 qui	qui
@@ -7,7 +7,6 @@ m	m
 en	en
 couuient	couvient
 aler	aler
-	u
 departir	departir
 de	de
 la	la
@@ -17,7 +16,6 @@ eutant	eutant
 ai	ai
 max	max
 sofferz	sofferz
-	u
 endurez	endurez
 quant	quant
 ie	je
@@ -87,7 +85,7 @@ la	la
 ou	ou
 il	il
 uelt	velt
-bee	Ebee
+bee	bee
 trop	trop
 ai	ai
 apris	apris
@@ -153,7 +151,6 @@ par	par
 en	en
 sui	sui
 dolens	dolens
-	u
 esbahiz	esbahiz
 par	par
 mainte	mainte
@@ -170,7 +167,7 @@ aler	aler
 en	en
 ceste	ceste
 uoie	voie
-ie	Kie
+ie	je
 recort	recort
 uos	vos
 debonaires	debonaires
@@ -201,10 +198,8 @@ florisqnͣt	florisqant
 por	por
 uos	vos
 per	per
-	u
 mõ	mon
 cuer	cuer
-	u
 ma	ma
 ioie	joie
 de	de
@@ -213,16 +208,15 @@ seruir	servir
 sui	sui
 toz	toz
 prez	prez
-	u
 garnis	garnis
 a	a
 uos	vos
-mer	mer
-en	en
+me	me
+ren	ren
 biau	biau
 pere	pere
 i	i
-hũcris	huncris
+hũcris	humcris
 si	si
 bon	bon
 seignor	seignor
@@ -244,7 +238,6 @@ mes	mes
 cuers	cuers
 estre	estre
 liez	liez
-	u
 dolenz	dolenz
 dolens	dolens
 de	de
@@ -253,8 +246,8 @@ que	que
 ie	je
 part	part
 de	de
-madame	madame
-	u
+ma	ma
+dame	dame
 liez	liez
 de	de
 ce	ce
@@ -268,15 +261,12 @@ cui	cui
 est	est
 mes	mes
 cors	cors
-	u
 m	m
-ame	ame
-iceste	iceste
+ameiceste	ameiceste
 amors	amors
 est	est
 trop	trop
-fin	fin
-e	es
+fine	fine
 puissanz	puissanz
 par	par
 la	la

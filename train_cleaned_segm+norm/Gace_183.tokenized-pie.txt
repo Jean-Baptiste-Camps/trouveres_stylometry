@@ -35,7 +35,6 @@ que	que
 trop	trop
 est	est
 tenanz	tenanz
-	u
 uers	vers
 de	de
 guerredon	guerredon
@@ -94,7 +93,6 @@ cuer	cuer
 ne	ne
 doit	doit
 plaire	plaire
-	u
 samblance	samblance
 d	d
 amours	amours
@@ -135,7 +133,6 @@ si	si
 fait	fait
 com	com
 recreanz	recreanz
-	u
 qui	qui
 son	son
 baston	baston
@@ -191,9 +188,8 @@ deust	deust
 par	par
 tout	tout
 desplaire	desplaire
-se	sse
-m	m
-en	en
+se	se
+men	men
 peusse	peusse
 retraire	retraire
 Biautez	Biautez
@@ -236,7 +232,6 @@ pour	pour
 engagier	engagier
 ou	ou
 uendre	vendre
-	un
 me	me
 poez	poez
 ꝯ	com

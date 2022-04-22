@@ -130,7 +130,6 @@ mout	mout
 fera	fera
 grant	grant
 mesproison	mesproison
-	u
 quãt	quant
 ie	je
 l	l
@@ -197,7 +196,6 @@ a	a
 faire	faire
 sanz	sanz
 ochoisõ	ochoison
-	u
 quant	quant
 qu	qu
 amours	amours

@@ -8,7 +8,6 @@ ie	ie
 ne	ne
 farz	farz
 chanz	chanz
-	u
 pluz	pluz
 legiers	legiers
 et	et
@@ -32,7 +31,6 @@ amours	amours
 est	est
 pluz	pluz
 granz	granz
-	un
 conuient	convient
 mouuoir	mouvoir
 les	les
@@ -45,9 +43,8 @@ mainz	mainz
 ame	ame
 de	de
 lui	lui
-conuient	conuient
+conuient	convient
 uenir	venir
-	u
 les	les
 febles	febles
 chanz	chanz
@@ -63,7 +60,8 @@ demant	demant
 le	le
 as	as
 fins	fins
-amanss	amansser
+amans	amans
+s	s
 amours	amours
 est	est
 si	si
@@ -96,7 +94,6 @@ puet	puet
 d	d
 amors	amors
 uenir	venir
-	u
 qu	qu
 il	il
 ne	ne
@@ -150,7 +147,6 @@ ne	ne
 aler	aler
 ne	ne
 uenir	venir
-	u
 la	la
 u	u
 cele	cele
@@ -182,7 +178,7 @@ ma	ma
 dame	dame
 couurir	couvrir
 que	que
-ie	ie
+ie	je
 aim	aim
 plus	plus
 que	que
@@ -190,9 +186,7 @@ rienz	rienz
 qui	qui
 soit	soit
 uuianz	vuianz
-	u
-he	hee
-las	las
+helas	helas
 conment	conment
 la	la
 serai	serai
@@ -205,7 +199,6 @@ fol	fol
 se	se
 doit	doit
 tenir	tenir
-	u
 qui	qui
 de	de
 uous	vous
@@ -250,7 +243,6 @@ en	en
 auom	avom
 mal	mal
 tanz	tanz
-	u
 maiz	maiz
 douce	douce
 pais	pais
@@ -258,7 +250,6 @@ en	en
 puet	puet
 apres	apres
 uenir	venir
-	u
 sachiez	sachiez
 qu	qu
 amors	amors
@@ -266,7 +257,7 @@ ne	ne
 fait	fait
 fors	fors
 rafreschir	rafreschir
-Ueillier	Veillier
+Ueillier	veillier
 penser	penser
 painnes	painnes
 trauaus	travaus
@@ -284,16 +275,14 @@ rienz	rienz
 en	en
 bõgre	bongre
 retenir	retenir
-	u
 de	de
 nul	nul
 anui	anui
 ne	ne
 doit	doit
 estre	estre
-es	es
-maianz	maianz
-cil	Icil
+esmaianz	esmaianz
+cil	cil
 qui	qui
 ueut	veut
 estre	estre
@@ -320,7 +309,6 @@ l	l
 enseigne	enseigne
 as	as
 repentanz	repentanz
-	u
 il	il
 n	n
 aura	aura
@@ -334,8 +322,8 @@ moi	moi
 ne	ne
 soiez	soiez
 ia	ja
-doutans	doutans
-	u
+dou	dou
+tans	tans
 ie	je
 uous	vous
 serai	serai

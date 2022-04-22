@@ -47,7 +47,6 @@ art	art
 quant	quant
 la	la
 remir	remir
-	un
 maiz	maiz
 bien	bien
 croi	croi
@@ -83,7 +82,7 @@ ainz	ainz
 uueill	vueill
 qu	qu
 ele	ele
-metriuist	metriuist
+metriuist	metrivist
 baut	baut
 sanz	sanz
 ghiller	ghiller
@@ -101,7 +100,6 @@ qui	qui
 tant	tant
 puet	puet
 fuir	fuir
-	u
 mis	mis
 n	n
 est	est
@@ -196,7 +194,6 @@ ne	ne
 soie	soie
 de	de
 ceus	ceus
-	u
 qui	qui
 aimment	aimment
 deseur	deseur
@@ -216,8 +213,7 @@ d	d
 ocirre	ocirre
 son	son
 urai	vrai
-amant	amant
-oil	oil
+amantoil	amantoil
 uoir	voir
 bien	bien
 le	le
@@ -246,7 +242,6 @@ le	le
 uous	vous
 dien	dien
 oiant	oiant
-	u
 mout	mout
 en	en
 seroie	seroie

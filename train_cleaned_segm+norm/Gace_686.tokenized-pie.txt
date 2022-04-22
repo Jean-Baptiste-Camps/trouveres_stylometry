@@ -95,7 +95,6 @@ me	me
 fait	fait
 a	a
 despenser	despenser
-	u
 la	la
 u	u
 ualours	valours
@@ -109,14 +108,13 @@ dit	dit
 etraisons	etraisons
 me	me
 consent	consent
-	u
 douce	douce
 dame	dame
 que	que
-ie	je
+ie	ie
 uous	vous
 doie	doie
-am̃	amier
+am̃	Amer
 marz	marz
 uo	vo
 biautez	biautez
@@ -124,7 +122,6 @@ qui	qui
 matise	matise
 et	et
 esprent	esprent
-	un
 est	est
 la	la
 raisons	raisons
@@ -148,7 +145,6 @@ pour	pour
 moi	moi
 tant	tant
 aleuer	alever
-	u
 se	se
 par	par
 pitie	pitie
@@ -208,7 +204,6 @@ ia	ja
 un	un
 trop	trop
 folement	folement
-	u
 mis	mis
 ne	ne
 m	m
@@ -247,7 +242,6 @@ si	si
 me	me
 fait	fait
 penser	penser
-	u
 tant	tant
 que	que
 ie	je

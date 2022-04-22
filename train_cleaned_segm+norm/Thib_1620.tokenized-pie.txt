@@ -4,11 +4,11 @@ le	le
 tans	tans
 qui	qui
 deuise	devise
-yuer	yveru
-pluie	pluie
-deste	destee
-la	la
-mauuiz	mauviz
+yuer	yver
+pluied	pluied
+este	este
+lama	lama
+uuiz	vuiz
 se	se
 debrise	debrise
 qui	qui
@@ -122,7 +122,6 @@ m	m
 en	en
 puis	puis
 saouler	saouler
-	u
 quant	quant
 plus	plus
 auraicheance	auraicheance
@@ -180,8 +179,8 @@ ie	je
 li	li
 fis	fis
 proiere	proiere
-	u
-la	la
+l	l
+a	a
 pris	pris
 a	a
 esgarder	esgarder
@@ -224,7 +223,6 @@ uos	vos
 m	m
 estuet	estuet
 clamer	clamer
-	u
 que	que
 merciz	merciz
 uos	vos

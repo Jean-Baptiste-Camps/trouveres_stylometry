@@ -46,10 +46,9 @@ cil	cil
 qui	qui
 par	par
 acoustumance	acoustumance
-	un
 font	font
 tes	tes
-chancons	chançons
+chancons	chancons
 una	una
 fors	fors
 contenance	contenance
@@ -105,8 +104,7 @@ painne	painne
 et	et
 a	a
 greuance	grevance
-	u
-Ie	Je
+Ie	Ie
 ne	ne
 di	di
 pas	pas
@@ -130,7 +128,6 @@ que	que
 felon	felon
 et	et
 enuie	envie
-	un
 mont	mont
 trop	trop
 mal	mal
@@ -151,7 +148,7 @@ fu	fu
 si	si
 crueux	crueux
 desseurance	desseurance
-ꝯme	Quomme
+ꝯme	comme
 de	de
 ioie	joie
 et	et

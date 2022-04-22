@@ -12,9 +12,7 @@ un	un
 ieu	ieu
 parti	parti
 en	en
-chã	chan
-tant	tant
-	u
+chãtant	chantant
 en	en
 grant	grant
 balance	balance
@@ -167,7 +165,6 @@ uostre	vostre
 gre	gre
 mon	mon
 cors	cors
-	u
 ma	ma
 uie	vie
 met	met
@@ -198,7 +195,8 @@ que	que
 cil	cil
 qui	qui
 tant	tant
-aame	aame
+a	a
+ame	ame
 a	a
 uos	vos
 s	s

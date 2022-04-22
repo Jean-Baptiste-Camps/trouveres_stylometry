@@ -72,7 +72,6 @@ merci	merci
 crier	crier
 En	En
 dormant	dormant
-	u
 en	en
 ueillant	veillant
 est	est
@@ -81,7 +80,7 @@ cuers	cuers
 dou	dou
 tot	tot
 a	a
-lui	lui
+lui	lui
 li	li
 prie	prie
 doucemẽt	doucement
@@ -97,14 +96,14 @@ tant	tant
 me	me
 fi	fi
 queqnͣt	quequnt
-ie	ie
+ie	je
 pens	pens
 durement	durement
 de	de
 ioie	joie
 toz	toz
 mentrobli	mentrobli
-Ioie	Ioieu
+Ioie	Ioie
 duel	duel
 a	a
 cil	cil
@@ -117,7 +116,7 @@ asenti	asenti
 mes	mes
 cuers	cuers
 pleure	pleure
-ie	Wie
+ie	je
 en	en
 chanteinisi	chanteinisi
 mont	mont

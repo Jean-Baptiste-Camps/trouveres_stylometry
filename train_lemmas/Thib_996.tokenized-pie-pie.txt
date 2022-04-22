@@ -41,7 +41,6 @@ amor
 cest
 cuer2
 cors1
-o3
 le
 ueil
 dont
@@ -75,10 +74,9 @@ droit
 où
 a3
 tort2
-où
 amor
 ferir
-fant
+fan1
 deport
 ja
 ne1
@@ -127,7 +125,7 @@ pöoir
 or4
 il
 doner
-des2
+de+le
 garder
 a3
 mon1
@@ -154,7 +152,6 @@ en2
 estre1
 par
 tesmoin
-o3
 je
 perdre
 sans
@@ -191,7 +188,7 @@ se
 ne1
 fraindre
 vers2
-le
+il
 vostre
 talent
 se
@@ -222,18 +219,17 @@ sans
 a3
 abel
 querre
-.
 a3+le
 doner
 sans
 requerre
-Gui
+je
 dame
 crïer2
 merci
 de
 ce1
-que2
+que4
 mien
 devoir
 estre1
@@ -285,7 +281,7 @@ que4
 le
 cuer2
 outre1
-sale1
+salir2
 en1
 le
 prison
@@ -294,7 +290,7 @@ où
 vos
 il
 tenir1
-dieu
+Dieu
 estre1
 ainz
 mais1
@@ -318,10 +314,10 @@ ne1
 il
 desplaire
 dame
-ne1
+ne2
 pöoir
 löer1
-vostre
+vos
 grant
 biauté
 que4

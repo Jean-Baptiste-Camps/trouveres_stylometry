@@ -1,6 +1,5 @@
 token	normalised
 he	he
-	u
 diex	diex
 tant	tant
 sunt	sunt
@@ -46,8 +45,7 @@ il	il
 mie	mie
 ainz	ainz
 sui	sui
-et	et
-iere	iere
+etiere	etiere
 a	a
 ses	ses
 ꝯmandemens	conmandemens
@@ -130,7 +128,7 @@ tuit	tuit
 cil	cil
 lor	lor
 ꝯpaignie	conpaignie
-ou	dou
+ou	ou
 il	il
 a	a
 sens	sens
@@ -142,8 +140,7 @@ cil	cil
 sunt	sunt
 de	de
 mout	mout
-fol	fol
-enᷤcient	enscient
+folenᷤcient	folenscient
 qui	qui
 pour	pour
 lor	lor
@@ -241,7 +238,7 @@ n	n
 est	est
 merueille	merveille
 se	se
-ie	ie
+ie	je
 a	a
 celi	celi
 penscune	penscune

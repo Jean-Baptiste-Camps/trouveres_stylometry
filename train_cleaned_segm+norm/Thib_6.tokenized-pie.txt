@@ -14,8 +14,7 @@ ou	ou
 dex	dex
 fu	fu
 mors	mors
-uis	buis
-	u
+uis	vis
 qui	qui
 la	la
 crois	crois
@@ -41,11 +40,9 @@ doit	doit
 querre	querre
 sa	sa
 ueniance	veniance
-	u
 deliurer	delivrer
 sa	sa
 terre	terre
-	u
 son	son
 Tuit	Tuit
 li	li
@@ -63,7 +60,7 @@ ne	ne
 pais	pais
 honor	honor
 ne	ne
-pris	pris
+pris	pris
 chascuns	chascuns
 dit	dit
 ma	ma
@@ -114,7 +111,6 @@ bacheler	bacheler
 qui	qui
 aiment	aiment
 dieu	dieu
-	u
 l	l
 ennor	ennor
 de	de
@@ -126,7 +122,6 @@ uuelent	vuelent
 a	a
 dieu	dieu
 aler	aler
-	u
 li	li
 morueux	morveux
 li	li
@@ -167,7 +162,6 @@ crois	crois
 por	por
 nos	nos
 pener	pener
-	u
 nos	nos
 dira	dira
 au	au
@@ -194,10 +188,9 @@ sont	sont
 la	la
 me	me
 uerrez	verrez
-	u
 ma	ma
 mere	mere
-marie	marieu
+marie	marie
 uos	vos
 par	par
 cui	cui
@@ -217,7 +210,6 @@ cuide	cuide
 demorer	demorer
 toz	toz
 haitiez	haitiez
-	u
 que	que
 iames	james
 ne	ne
@@ -228,7 +220,6 @@ ainsi	ainsi
 les	les
 tiẽt	tient
 anemis	anemis
-	u
 pechiez	pechiez
 que	que
 il	il
@@ -245,7 +236,7 @@ diex	diex
 ostes	ostes
 leur	leur
 tel	tel
-pensee	pensee
+pensee	pensee
 nos	nos
 metez	metez
 en	en
@@ -268,7 +259,6 @@ nos	nos
 uirge	virge
 bien	bien
 auree	avree
-	u
 puis	puis
 apres	apres
 ne	ne
