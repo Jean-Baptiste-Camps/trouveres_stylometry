@@ -48,7 +48,7 @@ NOMcom
 CONcoo
 PRE
 DETind
-CONcoo
+NOMcom
 ADVneg
 VERcjg
 VERinf
@@ -118,7 +118,7 @@ VERcjg
 VERinf
 DETpos
 NOMcom
-CONcoo
+PROper
 ADVneg
 VERcjg
 ADVneg
@@ -134,7 +134,7 @@ PROper
 VERppe
 CONcoo
 ADVgen
-DETind
+PROind
 NOMcom
 ADVneg
 PROadv

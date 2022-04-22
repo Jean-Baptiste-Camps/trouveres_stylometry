@@ -38,7 +38,7 @@ je
 ocire
 en1
 son4
-servir
+servise
 -
 tot
 estre1
@@ -48,7 +48,7 @@ devise
 mon1
 dolor
 je
-conoistre
+covenir
 plaire
 et
 servir
@@ -80,7 +80,7 @@ tel
 joie
 avoir
 conquerre
-
+o3
 qui
 ja
 ne1
@@ -91,7 +91,7 @@ requerre
 amor
 dechëoir
 et
-emprendre
+empirier
 par
 faus
 gent1
@@ -108,7 +108,7 @@ estre1
 a3
 mon1
 maniere
-il
+le
 on
 ne1
 pöoir
@@ -168,7 +168,7 @@ a3
 servir
 laissier
 emprendre
-en1+le
+il
 faire
 dusque
 a3+le
@@ -209,8 +209,8 @@ ce1
 estre1
 en1
 son4
-servir
-
+servise
+un
 jamener
 joie
 prometre
@@ -235,7 +235,7 @@ nos1
 dire
 ne1
 avoir
-Alexin
+Alexis
 mon1
 fïance
 ainz
@@ -252,20 +252,20 @@ seror
 le
 voloir
 guise
-
+o3
 tant
 que4
 amor
 il
 avoir
 esprendre2
-odoiier
+odi
 lonc
 tant
 il
 avoir
 asseoir
-gassor
+Gasous
 qui
 tant
 il

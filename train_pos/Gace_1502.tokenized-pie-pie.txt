@@ -52,7 +52,7 @@ PROper
 PROadv
 VERcjg
 NOMpro
-VERcjg
+VERinf
 ADVgen
 VERcjg
 PRE
@@ -62,7 +62,7 @@ PRE
 VERinf
 CONcoo
 PRE
-ADJqua
+VERinf
 NOMcom
 VERcjg
 NOMcom
@@ -84,7 +84,7 @@ NOMcom
 VERcjg
 VERinf
 CONcoo
-VERcjg
+NOMcom
 CONcoo
 VERcjg
 CONcoo
@@ -131,7 +131,7 @@ PROrel
 ADVneg
 VERcjg
 NOMcom
-VERppe
+NOMcom
 CONcoo
 DETind
 ADVgen
@@ -156,8 +156,7 @@ NOMcom
 VERcjg
 ADVgen
 VERppe
-PONfbl
-CONsub
+DETpos
 NOMcom
 VERcjg
 PRE

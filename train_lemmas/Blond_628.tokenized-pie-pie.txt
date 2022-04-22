@@ -23,7 +23,7 @@ vers2
 je
 qui
 tant
-laissier
+là
 amer1
 et
 bel1
@@ -33,7 +33,7 @@ coment1
 que4
 il
 prendre
-
+o3
 que4
 si
 bel1
@@ -66,7 +66,7 @@ dame
 estre1
 si
 colorer
-
+où
 poi
 il
 avoir
@@ -75,7 +75,7 @@ ne2
 ne1
 estre1
 prendre
-
+o3
 et
 qui
 a3
@@ -108,13 +108,13 @@ mais1
 se
 le
 enemi
-a3
+avoir
 boivre
 par
 amor
 et
 guerredoner
-martre
+martir
 estre1
 sans
 corone
@@ -122,7 +122,7 @@ mais1
 ne1
 savoir
 coment1
-le
+il
 trover
 cant1
 tant
@@ -153,7 +153,7 @@ quel1
 je
 i2
 conduire
-
+o3
 ainçois
 que4
 il
@@ -161,10 +161,10 @@ je
 destruire
 de
 son4
-prometre
+proiement
 estre1
 menu
-
+o3
 mais1
 ne1
 estre1

@@ -1,6 +1,6 @@
 INJ
-PONfbl
-NOMpro
+PROrel
+NOMcom
 ADVgen
 VERcjg
 ADVgen
@@ -76,7 +76,7 @@ NOMcom
 PRE
 DETpos
 NOMcom
-VERcjg
+NOMpro
 ADJqua
 ADJqua
 PRE
@@ -127,9 +127,9 @@ ADVgen
 VERcjg
 PROind
 PROdem
-PROper
+DETpos
 VERcjg
-PROper
+VERcjg
 PROper
 VERcjg
 NOMcom
@@ -213,8 +213,8 @@ DETpos
 ADJqua
 NOMcom
 PRE
+DETind
 NOMcom
-ADJqua
 NOMcom
 ADJqua
 NOMcom

@@ -34,7 +34,7 @@ si
 metre2
 en1
 nonchaloir
-
+o3
 que4
 je
 ne1
@@ -53,7 +53,7 @@ estre1
 si
 estraime
 faire
-bon
+bonir
 dame
 vos
 priier
@@ -63,7 +63,7 @@ devoir
 requerre
 par
 mentir
-
+où
 que4
 il
 ne1

@@ -37,14 +37,14 @@ ADVgen
 DETind
 NOMcom
 CONsub
-PROadv
+PROper
 VERcjg
 PROper
 ADVneg
 PROper
 PROper
 VERcjg
-VERcjg
+NOMpro
 CONsub
 PRE
 NOMcom
@@ -90,7 +90,7 @@ ADVneg
 VERcjg
 ADVsub
 PRE
-VERinf
+NOMpro
 PROper
 VERcjg
 VERinf
@@ -105,8 +105,8 @@ PROper
 PROadv
 VERcjg
 VERinf
-CONcoo
-PROper
+ADVneg
+PROadv
 VERcjg
 ADVgen
 VERinf

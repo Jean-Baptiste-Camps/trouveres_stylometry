@@ -83,7 +83,7 @@ ADVneg
 PROper
 VERcjg
 VERinf
-PONfbl
+PROrel
 CONcoo
 PRE
 NOMcom
@@ -130,7 +130,7 @@ PRE
 PROper
 VERinf
 NOMcom
-VERcjg
+INJ
 NOMcom
 PRE
 NOMcom

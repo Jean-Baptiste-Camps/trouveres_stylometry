@@ -1,7 +1,7 @@
 je
 ne1
-avoir
-prëechier
+öir
+pieç'a
 nul
 talent
 de
@@ -14,8 +14,8 @@ voloir
 metre2
 mon1
 intencïon
-avoir
-chaut
+a3
+cel
 le
 lais
 qui
@@ -62,7 +62,7 @@ chançon
 ne1
 je
 i2
-franc1
+faire
 avoir
 tel
 blasmer
@@ -74,9 +74,9 @@ löer1
 faus
 trecëor
 qui
-prometre
+priier
 sans
-raison
+raseon
 chascun
 soi1
 plaindre
@@ -85,7 +85,7 @@ tolir
 et
 de
 blorer
-que4
+que2
 amor
 avoir
 prendre
@@ -129,9 +129,9 @@ je
 faire
 mon1
 grant
-oianz
+joie
 cuidier1
-dieu
+Dieu
 se
 ne1
 savoir
@@ -141,7 +141,7 @@ il
 avoir
 je
 mais1
-avoir
+avis
 je
 estre1
 que4
@@ -181,7 +181,7 @@ baillie
 par
 mon1
 voloir
-que4
+que2
 a3
 son4
 gré2
@@ -214,7 +214,7 @@ ce1
 dont
 il
 estre1
-envois
+envïos
 et
 felon
 en1
@@ -266,7 +266,7 @@ plus
 penser
 il
 ramembrer
-
+où
 si
 je
 esmerveillier
@@ -328,7 +328,7 @@ venir
 solaz
 et
 compagnie
-
+o3
 et
 tot
 rien

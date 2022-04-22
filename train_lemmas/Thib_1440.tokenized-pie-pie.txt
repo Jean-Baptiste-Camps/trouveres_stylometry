@@ -45,15 +45,15 @@ tant
 ardre
 cant1
 le
-remire
-
+remetre
+un
 mais1
 bien1
 croire
 que4
 il
 ne1
-le
+il
 en2
 chaut
 nul
@@ -67,7 +67,7 @@ garçon
 et
 ribaut
 le
-douz
+deus
 mal1
 mener
 ainsi
@@ -82,10 +82,10 @@ ainz
 voloir
 que4
 il
-metre2
+mestir
 baut
 sans
-grillir
+Girbert
 et
 sans
 mentir
@@ -100,7 +100,7 @@ qui
 tant
 pöoir
 fuir
-
+o3
 metre2
 ne1
 estre1
@@ -124,7 +124,7 @@ crinent
 deus
 plus
 bel1
-que1
+que2
 un
 sort3
 espanois
@@ -169,7 +169,7 @@ ardre
 le
 feu
 maison
-vergi
+vigne1
 blé
 et
 poiz
@@ -182,7 +182,7 @@ ne2
 lieu
 qui
 estre1
-famelis
+famelois
 ne1
 estre1
 a3
@@ -195,7 +195,7 @@ ne1
 estre1
 de
 cel
-
+o3
 qui
 amer1
 desor
@@ -245,7 +245,7 @@ il
 vos
 dire
 öir
-
+o3
 mout
 en2
 estre1

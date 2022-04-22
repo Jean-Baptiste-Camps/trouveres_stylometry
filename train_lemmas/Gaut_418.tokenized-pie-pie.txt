@@ -45,7 +45,7 @@ laissier
 et
 se
 en2
-voloir
+vëoir
 le
 plusor
 mais1
@@ -67,7 +67,7 @@ lor2
 plaidier2
 avoir
 maint
-amer1
+amant
 destorber
 un
 dieu
@@ -97,7 +97,7 @@ chastiier
 cel
 gent1
 avoir
-poit
+petit
 ame
 qui
 soi1
@@ -114,8 +114,8 @@ ja
 tant
 ne1
 avoir
-devise
-
+deviser
+o3
 que4
 on
 devoir
@@ -138,7 +138,7 @@ cui
 ne1
 amer1
 de
-cui
+coi2
 soi1
 savoir
 aidier
@@ -151,7 +151,7 @@ siecle
 ne1
 avoir
 mestier
-et
+je
 je
 tenir1
 a3
@@ -179,7 +179,7 @@ a3+le
 come1
 mencier
 encore
-mais1
+maint
 guerredon
 demorer
 je
@@ -230,12 +230,12 @@ mon1
 peine
 emploiier
 tost1
-a3
+avoir
 amor
 le
 plus
 haut
-don
+dont
 doner
 si
 ne1
@@ -251,14 +251,14 @@ tel
 joie
 soi1
 devoir
-le
+laint
 travaillier
 a3
 vos
 il
 dire
 compagnon
-gasser
+Gasser
 bruille
 pensé
 de

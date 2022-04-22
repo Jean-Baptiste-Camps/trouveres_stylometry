@@ -1,5 +1,5 @@
-lan
-que4
+lanc
+que2
 finer
 fueille
 et
@@ -25,7 +25,7 @@ le
 gent1
 voloir
 mostrer
-
+où
 se
 mon1
 dame
@@ -58,10 +58,10 @@ voloir
 de
 je
 lasser
-que2
+quel1
 vant
 loi3
-Calé
+aler
 desarder
 seignor
 se
@@ -113,7 +113,7 @@ ost
 de
 mon1
 dolor
-
+o3
 que4
 le
 autre
@@ -153,7 +153,7 @@ cel
 qui
 tant
 servir
-
+où
 ne1
 devoir
 perdre
@@ -193,7 +193,7 @@ a3
 il
 je
 doner
-
+o3
 bien1
 je
 devoir
@@ -214,7 +214,7 @@ que4
 onque
 nos1
 ne1
-emprendre
+empirier
 se
 il
 il

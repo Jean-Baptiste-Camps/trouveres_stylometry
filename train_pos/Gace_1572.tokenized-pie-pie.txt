@@ -73,8 +73,8 @@ PROadv
 VERcjg
 NOMcom
 CONcoo
-NOMcom
-CONsub
+VERppe
+PROrel
 PROper
 ADVneg
 VERcjg
@@ -129,7 +129,7 @@ VERcjg
 ADJqua
 CONcoo
 VERppe
-PONfbl
+PROrel
 CONsub
 PROper
 ADVneg

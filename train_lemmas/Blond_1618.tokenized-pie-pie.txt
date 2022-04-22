@@ -1,6 +1,6 @@
 en1
 tot
-tant
+tens
 que4
 vente
 bis
@@ -15,8 +15,8 @@ estre1
 pas
 de
 je
-sorprendre
-
+sosprendre
+o3
 devers
 mon1
 cuer2
@@ -26,7 +26,7 @@ bis
 de
 fin2
 amor
-lait1
+là
 requerre
 qui
 cuer2
@@ -41,7 +41,7 @@ il
 ne1
 estre1
 esprendre2
-
+o3
 por2
 mon1
 grant
@@ -130,7 +130,7 @@ ome
 de
 bas
 parenté
-
+o3
 qui
 mieus
 estre1
@@ -168,7 +168,7 @@ gré2
 se
 il
 plaire
-avoir
+a3
 le
 desirrer
 que2
@@ -182,7 +182,7 @@ il
 a3
 cel
 que2
-blandon
+Blandas
 je
 tant
 avoir

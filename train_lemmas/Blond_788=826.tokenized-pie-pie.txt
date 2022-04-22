@@ -18,18 +18,18 @@ je
 ne1
 pöoir
 en1
-vos
-mercïer
+vostre
+merci
 trover
 il
 covenir
 mon1
 chançon
-emprunter
+empirier
 por2
 ce1
 le
-lais
+laissier
 que2
 joie
 je
@@ -85,7 +85,7 @@ comparer2
 vostre
 grant
 valor
-que4
+que2
 mal1
 se
 en2
@@ -97,7 +97,7 @@ et
 mon1
 grant
 meschëance
-
+o3
 avoir
 se
 de
@@ -105,7 +105,7 @@ je
 tot
 joie
 partie
-
+o3
 que4
 vivre1
 nain
@@ -125,7 +125,7 @@ amor
 pöoir
 si
 desconseillier
-come1
+conseil
 faire
 je
 qui
@@ -220,7 +220,7 @@ vie1
 ne1
 avoir
 poissance
-
+o3
 que4
 je
 destruire

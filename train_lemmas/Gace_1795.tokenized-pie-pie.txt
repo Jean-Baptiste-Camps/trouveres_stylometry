@@ -1,12 +1,12 @@
 cant1
 le
 erbe
-merveil1
+morir
 vëoir
 le
 fueille
 chëoir
-que2
+que4
 le
 vent
 faire
@@ -29,7 +29,7 @@ pöoir
 entendre
 lors
 je
-conoistre
+covenir
 a3
 amor
 mon1
@@ -58,7 +58,7 @@ pöoir
 nos1
 defendre
 fors1
-envïos
+enoios
 qui
 ne1
 en2
@@ -80,7 +80,7 @@ voloir
 son4
 joie
 atendre
-
+un
 sachier2
 por2
 voir
@@ -90,7 +90,7 @@ en2
 estre1
 menor
 bien1
-puis
+pöoir
 amer1
 mon1
 dame
@@ -166,7 +166,7 @@ grant
 joie
 avancier
 plus
-que1
+que4
 vertu
 qui
 en1
@@ -183,7 +183,7 @@ son4
 valor
 je
 vendre
-
+o3
 perdre
 je
 estre1
@@ -233,13 +233,13 @@ legier2
 veintre
 peine
 et
-ire
+aire2
 bel1
 semblant
 estre1
 sans
 escondire
-et
+il
 amer1
 le
 meillor
@@ -263,8 +263,8 @@ cel
 qui
 por2
 amor
-emprendre
-
+empire
+où
 ne1
 avoir
 en1

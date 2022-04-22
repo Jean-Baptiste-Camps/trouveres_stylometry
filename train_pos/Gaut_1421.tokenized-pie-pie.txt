@@ -15,12 +15,12 @@ ADVsub
 CONcoo
 ADVgen
 ADVneg
-DETdef
+PROper
 VERcjg
 NOMcom
 ADVgen
 VERinf
-CONsub
+PROrel
 VERcjg
 VERinf
 DETpos
@@ -136,7 +136,7 @@ ADJqua
 PRE
 PROper
 VERcjg
-ADVneg
+ADVgen
 ADVneg
 PROper
 VERcjg
@@ -151,7 +151,7 @@ NOMcom
 CONcoo
 CONcoo
 PROper
-NOMcom
+VERcjg
 CONcoo
 VERcjg
 CONcoo
@@ -176,7 +176,7 @@ ADJqua
 PRE
 NOMcom
 NOMcom
-ADVgen
+VERcjg
 ADVgen
 CONcoo
 ADVgen
@@ -217,14 +217,14 @@ CONcoo
 DETdef
 NOMcom
 ADVgen
-PONfbl
+PROrel
 ADVneg
 NOMcom
 PROadv
 VERcjg
 NOMcom
 CONcoo
-ADVgen
+PRE
 ADJqua
 PROind
 PRE
@@ -275,7 +275,7 @@ VERcjg
 ADVgen
 PROrel
 VERinf
-PONfbl
+DETndf
 VERcjg
 PROind
 DETdef
@@ -295,7 +295,7 @@ ADVneg
 VERcjg
 DETpos
 NOMcom
-PONfbl
+PROrel
 PROrel
 VERppe
 ADVneg
@@ -303,7 +303,7 @@ PROadv
 VERcjg
 PRE.DETdef
 NOMcom
-PROind
+NOMpro
 ADVneg
 VERcjg
 PRE
@@ -334,9 +334,9 @@ ADVgen
 PRE
 DETpos
 NOMcom
-PONfbl
+PROrel
 DETpos
-ADVgen
+NOMcom
 ADJqua
 ADVneg
 VERcjg

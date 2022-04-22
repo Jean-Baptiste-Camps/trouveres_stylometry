@@ -118,7 +118,7 @@ pöoir
 vëoir
 mon1
 delivrance
-et
+je
 ne1
 vëoir
 pas
@@ -135,7 +135,7 @@ departir
 ne2
 ja
 nul
-joster
+aler
 ne1
 en2
 querre
@@ -144,7 +144,7 @@ poissance
 ainz
 amer1
 ce1
-que2
+qui
 ne1
 je
 amer1
@@ -154,7 +154,7 @@ cel
 estre1
 tel
 por2
-que2
+cui
 plaindre
 et
 sospirer
@@ -175,7 +175,7 @@ que4
 dire
 rien
 qui
-le
+il
 tort2
 avoir
 grevance

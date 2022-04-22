@@ -29,7 +29,7 @@ PROper
 PROper
 VERcjg
 CONcoo
-PROdem
+DETdem
 DETpos
 NOMcom
 ADVgen
@@ -50,7 +50,7 @@ VERcjg
 PRE
 DETpos
 NOMcom
-VERppe
+NOMpro
 VERcjg
 PROper
 CONcoo
@@ -143,7 +143,7 @@ DETdef
 PROcar
 PRE
 PROper
-NOMcom
+VERcjg
 ADVgen
 ADVneg
 VERcjg
@@ -166,7 +166,7 @@ CONcoo
 CONcoo
 DETdem
 NOMcom
-PROrel
+ADVgen
 PROper
 VERcjg
 DETind
@@ -192,8 +192,8 @@ PONfrt
 CONcoo
 ADVgen
 NOMcom
-ADJqua
 VERcjg
+ADVgen
 PONfrt
 ADVgen
 VERcjg

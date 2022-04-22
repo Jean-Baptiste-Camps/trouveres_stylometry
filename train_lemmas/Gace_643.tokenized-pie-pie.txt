@@ -97,7 +97,7 @@ compagnie
 et
 sage
 entre2
-envïos
+enoios
 gent1
 qui
 de
@@ -107,7 +107,7 @@ avoir
 envie
 sans
 et
-brazté
+biauté
 en2
 il
 soi1
@@ -128,7 +128,7 @@ savoir
 mie
 que4
 je
-saint
+sentir
 grant
 amor
 ne1
@@ -148,7 +148,7 @@ morir
 et
 amer1
 que4
-ne1
+ne2
 i2
 or4
 il
@@ -168,9 +168,9 @@ je
 faire
 sovent
 sospirer
-
-que4
-enviz
+o3
+que2
+enui
 faire
 envie
 durer
@@ -182,7 +182,7 @@ nompre
 bel1
 et
 blont
-avoir
+a3
 droit
 löer1
 ja
@@ -191,7 +191,7 @@ devoir
 escouter
 faus
 gent1
-mauverser
+malëuros
 que4
 a3
 mentir
@@ -206,7 +206,7 @@ puis
 ne1
 savoir
 assener
-
+où
 là
 où
 il
@@ -225,7 +225,7 @@ mon1
 pensee
 je
 vos
-avoir
+amer1
 de
 cuer2
 sans

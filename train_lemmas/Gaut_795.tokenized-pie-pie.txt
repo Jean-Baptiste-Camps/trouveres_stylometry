@@ -14,7 +14,7 @@ savoir
 penser
 ne2
 rejehir
-
+o3
 mon1
 corage
 et
@@ -29,7 +29,7 @@ mon1
 cuer2
 je
 estovoir1
-sevrer
+sorer2
 et
 departir
 gent1
@@ -58,7 +58,7 @@ pöoir
 plorer
 et
 dementer
-
+o3
 tart
 venir
 mais1
@@ -67,12 +67,12 @@ repentir
 son4
 simple
 chiere
-rendre
+rire
 mar
 acointier
 son4
 cler
-visdre
+visfont
 et
 plaisant
 cant1
@@ -88,7 +88,7 @@ il
 avoir
 amaigros
 mon1
-se
+soi1
 en2
 dolent
 grant
@@ -106,7 +106,7 @@ esmaiier
 il
 esloignier
 de
-or4
+or1
 en1
 avant
 le
@@ -119,12 +119,12 @@ tant
 de
 cuer2
 verai
-poit
+petit
 dormir
 et
 bien1
 voillier1
-desormer
+desorer
 je
 i2
 trover
@@ -172,11 +172,11 @@ pechié
 cant1
 si
 laissier
-engroigne
+engignier1
 et
 de
 conroi
-
+o3
 je
 avoir
 poi
@@ -185,7 +185,7 @@ or4
 je
 en2
 plaindre
-gré2
+je
 trop
 mon1
 chargier
@@ -196,7 +196,7 @@ porter
 porchacier
 et
 atirier
-
+o3
 que4
 en1
 sospirer
@@ -241,7 +241,7 @@ ce1
 je
 estre1
 vif
-que2
+que4
 deservir
 ne1
 en2
@@ -267,7 +267,7 @@ le
 berruiier
 et
 en1
-Syrie
+suire2
 je
 en2
 aler
@@ -310,7 +310,7 @@ mout
 mon1
 grene
 et
-emprendre
+empirier
 savoir
 endurer
 mout
@@ -334,7 +334,7 @@ savoir
 de
 voir
 tot
-mon1
+mi2
 torment
 en1
 lëauté
@@ -344,8 +344,8 @@ estre1
 avoir
 conqueste
 si
-porpentement
-umblite
+povrement
+umelité
 i2
 avoir
 trover
@@ -364,4 +364,4 @@ estre1
 qui
 lor2
 merite
-ataindre
+atendre
