@@ -1,0 +1,15 @@
+cff-version: 1.1.0
+message: "If you use this code, please cite it as below."
+authors:
+  - family-names: Camps
+    given-names: Jean-Baptiste
+    orcid: https://orcid.org/0000-0000-0000-0000
+  - family-names: Chaillou-Amadieu
+    given-names: Christelle
+  - family-names: Mariotti
+    given-names: Viola
+  - family-names: Saviotti
+    given-names: Federico
+title: Jean-Baptiste-Camps/trouveres_stylometry: DH 2022 Abstract pre-conference release
+version: v0.1
+date-released: 2022-04-27
